@@ -16,11 +16,14 @@ The whole job runs in **one continuous Claude chat**. Never start a new chat par
 Before any script work, confirm with the user:
 
 1. **Title** — exact video title.
-2. **Channel** — Main / Business / Extended (or "this user's equivalent"). See `reference/narratives-and-channels.md` for personas.
-3. **Brief format** — just a title? title + bullets? title + meeting transcript? Get the brief.
-4. **Campaign context** — is this a warm-up video, a lead-capture-period video, an evergreen, an event nurture? What's the campaign objective? What action should the viewer take by the end?
-5. **Narratives** — which of attention / validation / democratization / timing need to be subtly instilled? (Mostly Main-channel concern. Extended still reinforces unique-mechanism narratives subtly. Business is light-touch.)
-6. **Unique mechanism + contributor** — the core mechanism + the enabler that makes it accessible. (Iman example: Digital Products 2.0 + Specialised AI tools.)
+2. **Channel architecture** — single, dual, or multi-channel? If dual, is this video for **Channel 1 (broad/growth)** or **Channel 2 (narrow/buyer-intent)**? See `reference/channel-strategy.md` for the dual-channel decision tree (Ed Lawrence framework + eligibility check).
+3. **Channel persona** — Main / Business / Extended (or this user's equivalent). See `reference/narratives-and-channels.md`.
+4. **If Channel 2:** which Channel 2 strategy? Strategy 1 (Beginner→Advanced / Iman) · Strategy 2 (Fan content / Saraev) · Strategy 3 (News+Commentary / Patel+Siu) · Strategy 4 (Clipping+Q&A / Hormozi). Most operators ship 1+2.
+5. **ICP qualifier** — for buyer-intent content, the title MUST contain or strongly imply a specific ICP (e.g. "for coaches doing $100k+/mo"). Lock the qualifier before drafting the title.
+6. **Brief format** — just a title? title + bullets? title + meeting transcript? Get the brief.
+7. **Campaign context** — is this a warm-up video, a lead-capture-period video, an evergreen, an event nurture? What's the campaign objective? What action should the viewer take by the end?
+8. **Narratives** — which of attention / validation / democratization / timing need to be subtly instilled? Channel 1 leans attention + democratization; Channel 2 leans validation heavily.
+9. **Unique mechanism + contributor** — the core mechanism + the enabler that makes it accessible.
 
 If any of this is missing → ask before continuing. Don't invent a campaign objective.
 
@@ -269,11 +272,12 @@ Now (and only now) decide if the script is too long. **Trim manually.** Remove s
 ## Reference files
 
 - [`reference/context-prompt.md`](reference/context-prompt.md) — the exact opening prompt template
+- [`reference/channel-strategy.md`](reference/channel-strategy.md) — single / dual / multi-channel framework (Ed Lawrence + Iman). Decision tree before scripting.
 - [`reference/narratives-and-channels.md`](reference/narratives-and-channels.md) — 3 channels + 4 narratives explained
-- [`reference/copywriting-structures.md`](reference/copywriting-structures.md) — both intro structures, packaging loops, Value Loop
+- [`reference/copywriting-structures.md`](reference/copywriting-structures.md) — intro structures (incl. Boring Intro System), packaging loops, Value Loop
 - [`reference/word-tracks.md`](reference/word-tracks.md) — Kyle's exact correction prompts (peeling onion, anti-AI-jargon, etc.)
 - [`reference/banned-ai-language.md`](reference/banned-ai-language.md) — the comprehensive banned-words list
-- [`reference/quality-checklist.md`](reference/quality-checklist.md) — final gate before finalising
+- [`reference/quality-checklist.md`](reference/quality-checklist.md) — final gate before finalising (incl. per-video tracking discipline)
 
 ---
 
