@@ -4,6 +4,19 @@ Run every script through this gate before treating it as done. If any of the sev
 
 ---
 
+## Pre-flight: PACKAGING WORKFLOW check (BEFORE title, not after)
+
+Before drafting anything else, the full packaging order from `reference/packaging-workflow.md` must be completed:
+
+- [ ] **Step 1 — Target viewer:** specific constraint, not demographic ("someone who tried X and hated it" not "business owners")
+- [ ] **Step 2 — Pain/promise:** pain derivable from video's opening line; promise has concrete transformation + timeframe + what's preserved
+- [ ] **Step 3 — Title:** picked from formula bank, ICP-tight, <70 chars, Title Case for YouTube
+- [ ] **Step 4 — Thumbnail concept:** tangible proof element (chart / dashboard / screenshot), face + emotion match, max 3 elements, readable in <1 second on mobile
+
+If any step is skipped or fails → don't proceed. Packaging order is non-negotiable. Skipping it = packaging fails downstream.
+
+---
+
 ## Pre-flight: Title formula check (BEFORE scripting starts, not after)
 
 Before any section is drafted:

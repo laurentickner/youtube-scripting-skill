@@ -87,7 +87,13 @@ Before any script work, confirm with the user:
 3. **Channel persona** — Main / Business / Extended (or this user's equivalent). See `reference/narratives-and-channels.md`.
 4. **If Channel 2:** which Channel 2 strategy? Strategy 1 (Beginner→Advanced / Iman) · Strategy 2 (Fan content / Saraev) · Strategy 3 (News+Commentary / Patel+Siu) · Strategy 4 (Clipping+Q&A / Hormozi). Most operators ship 1+2.
 5. **ICP qualifier** — for buyer-intent content, the title MUST contain or strongly imply a specific ICP (e.g. "for coaches doing $100k+/mo"). Lock the qualifier before drafting the title.
-6. **Title — pick from the verified formula bank.** See `reference/title-formulas.md`. Channel 1 → B1-B5. Channel 2 → N1-N6. **Do NOT invent titles.** Pick a formula, fill placeholders with the user's actual data (real numbers, named clients, named tool), check against char cap (<70) + anti-formula list. Always cite which formula + which exemplar outlier proves it. If no formula fits, tell the user — don't guess.
+6. **Packaging workflow — Target → Pain → Title → Thumbnail (in that order).** See `reference/packaging-workflow.md`. **Required STEP before any title work.** Cannot pick a title until target viewer + pain/promise are locked. Cannot pick a thumbnail concept until title is locked. The order is non-negotiable. Skipping any step = packaging fails downstream.
+
+7. **Title — pick from the verified formula bank.** See `reference/title-formulas.md`. Channel 1 → B1-B10. Channel 2 → N1-N6. **Do NOT invent titles.** Pick a formula, fill placeholders with the user's actual data (real numbers, named clients, named tool), check against char cap (<70) + anti-formula list. Always cite which formula + which exemplar outlier proves it. If no formula fits, tell the user — don't guess.
+
+8. **Thumbnail concept — pick from the verified concept catalog.** See `reference/thumbnail-design.md`. Show tangible proof (chart / dashboard / screenshot). Max 3 elements. Face + emotion match. <1 second mobile-readable. Do NOT use AI-generated thumbnails or logo stacks.
+
+9. **A/B test plan.** See `reference/ab-testing-protocol.md`. New uploads = hourly testing via thumbnailtest.com (4-5 variations + original). Track CTR × AVD, not just CTR.
 7. **Brief format** — just a title? title + bullets? title + meeting transcript? Get the brief.
 8. **Campaign context** — is this a warm-up video, a lead-capture-period video, an evergreen, an event nurture? What's the campaign objective? What action should the viewer take by the end?
 8. **Narratives** — which of attention / validation / democratization / timing need to be subtly instilled? Channel 1 leans attention + democratization; Channel 2 leans validation heavily.
@@ -341,7 +347,10 @@ Now (and only now) decide if the script is too long. **Trim manually.** Remove s
 
 - [`reference/context-prompt.md`](reference/context-prompt.md) — the exact opening prompt template
 - [`reference/channel-strategy.md`](reference/channel-strategy.md) — single / dual / multi-channel framework (Ed Lawrence + Iman). Decision tree before scripting.
-- [`reference/title-formulas.md`](reference/title-formulas.md) — verified outlier title formula bank. **Pick from here. Don't invent.** B1-B5 (broad/Channel 1) + N1-N6 (narrow/Channel 2) + anti-formulas to never use.
+- [`reference/packaging-workflow.md`](reference/packaging-workflow.md) — Target → Pain → Title → Thumbnail order. **Required STEP before drafting any title.** Includes Mr Beast principle + 1-in-10 outlier rule + redirect-at-end rule.
+- [`reference/title-formulas.md`](reference/title-formulas.md) — verified outlier title formula bank. **Pick from here. Don't invent.** B1-B10 (broad/Channel 1) + N1-N6 (narrow/Channel 2) + parenthetical qualifiers + anti-formulas.
+- [`reference/thumbnail-design.md`](reference/thumbnail-design.md) — thumbnail principles + concepts catalog + 13 design principles + Iman A/B test breakdowns + per-channel style locks.
+- [`reference/ab-testing-protocol.md`](reference/ab-testing-protocol.md) — thumbnailtest.com (NOT TubeBuddy) + CTR×AVD metric + first-24h diagnostic + iteration cadence.
 - [`reference/narratives-and-channels.md`](reference/narratives-and-channels.md) — 3 channels + 4 narratives explained
 - [`reference/copywriting-structures.md`](reference/copywriting-structures.md) — intro structures (incl. Boring Intro System), packaging loops, Value Loop
 - [`reference/word-tracks.md`](reference/word-tracks.md) — Kyle's exact correction prompts (peeling onion, anti-AI-jargon, etc.)

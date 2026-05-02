@@ -119,6 +119,61 @@ Fill-in examples:
 - *"you're not behind (yet): how to run an AI content engine in 30 min/week"*
 - *"you're not behind: how to replace your marketing team in 1 weekend"*
 
+### B8 — Curiosity Open Loop (consultant framework)
+```
+This [unexpected element] Changed [common process / belief]
+This [tool/system/move] Changed How I [outcome]
+```
+Examples:
+- *"This One ChatGPT Prompt Changed How I Write Content"*
+- *"This Boring AI System Changed How Coaches Sell"*
+
+When to use: contrarian / surprise framing. Pairs well with thumbnails showing the unexpected element.
+
+### B9 — Negative Hook (consultant framework, especially powerful)
+```
+This Will Ruin Your [thing]
+You're Doing [thing] Wrong
+Stop [common move]
+Why Your [thing] Doesn't Work
+```
+Examples:
+- *"You're Left Behind: Here's How to Use AI in 2026 (5 Tips)"* (consultant rewrite of Lauren's reassurance video — replaces B7 with negative-hook urgency)
+- *"Why Your ChatGPT Posts Flop (Copy Me)"*
+- *"Stop Posting AI Slop"*
+
+When to use: when reassurance kills urgency (consultant's specific feedback on B7 — *"You're Not Behind (Yet)"* tested low because it removed click motivation). Negative hook adds urgency the reassurance pattern strips.
+
+**B9 vs B7 tension:** Martell's B7 5x'd at 2.7M-sub channel scale. But the consultant's experience says reassurance kills urgency more often than not. Default to B9 unless reassurance is genuinely the unique angle for the topic.
+
+### B10 — Free-asset giveaway (consultant framework — pulls clicks + lifts conversion)
+```
+[How to outcome] (FREE [Asset name] in description)
+I Built a [Tool] That [Does X] (You Can Steal It)
+[Outcome] in [Time] — Free [Asset] Below
+```
+Examples:
+- *"I Built a Claude Agent That Designs Presentations Automatically (Steal It)"*
+- *"How To Get ChatGPT To Write Like You — Free AI Clone Prompt Below"*
+
+When to use: when Lauren has a specific giveaway (prompt / agent / template / playbook). The mention in title pulls clicks AND lifts conversion to email (lead magnet downloaded).
+
+### Universal: Parenthetical qualifiers WIN
+
+These verified-effective parenthetical formats lift CTR significantly. Add to any formula above where it fits:
+
+| Pattern | When |
+|---|---|
+| `(in under [N] minutes)` | when video has time-bound delivery |
+| `(X Days Content in 50 Min)` | when output volume is impressive |
+| `(Copy Me)` / `(Just Copy Me)` | when permission verb adds clickability |
+| `(AI CLONE)` / `(NAMED MECHANISM)` | when there's a memorable concept name |
+| `(Full Course)` / `(Full Guide)` / `(Deep Dive)` | when video is flagship/comprehensive |
+| `(Step by Step)` | when video is operational tutorial |
+| `(2026)` / `(in 2026)` | when content is time-sensitive |
+
+Multi-stack parentheticals are OK if natural: *"How To Get ChatGPT To Write Like YOU (X Posts In 50 Min) (Copy Me)"*. Don't force.
+
 ### B5 — How-to with barrier-bypass (Digital Tejbhan formula)
 ```
 How to [outcome] Without [biggest-barrier] in [year]
