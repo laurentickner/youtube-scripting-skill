@@ -1,0 +1,248 @@
+# Title Formulas — Verified Outlier Bank
+
+**This is the title-pick reference. Do NOT invent titles. Pick a formula from this file or rebuild from a new verified outlier.**
+
+Every formula below is extracted from a real video that hit 3x+ its channel's baseline. Each row gives the pattern + the exemplar outlier that proves it + the channel size where it worked + the channel-bucket (broad vs narrow) where it applies.
+
+Formulas without verified exemplars are NOT in this file. If you find yourself wanting to write a title that doesn't match any formula here, you have two options: (1) pick the closest formula and adapt, or (2) tell the user you've found no verified pattern and ask them to confirm a new one before drafting.
+
+---
+
+## Universal title rules (apply BEFORE picking a formula)
+
+| Rule | Threshold |
+|---|---|
+| **Char count** | Under 70 chars. YouTube caps at 100 but mobile truncates ~70. |
+| **One promise per title** | Don't stack two outcomes. Pick the strongest. |
+| **Named tool > generic "AI"** | "Claude" / "ChatGPT" / "n8n" / "Cowork" beats "AI." Tools have search waves. |
+| **Specific number > round number** | "$36,438" beats "$36k". Odd specificity = credibility. |
+| **Brand voice respected** | Lauren's voice = all lowercase, brand names cased (Claude, Foundr, ChatGPT). "ONE" caps for emphasis is allowed. |
+| **No emojis in title** | Thumbnail does the visual work. |
+
+If a draft title fails any of these, rewrite before checking the formula bank.
+
+---
+
+## CHANNEL 1 (broad / growth) formulas
+
+Use for: views-optimised content, top-of-funnel, AI-tool tutorials, online-business / make-money-online niche, social-media-growth content.
+
+### B1 — Personal-result with permission verb (Kellan formula)
+```
+how i [made/built/grew] [$specific-number / specific-result] [doing X] (using [tool])
+```
+Exemplar: *"how i make $36,438/mo posting YouTube Shorts (using AI)"* — Kellan Henneberry (52k subs) → 834k views, ~17x outlier.
+
+When to use: personal-story Channel 1 hero videos. Lauren's lowercase voice fits perfectly.
+
+Fill-in examples:
+- *"how i made $84,512/mo running my linkedin with claude (just copy me)"*
+- *"how i built a content engine that posts 30 times a week (using claude skills)"*
+
+Anti-pattern (looks like B1, isn't): *"How I Made $X With AI"* without specific number or named tool. Rejected — too vague to be credible.
+
+---
+
+### B2 — Tool-led "Build Your First X in N Minutes" (Grace Leung formula)
+```
+[Tool name]: Build Your First [aspirational thing] in [N] Minutes
+```
+Exemplar: *"Claude Skills: Build Your First AI Marketing Team in 16 Minutes"* — Grace Leung (136k subs) → 170k views, ~3-4x.
+
+When to use: tool-launch-tied tutorial content. Time anchor + tool name + concrete output.
+
+Fill-in examples:
+- *"Claude Skills: Build Your First Content Engine in 12 Minutes"*
+- *"Claude Cowork: Build Your First Sales Pipeline in 25 Minutes"*
+
+---
+
+### B3 — Zero-to-output with barrier-removal (Futurepedia formula)
+```
+From Zero to [first-outcome] in [time] (No [barrier])
+```
+Exemplar: *"From Zero to Your First AI Agent in 25 Minutes (No Coding)"* — Futurepedia (696k subs) → 3.59M views, ~10x.
+
+When to use: beginner-friendly tutorials where the audience expects friction (coding, design, expense). Parenthetical removes friction.
+
+Fill-in examples:
+- *"From Zero to Your First AI Marketing Team in 30 Minutes (No Coding)"*
+- *"From Zero to a $1k DM Funnel in 45 Minutes (No Sales Calls)"*
+
+---
+
+### B4 — Conditional rebuild (Iman formula)
+```
+If I [Wanted/Had To] [outcome] [from scratch / in 2026], This Is What I'd Do
+```
+Exemplar: *"If I Wanted To Make $1,000,000 in 2025, This Is What I'd Do [5-STEP BLUEPRINT]"* — Iman Gadzhi (5.86M subs) → ~1-2M views, sustained outlier.
+
+When to use: oracle-positioning videos. Year-anchor variant works for Q1.
+
+Fill-in examples:
+- *"if i wanted to scale a coaching business to $1m in 2026 from scratch, this is what i'd do"*
+- *"if i had to rebuild my marketing system from scratch using only claude, this is what i'd do"*
+
+---
+
+### B5 — How-to with barrier-bypass (Digital Tejbhan formula)
+```
+How to [outcome] Without [biggest-barrier] in [year]
+```
+Exemplar: *"How to Build Apps Using AI Tools Without Coding in 2026"* — Digital Tejbhan (33k subs) → 402k views, ~30-40x outlier.
+
+When to use: capability-gating content. Strongest at small channel sizes — proven to work at 33k subs.
+
+Fill-in examples:
+- *"How to Run a $1M Coaching Business Without a Marketing Team in 2026"*
+- *"How to Build a Content Engine Without an Editor in 2026"*
+
+---
+
+## CHANNEL 2 (narrow / buyer-intent) formulas
+
+Use for: operator content, buyer conversion, named-client case studies, advanced-stage how-it-works content for $100k–$1M ICP.
+
+The Saraev formula confirmed across Cole Gordon, Tom Youngs, Ryan Clogg: **dollar floor + ICP + mechanism + verb-sell**. All five formulas below are variants of this core pattern.
+
+### N1 — Built-for-client with exact result (Lauren's Foundr formula)
+```
+How I built [specific tool/system] for [specific client] — [exact $ result]
+```
+Exemplar (operator-tier confirmed): Saraev "Live $2500 AI Automation I Built For a Client (Step by Step)" pattern + Lauren's Foundr case fits this exactly.
+
+When to use: case-study videos. Most powerful Channel 2 formula because it externalises the result onto a named client.
+
+Fill-in examples:
+- *"how i built a Claude DM engine for Foundr — added $100k/mo"*
+- *"how i built a marketing operating system for a $1m+ coach — replaced their $25k/mo team"*
+
+---
+
+### N2 — "Boring" sellable system (Saraev formula)
+```
+"Boring" [tool/system] you can sell for $[floor]+ each in [year]
+```
+Exemplar: *""Boring" AI Automations To Sell For $1.5k+ Each In 2025"* — Nick Saraev (~400k subs) → 250k views, 4x outlier.
+
+When to use: tutorial-meets-business-model content. The "boring" frame is contrarian gold — implies you don't need flashy tactics, just the system.
+
+Fill-in examples:
+- *""Boring" AI clones operators are selling to coaches for $5k+ each in 2026"*
+- *""Boring" content systems coaches are paying $2k+/mo for in 2026"*
+
+---
+
+### N3 — How-ONE-asset (Foundr-style breakdown)
+```
+How ONE [asset] made [name/role] $[exact figure] [(breakdown)]
+```
+Exemplar: *"how ONE ad made Charlie Morgan $600,000 [breakdown]"* — Charlie Morgan (~300k subs) → est 200k+, 2-3x.
+
+When to use: single-mechanism reveal videos. The "ONE" caps + named figure + dollar floor + breakdown tag is the highest-CTR pattern in the operator space.
+
+Fill-in examples:
+- *"how ONE Claude system made Foundr $100k/mo"* ⭐ Lauren's marketing-team title
+- *"how ONE webinar made this $1M coach $340k in 30 days"*
+- *"how ONE script made my $25k marketing team obsolete (foundr +$100k/mo)"*
+
+---
+
+### N4 — Numbered systems for ICP (Liam Ottley formula)
+```
+[N] [systems/automations/plays] to scale [specific ICP] past $[milestone]
+```
+Exemplar: *"Your Business Won't Survive 2025 Without These 11 AI Systems"* — Liam Ottley (~700k subs) → est 500k+, 2-3x.
+
+When to use: framework-content videos that lay out a multi-component playbook. Strong for Strategy 1 deep-dives.
+
+Fill-in examples:
+- *"5 Claude systems coaches use to scale past $200k/mo (no team)"*
+- *"7 systems to scale a coaching business past $1m without hiring marketing"*
+
+---
+
+### N5 — Confession + replacement (Ed Lawrence formula)
+```
+Why I shut down my $[X]/[period] [business model] (and what replaced it)
+```
+Exemplar: pattern across Ed Lawrence's pivot videos + Iman's *"Why I Shut Down My 7-Figure Agency"*.
+
+When to use: counter-positioning origin reveals. Sells the *next* business model. Best as Channel 2 fan-content (Strategy 2) entry.
+
+Fill-in examples:
+- *"why i shut down my $25k/mo marketing team (and what replaced it)"*
+- *"why i stopped selling 1:1 coaching at $30k (and what replaced it)"*
+
+---
+
+### N6 — Counter-intuitive ICP move (Ryan Clogg formula)
+```
+Stop [conventional move]. The $[exact] [lesson/cost/reveal].
+```
+Exemplar: *"Stop Targeting Beginners? The $600K Lesson"* — Ryan Clogg (~10-30k subs) → strong recent outlier.
+
+When to use: opinion-led / contrarian operator videos. Pairs identity-pivot with dollar-anchored proof.
+
+Fill-in examples:
+- *"Stop hiring marketers. The $300k lesson."*
+- *"Stop building funnels. The $1m coaching reveal."*
+
+---
+
+## Anti-formulas — DO NOT USE
+
+These look like outliers but actually pull wrong audience or aren't validated. Verified failures from the research:
+
+| ❌ Pattern | Why | What it pulls |
+|---|---|---|
+| *"21 AI Tools That Will Make You Rich"* | Saturated. At 40k subs you can't compete on production volume. | Tourist clickers, no buyers. |
+| *"Make Money With AI"* (generic, no number) | Iman / Mark Tilbury / Jordan Welch own that lane. Channel-strength wins, not packaging. | Hustlers, wrong-ICP. |
+| *"AI Side Hustle 2026"* without dollar proof | Without screenshot/dashboard artifact, looks like 1000 spam thumbnails. | Wrong-tier clickers. |
+| *"I Replaced My [Team] With AI"* alone (no $/ICP/timeline) | Pattern beaten to death across 2025 by automation creators. Without qualifier, pulls curiosity-clickers. | Tourists, not operators. |
+| *"I Gave [AI] One Job"* anthropomorphized | Greg Isenberg's OpenClaw video underperformed at 49k vs his 500k subs (0.5x). Reads as novelty. | Entertainment-seekers. |
+| *"How I Made $X With ChatGPT in N Days"* | Make-money-online lane. Operators don't believe these; broad audiences do. | Hustlers, not buyers. |
+| Numerical-flex + "just copy me" guru tone | Sara Finance's titles work for HER tone but reposition Lauren as guru, not operator. | Wrong-tier audience. |
+| Lifestyle wealth-porn (*"$762K on cars in 24 hours"*) | Iman's main-channel content. Wrong genre for Lauren entirely. | Voyeurs. |
+
+---
+
+## Workflow: how to pick a title (gated)
+
+Before drafting any title:
+
+1. **Confirm channel** — Channel 1 (broad) or Channel 2 (narrow)?
+2. **Confirm video type** — case-study / tutorial / framework / opinion / origin / replacement?
+3. **Pick the formula bucket** — B1-B5 for Channel 1, N1-N6 for Channel 2.
+4. **Pick ONE formula** (not multiple — don't hybrid-stack).
+5. **Fill the placeholders with the user's actual data** (real numbers, real client names, real tool, real ICP).
+6. **Check char count** (<70).
+7. **Check anti-formulas list** — no pattern matches?
+8. **Pattern-match the result against the exemplar outlier** — does the structure match? If not, rebuild.
+9. **Show the user the final title + which formula was applied + which exemplar proves the formula.** Never present a title without the formula citation.
+
+If no formula fits:
+- DO NOT invent. Tell the user what you tried and why none fit.
+- Ask if they want to add a new verified outlier to the bank, or pick the closest existing formula.
+
+---
+
+## Maintenance
+
+When new outliers are verified (3x+ above channel baseline, last 6-12 months, channel size 10k-1M):
+
+1. Add the formula as a new B/N entry with the exemplar.
+2. Note the channel size where it worked.
+3. Note any anti-pattern adjacent to it (looks like the formula, doesn't work).
+4. If a formula in this file is contradicted by new data — flag and revisit, don't quietly drop.
+
+The bank stays current only if maintained. Lauren's research scans should re-run quarterly.
+
+---
+
+## Lock for Lauren's setup (2026-05-02)
+
+- **Channel 1 default formulas:** B1 (Kellan), B2 (Grace), B4 (Iman conditional). Use for AI-tutorial / make-money-online content.
+- **Channel 2 default formulas:** N1 (Built-for-client), N3 (How ONE), N6 (Counter-intuitive). Use for operator/buyer content.
+- **Marketing-team launch video title:** N3 — *"how ONE Claude system made Foundr $100k/mo"* — locked.
+- **The "$25k/mo team replacement" intel goes into thumbnail + intro line 1, NOT title.**

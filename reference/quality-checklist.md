@@ -4,6 +4,22 @@ Run every script through this gate before treating it as done. If any of the sev
 
 ---
 
+## Pre-flight: Title formula check (BEFORE scripting starts, not after)
+
+Before any section is drafted:
+
+- [ ] Title is picked from `reference/title-formulas.md` — not invented
+- [ ] Which formula? **B__ / N__** (cite the exact formula ID)
+- [ ] Which exemplar outlier proves it? (cite from the file)
+- [ ] Title is under 70 chars
+- [ ] Title does not match any anti-formula in `title-formulas.md`
+- [ ] Title contains: named tool ✅, dollar floor or named result ✅, ICP qualifier (if Channel 2) ✅
+- [ ] Brand voice respected (lowercase except brand names + intentional CAPS)
+
+**If any check fails → rewrite the title before drafting any sections.** Title shapes the whole script — fixing it after is a full rewrite.
+
+---
+
 ## The 7 questions
 
 ### 1. Does this script create an irreversible identity transformation?
