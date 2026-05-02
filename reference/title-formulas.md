@@ -85,6 +85,40 @@ Fill-in examples:
 
 ---
 
+### B6 — Hours-stamped FULL COURSE (Saraev / Tom Youngs formula) ⭐ DOMINANT 90-day pattern
+```
+[TOOL/SKILL NAME] FULL COURSE [N] HOURS: [Verb-Promise] ([year])
+```
+or
+```
+How To Build A $[X]+/m [thing] (Full Course)
+```
+Exemplar 1: *"CLAUDE CODE FULL COURSE 4 HOURS: Build & Sell (2026)"* — Nick Saraev (407k subs) → 1.53M views, **9.8x outlier** (Feb 12, 2026).
+
+Exemplar 2: *"How To Build A $20k+/m Coaching Or Consulting Offer (Full Course)"* — Tom Youngs (30k subs) → 8.5k views, **3.7x outlier** (Feb 28, 2026).
+
+When to use: flagship-status mega-content. Works at BOTH narrow + broad channel sizes. The hours-stamp signals depth + authoritative-positioning. Most replicable recent pattern (2 of 4 verified Q1 2026 outliers).
+
+Fill-in examples (Lauren):
+- *"CLAUDE CONTENT ENGINE FULL COURSE 3 HOURS: Build & Sell (2026)"* (Channel 1)
+- *"How To Build A $100k+/mo Marketing Operating System For Coaches (Full Course)"* (Channel 2)
+
+### B7 — Reassurance + low-time mastery (Martell formula) ⭐ Sleeper, just 5x'd 2.7M channel
+```
+You're not behind (yet): How to [verb] [thing] in [low-time]
+```
+or
+```
+[Reassurance hook]: How to [verb] [tool/skill] in [N] minutes
+```
+Exemplar: *"You're not behind (yet): How to learn AI in 18 minutes"* — Dan Martell (2.67M subs) → 1.53M views, **5.0x outlier** (Mar 5, 2026).
+
+When to use: defensive positioning content. Reassurance hook disarms "I'm too late" anxiety + low-time anchor makes the promise feel achievable. **Brand-new pattern verified Mar 2026 — only Martell has tested it at scale.** First-mover opportunity for Lauren.
+
+Fill-in examples:
+- *"you're not behind (yet): how to run an AI content engine in 30 min/week"*
+- *"you're not behind: how to replace your marketing team in 1 weekend"*
+
 ### B5 — How-to with barrier-bypass (Digital Tejbhan formula)
 ```
 How to [outcome] Without [biggest-barrier] in [year]

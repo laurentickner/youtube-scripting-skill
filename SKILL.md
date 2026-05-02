@@ -11,6 +11,36 @@ The whole job runs in **one continuous Claude chat**. Never start a new chat par
 
 ---
 
+## 🛑 STEP 0 — USE THE DAMN SKILL (read this BEFORE you do anything else)
+
+The single biggest failure mode is Claude pattern-matching off training data instead of reading this file's reference docs. Every time Claude has produced a bad output for this skill, it's because Claude generated from instinct instead of opening the reference file the skill points to.
+
+**Before drafting ANY section, you MUST do these three things in order:**
+
+1. **Open the reference file the section points to** (Read tool — actually open it, don't pretend).
+2. **Restate the rule / formula / structure you're applying** — quote the file, cite the formula ID, cite the exemplar outlier.
+3. **Show your audit table** before delivering output — list each rule, mark pass/fail, fix any fails before sending.
+
+**If you find yourself thinking "I remember this — I can draft from memory," STOP. That's the failure mode. Re-open the file.**
+
+### Failure-pattern catalogue (do not repeat these)
+
+These are the real failures Claude has made on this skill. Pattern-match against them every section:
+
+| ❌ Failure | What happened | What should have happened |
+|---|---|---|
+| **Inventing titles** | Claude drafted titles based on the intro's dissonance pair without reading `title-formulas.md`. Result: titles that didn't match any verified formula. | Read `title-formulas.md` first. Pick formula ID. Cite exemplar. Then draft. |
+| **Skipping the audit** | Claude delivered a "locked" intro without showing the rule-by-rule compliance check. User caught the rule violation Claude would have caught with the audit. | Audit table visible BEFORE delivery, not after pushback. |
+| **Bargaining with rules** | "8 second cap is borderline, but operators are patient — let's keep it at 10s." | Re-write to comply. Borderline = rewrite. Always. |
+| **Stacking conflicting structures** | Claude tried to honour Hook→Break Belief→X-to-X→Credibility (4 beats) AND Boring Intro System (3 sentences) by giving each beat a paragraph. Result: 14-line intro at 60+ seconds. | Compress 4 beats into 3 sentences. Lyme canonical pattern. R-C. |
+| **Skipping file reads on follow-up sections** | Once Claude has drafted the intro, it gets momentum and stops re-reading reference files for packaging / body / outro. | Re-read the relevant reference file at the start of EACH section. No exceptions. |
+| **Ignoring "Lock for Lauren's setup" sections** | Claude drafted from formulas without checking whether the specific video already has a locked title / packaging / format pre-decided in the reference file. | Search reference files for any "Lock for [user]'s setup" sections. They override formula-bank picks. |
+| **Single hook delivery** | Claude delivered one hook sentence and forced iteration via pushback. Wastes cycles. | Always export 2 hook variants from different hook types. User picks. |
+
+If you catch yourself doing any of these mid-draft → stop, re-read the file, restart that section. **Do not deliver the bad draft and rationalise.**
+
+---
+
 ## ⚠️ THREE LOAD-BEARING RULES (read before every section)
 
 Failing these is the #1 cause of skill failure. They override your instinct to look reasonable.
@@ -18,11 +48,33 @@ Failing these is the #1 cause of skill failure. They override your instinct to l
 ### R-A — Self-audit before delivery
 Before delivering ANY section to the user, restate the rules that apply to that section, audit your draft against each one, and report compliance in a table. **No section ships without the audit shown.** If you skip the audit, you will hand-wave a rule violation and the user will catch it before you do.
 
+**Mandatory audit-table format:**
+
+```
+| Rule (cite source file + line/section) | Draft check | Pass/Fail |
+|---|---|---|
+| [exact rule text from the reference file] | [how the draft satisfies / violates] | ✅ / ❌ |
+```
+
+If any row is ❌, **rewrite before delivering.** Don't deliver with caveats.
+
 ### R-B — Default to compliance, not exception
 If a rule is borderline (e.g. "intro is 9s but rule says 8s"), **rewrite to comply**. Do NOT rationalise an exception with "the audience is patient" / "this is operator-tier" / "borderline is fine." Every exception you talk yourself into is a rule failure.
 
 ### R-C — When two rules collide, find the compression that honours both
 The most common collision: Structure 2 (Hook → Break Belief → X-to-X → Credibility, 4 beats) vs Boring Intro System (3 sentences total). The wrong move is to give each beat a paragraph and break the 3-sentence rule. The right move is to compress 4 beats into 3 sentences (the Lyme canonical pattern in `reference/copywriting-structures.md`). When in doubt: stricter rule wins.
+
+### R-D — Read the reference file at the start of every section transition
+Every time you transition from one section (intro / packaging / body point / outro) to the next, your first action is to **open the relevant reference file with the Read tool** and quote the rules that apply. Not "recall from earlier." Read the file. Even if you read it 5 minutes ago.
+
+The mapping:
+- **Title** → `reference/title-formulas.md` (formulas + Lock-for-user section)
+- **Intro** → `reference/copywriting-structures.md` (Boring Intro System + canonical pattern)
+- **Packaging** → `reference/copywriting-structures.md` (Packaging section + open/close loops)
+- **Body Points** → `reference/copywriting-structures.md` (Value Loop section)
+- **Outro** → `reference/copywriting-structures.md` (Outro section)
+- **Voice** → `reference/banned-ai-language.md` + user's voice rules
+- **Quality** → `reference/quality-checklist.md`
 
 ---
 
@@ -37,7 +89,7 @@ Before any script work, confirm with the user:
 5. **ICP qualifier** — for buyer-intent content, the title MUST contain or strongly imply a specific ICP (e.g. "for coaches doing $100k+/mo"). Lock the qualifier before drafting the title.
 6. **Title — pick from the verified formula bank.** See `reference/title-formulas.md`. Channel 1 → B1-B5. Channel 2 → N1-N6. **Do NOT invent titles.** Pick a formula, fill placeholders with the user's actual data (real numbers, named clients, named tool), check against char cap (<70) + anti-formula list. Always cite which formula + which exemplar outlier proves it. If no formula fits, tell the user — don't guess.
 7. **Brief format** — just a title? title + bullets? title + meeting transcript? Get the brief.
-7. **Campaign context** — is this a warm-up video, a lead-capture-period video, an evergreen, an event nurture? What's the campaign objective? What action should the viewer take by the end?
+8. **Campaign context** — is this a warm-up video, a lead-capture-period video, an evergreen, an event nurture? What's the campaign objective? What action should the viewer take by the end?
 8. **Narratives** — which of attention / validation / democratization / timing need to be subtly instilled? Channel 1 leans attention + democratization; Channel 2 leans validation heavily.
 9. **Unique mechanism + contributor** — the core mechanism + the enabler that makes it accessible.
 
