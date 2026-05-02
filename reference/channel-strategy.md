@@ -167,6 +167,28 @@ For Lauren Tickner specifically (locked 2026-05-02, deepened across the strategy
 - Odd-specific dollars: $22,100 not $22k. $443,472 not $443k. Verified to lift CTR.
 - "Per month" or "/mo" — both fine on YouTube. Stay consistent within title.
 
+### Active model bank (locked 2026-05-02)
+
+**Channel 1 (broad) — verified Q1 2026 outliers in active rotation:**
+- ⭐⭐ Dan Martell (5.0x) · Saraev (9.8x) · Daniel Priestley (verified pivot 6.7x) · Hormozi · Liam Ottley
+
+**Channel 2 (narrow) — verified Q1 2026 outliers in active rotation:**
+- ⭐⭐ Tom Youngs (3.7x) · Cole Gordon (3.7x) · Saraev (9.8x — overlap)
+
+**Needs verification tier (do NOT model until verified):**
+- **Charlie Morgan (~300k subs)** — last-90-day outlier scan blocked by tooling. Lauren spot-check ViewStats or run via youtube-viral-research skill before promoting to active bank.
+- **Lead Gen Jay (~75-80k subs, narrow B2B agency niche)** — same tooling block. ICP adjacent (agency $10k-$100k/mo not Lauren's coach $100k-$1M ICP). On-thesis but unverified. 3 confirmed videos in last 90 days but no view counts available.
+- **Joanna Wiebe** — pivot mechanics unverified. 30-sec Lauren ViewStats spot-check pending.
+
+**Dropped this cycle:** Sara Finance (channel quiet) · Iman MAIN (1.25x consolidating) · Kellan Henneberry (1.7x) · Grace Leung (1.75x) · Ryan Clogg (1.85x — channel slowed) · Shelby Sapp · Jeremy Haynes · Ravi Abuvala · Brock Mesarich · Eddie Maalouf (guest-appearances ≠ packaging) · Daniel Iles (biz channel small).
+
+### Lead magnets — locked (use existing, don't invent new)
+
+- **Channel 1 (broad / @LaurenTickner):** **The AI Content System** (free) → `socialmediaprofit.com/write` — same as the Writing Flywheel. Already live. Drives every Channel 1 viewer to email signup.
+- **Channel 2 (Lauren Tickner Business):** **The AI Content System** (free) — same lead magnet, repositioned for the operator audience. The Channel 2 deep-dive video frames it as "the system that scaled Foundr / Marianne / Tara." Single funnel, dual entry.
+- **Application offers downstream:** Inner Circle (sub-$1M, application) + Scale Systems DFY ($1M+, `scalesystems.io/smpe-apply-page`).
+- **Do NOT** build a new "Marketing Operating System Playbook PDF" or "SCALE Audit assessment" for launch — use existing AI Content System / Writing Flywheel. Asset reduction.
+
 ### Channel 2 launch playbook (Ed Lawrence pattern)
 
 Three videos at launch. Algo seeds with 3 days of data instead of 1. Per Ed.
@@ -202,5 +224,12 @@ Three videos at launch. Algo seeds with 3 days of data instead of 1. Per Ed.
 
 ### No Shorts
 - Lauren confirmed during strategy session: no Shorts on either channel. Long-form only.
+
+### Launch timing — locked 2026-05-02
+- **Launch day = approximately 2026-05-23** (3 weeks from strategy lock)
+- **Day 1:** ship all 3 Channel 2 videos at once (launch trio in single drop) on `Lauren Tickner Business`
+- **Day 2:** ship the Channel 1 collab announcement video on `@LaurenTickner` to push the right people (coaches with offers) to Channel 2
+- This sequence gives the algo 3 days of data on Channel 2 BEFORE the Channel 1 collab drives traffic — gives Channel 2 a clean baseline before mixing in cross-channel signal
+- Lauren's confirmed framing for Channel 1 collab: pull people who have coaching offers (not pure beginners)
 
 When scripting for Lauren, the context prompt MUST specify which channel + which strategy at the top, and confirm the anchor tier ($20k or $100k) before drafting any title.

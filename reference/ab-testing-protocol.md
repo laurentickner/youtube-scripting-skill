@@ -6,6 +6,10 @@ The A/B test is what turns a 1-in-10 outlier into a 3-in-10 outlier. Without tes
 
 ---
 
+## Required Chrome extensions
+
+- **VidIQ** (free) — install before any competitor research. Shows outlier score per video on YouTube search results + channel pages. **5-10x outlier score = good model to take inspiration from.** Without VidIQ, you're guessing which videos broke out vs. which are baseline. Install: chrome web store → vidIQ.
+
 ## Tool: thumbnailtest.com (NOT TubeBuddy)
 
 ### Why thumbnailtest.com over TubeBuddy
@@ -38,6 +42,21 @@ For new uploads, set up:
 If a clear winner emerges in the first 4-5 hours → end the test early + click "Set Thumbnail" on the winner. Gives YouTube a stable thumbnail to optimise distribution against.
 
 ---
+
+## 2-6 week post-test signal — Browse + Suggested traffic
+
+Per the consultant: *"After you test a video give it 2-6 weeks, keep an eye on the traffic source. Ideally, you should see an increase on browse and suggested sources."*
+
+**What this means:**
+- The first 24-48h tells you if packaging works (CTR signal)
+- Weeks 2-6 tell you if YouTube is *actively pushing* the video to non-subscribers
+- The metric to watch: **% of views from "Browse features" + "Suggested videos"** (in YT Studio Analytics → Reach → Traffic source types)
+
+**The signal:**
+- If Browse + Suggested % is **rising** week over week → YouTube's algo is finding the video its audience. The packaging + content combination is winning. Keep producing content like this.
+- If Browse + Suggested % is **flat or falling** → algo isn't pushing it. Could be: audience-mismatch (wrong viewers being served), declining freshness, or fundamental packaging miss. Consider rehash.
+
+This is a **slower signal than CTR** but a more reliable one for long-tail outliers (1-in-10 rule). A video can hit modest CTR in week 1 but compound via Browse + Suggested over months. Don't kill before 6 months.
 
 ## First-24h diagnostic rule
 
