@@ -150,16 +150,38 @@ For Lauren Tickner specifically (locked 2026-05-02, deepened across the strategy
 - **Channel 1:** `@LaurenTickner` (existing, 40k subs). Broad AI / online-business content. Views-optimised. **DO NOT relaunch the handle** — dormant subs are an algo head-start asset (Priestley playbook).
 - **Channel 2:** **Lauren Tickner Business** (new). Strategy 1 + 2. Operator content for online coaches scaling past $100k/m. Buyer-intent CTAs.
 
-### Brand positioning — LOCKED 2026-05-02
+### Brand positioning — LOCKED 2026-05-02 (corrected from v11)
 
-**Default brand frame:** *"The operator who takes 6-figure coaches to 7 figures."*
+**Default brand frame:** *"I scale 6-figure coaches to 7 figures."*
 - Gender-neutral, transformation-anchored, matches every case study Lauren has shipped.
+- Uses ICP language ("scale", "coaches", "6/7 figures") — NOT B2B jargon ("operator," "founder," "operator-grade systems").
 - Marianne ($40k/yr → $40k/wk = ~$2M ARR), Tara ($100k+/mo = $1.2M ARR), Jas (£130k profit in 30 days = 7-fig pace) — all 6→7 figure transformations.
 - Foundr is "above the milestone" — used as upper-tier proof, not the anchor.
+
+**Monthly bridge framing for titles:** $20k/mo → $100k/mo is the same transformation as 6-fig → 7-fig. Coaches think in MONTHLY revenue, not annual. Use monthly numbers in titles.
+
+**ICP language NOT to use (Lauren confirmed during session):**
+- ❌ "operator" — B2B jargon, coaches don't use this word
+- ❌ "operator-grade systems" / "operator-tier" — same problem
+- ❌ "founder" / "founder-led" — too startup-y for coaching audience
 
 **Test variant (1 in every 5-7 Channel 2 videos):** female-coach-specific content using Marianne / Tara / Jas as the lead. Brand stays gender-neutral; CONTENT leans female-led when it serves. NEVER claim "8/9-figure female-founded brands" — Lauren doesn't have those case studies.
 
 **Anti-claim watch:** Lauren has 7-figure female case studies, NOT 8/9-figure female case studies. Foundr is 8-fig but male-founded. Don't conflate.
+
+### Locked launch trio titles (corrected with new positioning)
+
+**Slot 1 — Day 1 — Marianne flagship:**
+*"How A 26-Year-Old Mum Went From $40k/Year To $40k/Week (Without Sales Calls)"*
+
+**Slot 2 — Day 8 — Foundr case study:**
+*"How ONE Claude System Made Foundr $100k/mo"*
+
+**Slot 3 — Day 15 — Methodology deep-dive:**
+*"How I Scale Coaches From $20k/mo To $100k/mo With Claude (Deep Dive)"*
+
+**Channel 1 collab — Day 18:**
+*"Copy This New AI System: $20k/mo To $100k/mo For Coaches"* (56 chars, Ed Lawrence pattern, monthly framing)
 
 ### ICP language — locked (Lauren confirmed during session)
 - ✅ Use: **coaches, accelerator, program, online coaches, 6-figure coaches, 7-figure coaches**
