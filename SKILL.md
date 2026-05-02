@@ -165,12 +165,21 @@ Pick ONE of two structures, based on which fits the video:
 - **One-Sentence Persuasion** (Encourage dreams · Justify failures · Allay fears · Confirm suspicions)
 - **Hook → Break Belief → X-to-X → Credibility**
 
+Then apply the **Boring Intro System** as constraints on top:
+
+1. **Length cap: 3 short lines / 8 seconds max.** Viewers leave at 8s. AI is shrinking that to 5s.
+2. **Mirror the title in line 1.** The intro is part of the thumbnail+title — explicitly reference what the viewer clicked on so they confirm they're in the right video.
+3. **Spike curiosity HIGHER than the title did**, using one of: **cognitive-dissonance hook** (list known solutions, deny them, tease the real one) · **question hook** (ask what they've already wondered) · **fact hook** (surprising stat).
+
+Banned in intros: listing things the viewer might have tried; origin story before the hook; generic "in this video I'll teach you…" openers.
+
 Full mechanics → `reference/copywriting-structures.md`.
 
-Two non-negotiables for every intro, regardless of structure:
+Three non-negotiables for every intro, regardless of structure:
 
-1. **Meet expectations fast** — based on the title, address what they actually clicked on within the first lines.
-2. **Exceed expectations** — promise more than the title offered, so they feel they're getting extra value.
+1. **Meet expectations fast** — Boring Intro Rule 2.
+2. **Exceed expectations** — Boring Intro Rule 3.
+3. **3 lines / 8 seconds** — Boring Intro Rule 1.
 
 ### 7b. Writing the Present Packaging section
 

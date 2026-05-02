@@ -42,10 +42,51 @@ Best for: contrarian framing videos, "everyone is wrong about X" videos, mechani
 
 > *"Write the introduction following the Hook → Break Belief → X-to-X → Credibility structure. Open with a contrarian hook or surprising stat that grabs attention. Break the conventional belief about [topic]. Show the X-to-X transformation arc — from [where they are now] to [where this video takes them]. Establish credibility with [specific proof point]. The intro must (1) meet the expectation set by the title within the first lines and (2) exceed it. Teleprompter-natural, no AI-jargon."*
 
+### Structure 3 — The "Boring Intro" System (3-part rules)
+
+A separate framework drawn from a high-volume YouTube editor's analysis of "thousands of intros." Not strictly a structure — more a set of three universal rules that make the intro *land*. Use these alongside Structure 1 or 2 above; they don't replace them, they constrain them.
+
+**Rule 1 — Length cap. Three short lines max.**
+
+New viewers give an intro 8 seconds before deciding whether to keep watching (predicted to drop to 5 with AI making attention shorter). The intro must be over within ~3 short, teleprompter-natural lines. Anything longer and viewers leave before the hook lands.
+
+**Rule 2 — The intro is part of your thumbnail and title. Mirror the title back fast.**
+
+When a viewer clicks, they have an expectation in their head from the thumbnail + title. If your intro doesn't match that expectation in the first sentences, they leave. Practical move: literally repeat the title's promise back to them in the intro language. Don't make the viewer guess whether they're in the right video — confirm it explicitly within the first lines.
+
+For the marketing-team video example: title is *"how i replaced my $25k/mo marketing team with claude…"* — the intro's first line should reference *replacing the marketing team* directly. Don't open with origin story or context — that loses them. Mirror first, expand later.
+
+**Rule 3 — After mirroring expectations, spike curiosity HIGHER than the thumbnail+title did, using a hook.**
+
+Confirming "yes, you're in the right video" only stops the viewer leaving. To make them *stay*, the intro then has to spike curiosity above what the title already promised. Use one of three proven hook types:
+
+| Hook type | How it works | Example |
+|---|---|---|
+| **Cognitive dissonance hook** | List the known/expected solutions, then deny them all + tease a different answer | *"Antibiotics, detoxing, and diet changes won't heal you from Lyme disease, but something most doctors will never tell you will."* |
+| **Question hook** | Ask a question the viewer has already wondered, that opens a loop | *"Have you ever wondered if the reason doctors prescribe antibiotics for Lyme disease is because they get paid to?"* |
+| **Fact hook** | Surprising stat that makes them go "no way that's crazy" | *"90% of people taking antibiotics for Lyme disease never heal."* |
+
+Pick whichever hook type fits the video's content. The hook follows the title-mirror line and precedes the X-to-X / credibility lines.
+
+**Common intro mistakes the boring-intro system fixes:**
+
+- **Listing things the viewer might have tried** ("if you've tried X, Y, Z, A, B, C…"). After 1-2 items the viewer feels frustrated — they didn't click for a list of their failures. Cut these.
+- **Origin story before the hook.** "I spent 7 years doing X" type intros bury the hook past the 8-second window. Save the origin for credibility (Structure 2's beat 4) AFTER the hook lands.
+- **Generic openers** ("In this video, I'm going to teach you…") that don't mirror the title or spike curiosity. The viewer is one tap away from leaving.
+
+**Prompt to give Claude when applying the Boring Intro System on top of Structure 1 or 2:**
+
+> *"Apply the Boring Intro System on top of [Structure 1 / Structure 2]:*
+> *(1) Length cap: the intro is 3 short lines maximum, must end before the 8-second mark.*
+> *(2) Mirror the title in the first line — explicitly reference what the viewer clicked on so they confirm they're in the right video.*
+> *(3) After the mirror, use a [cognitive dissonance / question / fact] hook to spike curiosity above what the title already promised.*
+> *Banned: listing things the viewer might have tried; origin story before the hook; generic 'in this video I'm going to teach you' openers."*
+
 ### Non-negotiables for EVERY intro (regardless of structure)
 
-1. **Meet expectations fast** — based on the title, address what they actually clicked on as quickly as possible. Don't make them wait 30 seconds to confirm they're in the right video.
-2. **Exceed expectations** — promise more than what the title offered, so they feel they're getting bonus value beyond what brought them in.
+1. **Meet expectations fast** — based on the title, address what they actually clicked on as quickly as possible. Don't make them wait 30 seconds to confirm they're in the right video. (The Boring Intro System's Rule 2 is the canonical technique for this.)
+2. **Exceed expectations** — promise more than what the title offered, so they feel they're getting bonus value beyond what brought them in. (The Boring Intro System's Rule 3 is the canonical technique for this.)
+3. **Length cap: 3 lines / 8 seconds.** Anything longer and the algo punishes drop-off. (Boring Intro Rule 1.)
 
 ---
 
