@@ -218,10 +218,35 @@ For Lauren Tickner specifically (locked 2026-05-02, deepened across the strategy
 
 ### Lead magnets — locked (use existing, don't invent new)
 
-- **Channel 1 (broad / @LaurenTickner):** **The AI Content System** (free) → `socialmediaprofit.com/write` — same as the Writing Flywheel. Already live. Drives every Channel 1 viewer to email signup.
-- **Channel 2 (Lauren Tickner Business):** **The AI Content System** (free) — same lead magnet, repositioned for the operator audience. The Channel 2 deep-dive video frames it as "the system that scaled Foundr / Marianne / Tara." Single funnel, dual entry.
+- **Channel 1 + Channel 2 (single magnet, dual entry):** **The AI Content System** (free) → `scalesystems.io/aicontentsystem-page` — Lauren's existing premium-signal magnet. Headline: *"Your AI Still Sounds Like AI Because You've Never Trained It On You."* Promise: 47-min interview installs voice/brand into Claude. Backend hint: *"I sell the done-for-you version to $1M+ companies for $50k+"* — premium-tier signal already baked in, works for both Channel 1 broad audience AND Channel 2 operator tier.
+- **Nurture sequences:** already built (Lauren confirmed 2026-05-02). Channel attribution segments via UTM (below), routing premium-signal opt-ins toward Inner Circle / DFY application.
 - **Application offers downstream:** Inner Circle (sub-$1M, application) + Scale Systems DFY ($1M+, `scalesystems.io/smpe-apply-page`).
-- **Do NOT** build a new "Marketing Operating System Playbook PDF" or "SCALE Audit assessment" for launch — use existing AI Content System / Writing Flywheel. Asset reduction.
+- **Do NOT** build a new magnet / SCALE audit / playbook PDF for launch. Existing magnet clears the premium-signal bar.
+
+### UTM convention — locked 2026-05-02
+
+Every YouTube video description link to the magnet uses the same shape so signups bucket cleanly by source:
+
+```
+https://scalesystems.io/aicontentsystem-page?utm_source=youtube&utm_medium=[channel-slug]&utm_content=[video-slug]&utm_campaign=[YYYYMMDD]
+```
+
+| Param | Channel 1 (`@LaurenTickner`) | Channel 2 (Lauren Tickner Business) |
+|---|---|---|
+| `utm_medium` | `lauren-tickner` | `lauren-tickner-business` |
+| `utm_content` | per-video slug (e.g. `marketing-team-ai`) | per-video slug (e.g. `marianne-flagship`, `foundr-dm-engine`, `scale-coaches-deepdive`) |
+| `utm_campaign` | publish date `YYYYMMDD` | publish date `YYYYMMDD` |
+
+**Locked launch trio + collab UTMs (use these verbatim in descriptions):**
+
+- **Slot 1 / Marianne flagship:** `?utm_source=youtube&utm_medium=lauren-tickner-business&utm_content=marianne-flagship&utm_campaign=20260523`
+- **Slot 2 / Foundr case study:** `?utm_source=youtube&utm_medium=lauren-tickner-business&utm_content=foundr-dm-engine&utm_campaign=20260530`
+- **Slot 3 / Methodology deep-dive:** `?utm_source=youtube&utm_medium=lauren-tickner-business&utm_content=scale-coaches-deepdive&utm_campaign=20260606`
+- **Channel 1 collab:** `?utm_source=youtube&utm_medium=lauren-tickner&utm_content=copy-this-ai-system&utm_campaign=20260609`
+
+(Adjust `utm_campaign` dates if launch shifts off 2026-05-23.)
+
+The tracking spreadsheet's "email signups attributed" column reads from the UTM bucket — channel and video are both visible per signup, so per-video revenue-per-view stays clean even when the same magnet powers both channels.
 
 ### Channel 2 launch playbook (Ed Lawrence pattern)
 
