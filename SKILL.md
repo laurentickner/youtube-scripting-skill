@@ -11,6 +11,21 @@ The whole job runs in **one continuous Claude chat**. Never start a new chat par
 
 ---
 
+## ⚠️ THREE LOAD-BEARING RULES (read before every section)
+
+Failing these is the #1 cause of skill failure. They override your instinct to look reasonable.
+
+### R-A — Self-audit before delivery
+Before delivering ANY section to the user, restate the rules that apply to that section, audit your draft against each one, and report compliance in a table. **No section ships without the audit shown.** If you skip the audit, you will hand-wave a rule violation and the user will catch it before you do.
+
+### R-B — Default to compliance, not exception
+If a rule is borderline (e.g. "intro is 9s but rule says 8s"), **rewrite to comply**. Do NOT rationalise an exception with "the audience is patient" / "this is operator-tier" / "borderline is fine." Every exception you talk yourself into is a rule failure.
+
+### R-C — When two rules collide, find the compression that honours both
+The most common collision: Structure 2 (Hook → Break Belief → X-to-X → Credibility, 4 beats) vs Boring Intro System (3 sentences total). The wrong move is to give each beat a paragraph and break the 3-sentence rule. The right move is to compress 4 beats into 3 sentences (the Lyme canonical pattern in `reference/copywriting-structures.md`). When in doubt: stricter rule wins.
+
+---
+
 ## STEP 0 — Preflight (do this BEFORE writing anything)
 
 Before any script work, confirm with the user:

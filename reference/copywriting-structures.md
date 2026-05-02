@@ -42,9 +42,41 @@ Best for: contrarian framing videos, "everyone is wrong about X" videos, mechani
 
 > *"Write the introduction following the Hook → Break Belief → X-to-X → Credibility structure. Open with a contrarian hook or surprising stat that grabs attention. Break the conventional belief about [topic]. Show the X-to-X transformation arc — from [where they are now] to [where this video takes them]. Establish credibility with [specific proof point]. The intro must (1) meet the expectation set by the title within the first lines and (2) exceed it. Teleprompter-natural, no AI-jargon."*
 
-### Structure 3 — The "Boring Intro" System (3-part rules)
+### Structure 3 — The "Boring Intro" System (the default)
 
-A separate framework drawn from a high-volume YouTube editor's analysis of "thousands of intros." Not strictly a structure — more a set of three universal rules that make the intro *land*. Use these alongside Structure 1 or 2 above; they don't replace them, they constrain them.
+A framework drawn from a high-volume YouTube editor's analysis of thousands of intros. **This is now the default.** Apply it on top of Structure 1 or 2 — but the two together must compress into the 3-sentence shape below. The 4 beats of Structure 2 do NOT each get their own paragraph. They collapse into 3 sentences.
+
+> ⚠️ **CRITICAL — read this before drafting any intro:** the most common skill failure is treating each beat of Hook→Break Belief→X-to-X→Credibility as its own paragraph. That produces a 12–14 line intro that breaks Rule 1. The canonical compressed pattern is **3 sentences total ≈ 22–30 seconds**:
+>
+> - **Sentence 1** = Hook (Boring Intro R2 title-mirror + R3 curiosity-spike, fused into one sentence). Break-belief lives implicitly inside the hook.
+> - **Sentence 2** = Brief credibility (1 sentence).
+> - **Sentence 3** = X-to-X promise + the contrarian warning that doubles as curiosity bait.
+>
+> **Canonical example (Lyme disease video, ~22s, 3 sentences):**
+>
+> 1. *"Antibiotics, detoxing, and diet changes won't heal you from Lyme disease, but something most doctors will never tell you will."* (Hook + break-belief fused)
+> 2. *"And it cured me after a seven-year battle."* (Credibility)
+> 3. *"So in this video I'm going to show you why everything you're doing to heal isn't working, and the simple changes I made that will."* (X-to-X promise)
+>
+> Pattern-match every intro draft against this. If your draft is more than 3 sentences or more than ~30 seconds, **rewrite — don't bargain.**
+
+### Hook delivery rule — always export 2 variants
+
+When delivering the intro to the user, **never deliver one hook in isolation.** Always export **2 variants of sentence 1 (the hook)**, drawn from different hook types (e.g. one cognitive-dissonance + one fact, or one cognitive-dissonance + one question). The user picks. This:
+
+- Halves the iteration cycles (the user picks instantly instead of pushing back into a rewrite loop)
+- Forces Claude to generate from at least two angles, which exposes the better of the two
+- Gives the user agency on the most load-bearing line of the script
+
+Sentences 2 (credibility) and 3 (X-to-X promise) ship as one version unless the user asks for variants.
+
+When delivering, label clearly:
+> **Hook variant A — [hook type]:** *[sentence]*
+> **Hook variant B — [hook type]:** *[sentence]*
+> **Sentence 2 (credibility):** *[sentence]*
+> **Sentence 3 (X-to-X):** *[sentence]*
+
+Same rule applies to **body-point opening lines** (the loop-close lines) and the **outro CTA line** — both are high-leverage moves where giving the user 2 picks beats forcing iteration on a single draft.
 
 **Rule 1 — Length cap. Three short lines max.**
 
