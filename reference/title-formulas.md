@@ -274,9 +274,39 @@ The bank stays current only if maintained. Lauren's research scans should re-run
 
 ---
 
-## Lock for Lauren's setup (2026-05-02)
+## Lock for Lauren's setup (2026-05-02, deepened across strategy session)
 
-- **Channel 1 default formulas:** B1 (Kellan), B2 (Grace), B4 (Iman conditional). Use for AI-tutorial / make-money-online content.
-- **Channel 2 default formulas:** N1 (Built-for-client), N3 (How ONE), N6 (Counter-intuitive). Use for operator/buyer content.
-- **Marketing-team launch video title:** N3 — *"how ONE Claude system made Foundr $100k/mo"* — locked.
-- **The "$25k/mo team replacement" intel goes into thumbnail + intro line 1, NOT title.**
+### Voice rules — YouTube vs LinkedIn
+- **YouTube titles + thumbnails: Title Case or ALL CAPS.** Verified across every Q1 2026 outlier (Saraev ALL CAPS, Cole/Tom/Martell Title Case). Lowercase = LinkedIn body-copy rule, NOT YouTube.
+- Odd-specific dollars: $22,100 not $22k. $443,472 not $443k.
+- ICP language: coaches / accelerator / program / online coaches. NEVER course / digital product / info product (wrong-ICP pull, Sara Finance hustle lane).
+
+### Anchor tiers
+- **Channel 1 anchor:** $20k/m (Tom Youngs verified). Bigger TAM than $100k/m, less saturated than $10k/m.
+- **Channel 2 anchor:** $100k+/m (Lauren's offer ICP).
+- **Collab/bridge videos:** can hook at $100k/m to pull operator subset across.
+
+### Default formula picks
+- **Channel 1 priority:** B6 (FULL COURSE) ⭐ verified Q1 2026 dominant pattern · B7 (reassurance + low-time) ⭐ Martell sleeper · B1 (Kellan personal-result) · B4 (Iman conditional) for periodic.
+- **Channel 2 priority:** N1 (built-for-client) · N3 (How ONE) · N6 (Counter-intuitive). Saraev formula confirmed across Cole/Tom/Ryan: dollar-floor + named-tool + ICP + verb-sell.
+
+### Locked launch trio (Ed Lawrence pattern)
+- **Slot 1 (Channel 1 collab):** *"Copy This New AI System, It's Blowing Up Online Coaches"* — filter-word "Online Coaches" mirrors Ed's "Businesses." 15-20 min, ends with collab to Channel 2.
+- **Slot 2 (Channel 2 deep-dive + opt-in):** *"How I Build Marketing Operating Systems for $1M+ Coaches (Deep Dive)"* — 30-45 min methodology, opt-in to "AI Marketing Operating System Playbook" PDF.
+- **Slot 3 (Channel 2 first case study):** *"How ONE Claude System Made Foundr $100k/mo"* — N3 formula, the marketing-team flagship video.
+
+### Marketing-team video title — LOCKED
+- ***"How ONE Claude System Made Foundr $100k/mo"*** (Title Case on YouTube — was lowercase in earlier draft, corrected per voice rules above).
+- Channel 2 video #2 (first case study, NOT the launch flagship).
+- The "$25k/mo team replacement" intel → thumbnail text + intro line 1, NOT title.
+
+### Anti-patterns locked
+- ❌ Anchor Channel 1 below Tom Youngs' verified $20k/m tier (= AI-hustle commodity zone)
+- ❌ Lowercase YouTube titles (LinkedIn rule, not YouTube)
+- ❌ "Course" / "digital product" / "info product" ICP language
+- ❌ Title-as-announcement ("I started a second channel" topic) — title is content-led
+- ❌ Channel 1 in pure $0→$10k beginner lane (Kellan/Sara Finance compete on production volume Lauren can't match)
+- ❌ Lead Channel 2 with case study before methodology deep-dive
+
+### Lauren's saved fitness asset
+Lauren personally sold fitness programs + has a repeatable system she deploys for fitness coach clients (Ken / healthfitbro). **Save for Channel 1 Weeks 5-8 sprint** after launch trio ships. See `youtube-strategy/lauren-fitness-asset-notes.md` for queued title shapes. DO NOT activate before launch trio (channel-positioning whiplash risk).

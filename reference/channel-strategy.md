@@ -144,11 +144,63 @@ Use a simple Google Sheet or Notion table — one row per video, columns for the
 
 ## Lock this for the user's setup
 
-For Lauren Tickner specifically (locked 2026-05-02):
+For Lauren Tickner specifically (locked 2026-05-02, deepened across the strategy session):
 
-- **Channel 1:** Lauren Tickner (existing). Broad AI/social/online-business content. Views-optimised. Mass-appeal AI tutorials.
-- **Channel 2:** Lauren Tickner Business (new). Strategy 1 + 2. Operator content for coaches scaling $100k–$1M with named case studies (Foundr, Marianne, Tara, Gordon, Jas, Harlan, Danny). Buyer-intent CTAs.
-- Tracking: manual spreadsheet, not RevTrack.
-- Niche flooding: deferred until both channels are stable.
+### Architecture
+- **Channel 1:** `@LaurenTickner` (existing, 40k subs). Broad AI / online-business content. Views-optimised. **DO NOT relaunch the handle** — dormant subs are an algo head-start asset (Priestley playbook).
+- **Channel 2:** **Lauren Tickner Business** (new). Strategy 1 + 2. Operator content for online coaches scaling past $100k/m. Buyer-intent CTAs.
 
-When scripting for Lauren, the context prompt MUST specify which channel + which strategy at the top.
+### ICP language — locked (Lauren confirmed during session)
+- ✅ Use: **coaches, accelerator, program, online coaches**
+- ❌ Don't use: **course, digital product, info product** (Lauren's clients don't use this language; pulls wrong-tier audience adjacent to Sara Finance / hustle lane)
+- Coaching umbrella covers 1:1 + group + accelerator + program — that's the right frame.
+
+### Anchor tiers
+- **Channel 1 default anchor:** **$20k/m** (Tom Youngs verified Q1 2026 3.7x). Bigger TAM than $100k/m, less saturated than $10k/m, authority match holds.
+- **Channel 2 default anchor:** **$100k+/m** (Lauren's actual offer ICP — Foundr, Marianne, Tara all fit).
+- **Collab/bridge videos** on Channel 1: can use $100k/m as aspirational hook to pull operator-tier subset to Channel 2. Single-purpose video, not the channel's positioning.
+
+### Voice rules — YouTube vs LinkedIn (DO NOT confuse)
+- **YouTube titles + thumbnails: Title Case or ALL CAPS** (matches every verified outlier — Saraev ALL CAPS, Cole/Tom/Martell Title Case). Lower-case YouTube titles look amateur and underperform.
+- **LinkedIn body copy: lowercase** (Lauren's brand voice for written social).
+- These are SEPARATE rules. Title Case on YouTube. Lowercase on LinkedIn. Don't bleed one into the other.
+- Odd-specific dollars: $22,100 not $22k. $443,472 not $443k. Verified to lift CTR.
+- "Per month" or "/mo" — both fine on YouTube. Stay consistent within title.
+
+### Channel 2 launch playbook (Ed Lawrence pattern)
+
+Three videos at launch. Algo seeds with 3 days of data instead of 1. Per Ed.
+
+**Slot 1 — Channel 1 main video (collab to Channel 2)**
+- Topic-led title (NOT "I started a second channel"). Anti-pattern: announcement-as-topic videos.
+- Mirrors Ed's literal structure: *"Copy This New X, It's [verb] [identity-filter]"* — filter word does the audience-qualification work.
+- Ed's example: *"Copy This New YouTube Strategy, It's Blowing Up Businesses"* — "Businesses" is the filter.
+- Lauren's locked title: ***"Copy This New AI System, It's Blowing Up Online Coaches"*** — "Online Coaches" is the filter.
+- 15–20 min long-form. Teaches the methodology at HIGH LEVEL (broad-appeal). Foundr +$100k/mo named once as proof anchor. End of video: collab feature + soft CTA: *"if you're already past $100k/mo and want this installed at operator depth, I went deeper on this on my second channel."*
+
+**Slot 2 — Channel 2 first video (deep-dive + opt-in)**
+- *"How I Build Marketing Operating Systems for $1M+ Coaches (Deep Dive)"*
+- 30–45 min. Full methodology (5-component system: Strategy / Voice / Production / Distribution / Optimisation). Case-study fragments WOVEN IN as proof; full breakdowns withheld.
+- **Opt-in lead magnet:** *"The AI Marketing Operating System Playbook"* (free PDF). Drives every viewer to email signup.
+- The opt-in is the load-bearing move — same as Ed's 90-day challenge gate. Channel 2's small audience converts to email list from Day 1.
+
+**Slot 3 — Channel 2 video #2 (first chapter / case study)**
+- *"How ONE Claude System Made Foundr $100k/mo"* (the marketing-team flagship — N3 formula).
+- 30–40 min single-mechanism deep-dive. The first chapter of the methodology Slot 2 introduced.
+
+### Anti-patterns locked (do NOT do)
+- ❌ Title the announcement video "I started a second channel" — title is content-led, collab is internal mechanism.
+- ❌ Anchor Channel 1 below the verified-outlier tier ($10k/m or below = saturated AI-hustle lane, brings wrong-ICP traffic).
+- ❌ Use lowercase on YouTube titles — Lauren's LinkedIn rule, not YouTube rule.
+- ❌ Use "course" / "digital product" / "info product" in ICP language — pulls Sara Finance hustle audience.
+- ❌ Lead Channel 2 with case study before methodology — viewer leaves with "Lauren replaced her team" instead of "Lauren has a system I want to buy."
+
+### Tracking — locked
+- Manual Google Sheet, NOT RevTrack (Lauren confirmed).
+- Per-video columns: views, impressions, CTR, AVD, email signups attributed, calls booked attributed, sales attributed, **revenue per view** (sales ÷ views — THE Channel 2 metric).
+- 90-day evaluation: if Channel 2 revenue-per-view ≥ Channel 1 revenue-per-view → both channels run. If not → kill Channel 2, consolidate.
+
+### No Shorts
+- Lauren confirmed during strategy session: no Shorts on either channel. Long-form only.
+
+When scripting for Lauren, the context prompt MUST specify which channel + which strategy at the top, and confirm the anchor tier ($20k or $100k) before drafting any title.
