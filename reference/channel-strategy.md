@@ -195,7 +195,7 @@ The Channel 2 launch is modelled on **Ed Lawrence's actual Channel 2 first 4 vid
 - Pinned to Channel 2 home page. Answers "what is this channel about" for every cold viewer.
 
 **Slot 2 — Day 8 (2026-05-30) — Tactical breakdown (leads / attention pillar):**
-*"The Brutal Strategy Coaches Use To Get $20k/mo In Leads (Without Cold DMs)"*
+*"This Brutal Strategy Will Get Coaches To $100k/mo (Without Cold DMs)"*
 - 5–15 min. Models Ed's #2 ("This Brutal Strategy Will Dominate Your Niche On YouTube"). Single-mechanism teach — the lead-gen / content engine system.
 - Strong-adjective hook ("Brutal") + ICP inline ("Coaches") + curiosity-in-parens ("Without Cold DMs").
 
@@ -209,7 +209,7 @@ The Channel 2 launch is modelled on **Ed Lawrence's actual Channel 2 first 4 vid
 
 **Slot 4 — Day 22 (2026-06-13) — Personal case study (modeled EXACTLY on Ed's #4):**
 Ed's title: *"Exactly How I Made $5m/yr From YouTube (Nobody teaches this)"*
-Lauren's mirror: ***"Exactly How I Made £1M+/yr From Coaching Businesses (Nobody Teaches This)"*** — uses Lauren's locked marquee proof (£100k/mo personal brand from organic = £1M+/yr annualised). £ matches her UK base + locked marketing copy; if she wants $ for YouTube US-dominance, swap to $1.5M+/yr.
+Lauren's mirror: ***"Exactly How I Made $1M+ Profit From Coaching Businesses (Nobody Teaches This)"*** — uses Lauren's locked marquee proof (£100k/mo personal brand from organic = £1M+/yr annualised). £ matches her UK base + locked marketing copy; if she wants $ for YouTube US-dominance, swap to $1.5M+/yr.
 - 10–15 min. Lauren's own operator story — building Scale Systems, scaling LinkedIn to 55k followers + $1M+ ARR clients. NOT a client case study.
 - Personal case study format + curiosity-in-parens "(Nobody Teaches This)" = exact Ed mirror. Best-performer in Ed's launch (4.7K views).
 
@@ -291,7 +291,7 @@ Sequential launch — 3 methodology videos + Channel 1 collab + 1 personal case 
 - **Opt-in lead magnet:** AI Content System (`scalesystems.io/aicontentsystem-page`). Pinned to Channel 2 home page.
 
 **Channel 2 / Slot 2 — Day 8 (2026-05-30) — Tactical: leads/attention pillar**
-- *"The Brutal Strategy Coaches Use To Get $20k/mo In Leads (Without Cold DMs)"*
+- *"This Brutal Strategy Will Get Coaches To $100k/mo (Without Cold DMs)"*
 - 5–15 min. Models Ed's #2. Single-mechanism teach on the lead-gen / content engine. Stop-cold-DMs pattern interrupt.
 
 **Channel 2 / Slot 3 — Day 15 (2026-06-06) — Methodology long deep-dive: sales/clients pillar**
@@ -303,8 +303,8 @@ Sequential launch — 3 methodology videos + Channel 1 collab + 1 personal case 
 - 15–20 min long-form on `@LaurenTickner`. Teaches methodology at HIGH level (broad-appeal). Foundr/Marianne named once each as proof. End: soft CTA pulling viewers to Channel 2.
 
 **Channel 2 / Slot 4 — Day 22 (2026-06-13) — Personal case study (modeled EXACTLY on Ed's #4)**
-- ***"Exactly How I Made £1M+/yr From Coaching Businesses (Nobody Teaches This)"*** — uses Lauren's locked marquee proof (£100k/mo personal brand from organic = £1M+/yr annualised). £ matches her UK base + locked marketing copy; if she wants $ for YouTube US-dominance, swap to $1.5M+/yr.
-- 10–15 min. Lauren's own operator story — Scale Systems origin, LinkedIn engine to 55k followers, £1M+/yr personal brand from organic, $1M+ ARR clients. NOT a client case study.
+- ***"Exactly How I Made $1M+ Profit From Coaching Businesses (Nobody Teaches This)"*** — Lauren's confirmed flex (2026-05-03). Profit > revenue as a credibility flex; Lauren said this number herself. Locked.
+- 10–15 min. Lauren's own operator story — Scale Systems origin, LinkedIn engine to 55k followers, $1M+ profit from coaching businesses, $1M+ ARR clients. NOT a client case study.
 - Best-performer slot in Ed's launch (his #4 = 4.7K vs 1.6-2.8K for methodology slots). Personal story + curiosity-in-parens "(Nobody Teaches This)" = exact mirror.
 
 ### Anti-patterns locked (do NOT do)
