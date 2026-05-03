@@ -209,7 +209,7 @@ The Channel 2 launch is modelled on **Ed Lawrence's actual Channel 2 first 4 vid
 
 **Slot 4 — Day 22 (2026-06-13) — Personal case study (modeled EXACTLY on Ed's #4):**
 Ed's title: *"Exactly How I Made $5m/yr From YouTube (Nobody teaches this)"*
-Lauren's mirror: ***"Exactly How I Made $X+/yr From Coaching Businesses (Nobody Teaches This)"*** — `$X` pending Lauren's real annual revenue figure.
+Lauren's mirror: ***"Exactly How I Made £1M+/yr From Coaching Businesses (Nobody Teaches This)"*** — uses Lauren's locked marquee proof (£100k/mo personal brand from organic = £1M+/yr annualised). £ matches her UK base + locked marketing copy; if she wants $ for YouTube US-dominance, swap to $1.5M+/yr.
 - 10–15 min. Lauren's own operator story — building Scale Systems, scaling LinkedIn to 55k followers + $1M+ ARR clients. NOT a client case study.
 - Personal case study format + curiosity-in-parens "(Nobody Teaches This)" = exact Ed mirror. Best-performer in Ed's launch (4.7K views).
 
@@ -303,8 +303,8 @@ Sequential launch — 3 methodology videos + Channel 1 collab + 1 personal case 
 - 15–20 min long-form on `@LaurenTickner`. Teaches methodology at HIGH level (broad-appeal). Foundr/Marianne named once each as proof. End: soft CTA pulling viewers to Channel 2.
 
 **Channel 2 / Slot 4 — Day 22 (2026-06-13) — Personal case study (modeled EXACTLY on Ed's #4)**
-- ***"Exactly How I Made $X+/yr From Coaching Businesses (Nobody Teaches This)"*** — `$X` pending Lauren's real annual revenue figure.
-- 10–15 min. Lauren's own operator story — Scale Systems origin, LinkedIn engine to 55k followers, $1M+ ARR clients. NOT a client case study.
+- ***"Exactly How I Made £1M+/yr From Coaching Businesses (Nobody Teaches This)"*** — uses Lauren's locked marquee proof (£100k/mo personal brand from organic = £1M+/yr annualised). £ matches her UK base + locked marketing copy; if she wants $ for YouTube US-dominance, swap to $1.5M+/yr.
+- 10–15 min. Lauren's own operator story — Scale Systems origin, LinkedIn engine to 55k followers, £1M+/yr personal brand from organic, $1M+ ARR clients. NOT a client case study.
 - Best-performer slot in Ed's launch (his #4 = 4.7K vs 1.6-2.8K for methodology slots). Personal story + curiosity-in-parens "(Nobody Teaches This)" = exact mirror.
 
 ### Anti-patterns locked (do NOT do)
