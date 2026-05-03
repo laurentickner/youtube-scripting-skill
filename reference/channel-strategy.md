@@ -169,31 +169,51 @@ For Lauren Tickner specifically (locked 2026-05-02, deepened across the strategy
 
 **Anti-claim watch:** Lauren has 7-figure female case studies, NOT 8/9-figure female case studies. Foundr is 8-fig but male-founded. Don't conflate.
 
-### Binding framework — Ed Lawrence (LOCKED 2026-05-02 v14)
+### Binding framework — Ed Lawrence (LOCKED v15, 2026-05-03)
 
-The Channel 2 launch is modelled on **Ed Lawrence's dual-channel playbook**, not Tom Youngs' format. Tom Youngs is a verified outlier in Lauren's *lane* (case-study format) — not the binding framework. Ed Lawrence's pattern: **methodology deep-dive Slot 1 establishes channel positioning**, case studies follow as proof. Anti-pattern locked: "lead with case study before methodology" — viewer leaves with *"Lauren tells stories"* instead of *"Lauren has a system I want to buy."*
+The Channel 2 launch is modelled on **Ed Lawrence's actual Channel 2 first 4 videos** — verified by Lauren on 2026-05-03 from screenshots of his shipped videos:
 
-The strategic-board-debate run on 2026-05-02 surfaced Lane A (case-study Slot 1, Tom Youngs pattern) but Lauren caught the framework violation — Tom Youngs ≠ Ed Lawrence. Reverting to Ed Lawrence's methodology-first sequence.
+| # | Ed's actual title | Length | Views | Format |
+|---|---|---|---|---|
+| 1 | *"It's boring, but it made me $5m/yr from YouTube"* | 6:20 | 1.6K | methodology + confession + personal result |
+| 2 | *"This Brutal Strategy Will Dominate Your Niche On YouTube"* | 5:42 | 2.8K | methodology + strong-adjective hook |
+| 3 | *"How to start and launch a second channel (Deep dive)"* | 25:40 | 2K | methodology long-form + format-in-parens |
+| 4 | *"Exactly How I Made $5m/yr From YouTube (Nobody teaches this)"* | 12:24 | 4.7K | **personal** case study + curiosity-in-parens |
 
-### Locked launch trio titles (Ed Lawrence sequence — v14)
+**Critical observation:** ZERO client case studies in Ed's first 4. Three methodology + one PERSONAL case study (Ed's own $5m/yr story). His best-performing launch video is the personal case study (4.7K vs 1.6-2.8K).
 
-**Slot 1 — Day 1 — Methodology deep-dive (channel positioning anchor):**
-*"How I Scale Coaches From $20k/mo To $100k/mo With Claude"*
-- 30–45 min. Full methodology (SCALE pillars: Sales / Clients / Attention / Leads / Economics). Case-study fragments WOVEN IN as proof — Marianne, Foundr, Tara named once each, full breakdowns withheld for Slots 2-3.
-- This video answers "what is this channel about" for every cold viewer. Pin to Channel 2 home page once published.
-- Damásio's positioning condition satisfied by methodology-first slot order.
+**Anti-pattern reversed (v15):** prior v14 had Marianne + Foundr as Slots 2-3 client case studies. This violates Ed's actual pattern. Client case studies (Marianne, Foundr, Tara) move to Slots 5+ once channel positioning is established.
 
-**Slot 2 — Day 8 — Marianne proof case:**
-*"How Marianne Went From $40k/Year To $40k/Week (Without Sales Calls)"*
-- Drops "26-Year-Old Mum" (board broadening decision — gender/age narrowing). Keeps Marianne by name (verified outlier pattern), dollar transformation (Schwartz desire hook), curiosity gap ("Without Sales Calls").
-- Frames Marianne as the cleanest example of the system Slot 1 introduced.
+**Verified title-formula research (Tom Youngs + Cole Gordon + Ed):** outlier pattern is **methodology format + ICP inline + curiosity OR format indicator in parens.** ICP-in-parens is one Tom Youngs video, not a verified pattern. Parens boost CTR up to 38% but ONLY for format/curiosity kickers ("NEW AI System," "Full Playbook," "Nobody Teaches This"), NOT pure ICP labels.
 
-**Slot 3 — Day 15 — Foundr proof case:**
-*"How ONE Claude System Made Foundr $100k/mo"*
-- The DM Sales Engine deep-dive — single-mechanism breakdown, premium-tier proof.
+### Locked launch trio + personal case study (v15 — strict Ed Lawrence sequence)
 
-**Channel 1 collab — Day 18:**
-*"Copy This New AI System: $20k/mo To $100k/mo For Coaches"* (56 chars, Ed Lawrence "Copy This New X" pattern, monthly framing)
+**Slot 1 — Day 1 (2026-05-23) — Methodology umbrella (positioning anchor):**
+*"How To Scale A Coaching Business From $20k/mo To $100k/mo (NEW AI System)"*
+- 30–45 min. Full SCALE methodology overview (Sales / Clients / Attention / Leads / Economics). Marianne, Foundr, Tara named once each as proof; full case-study breakdowns withheld for Slots 5+.
+- Reader-perspective ("How To") for broader cold pull. ICP inline ("Coaching Business"). Curiosity-in-parens ("NEW AI System") = Tom Youngs verified outlier formula.
+- Pinned to Channel 2 home page. Answers "what is this channel about" for every cold viewer.
+
+**Slot 2 — Day 8 (2026-05-30) — Tactical breakdown (leads / attention pillar):**
+*"The Brutal Strategy Coaches Use To Get $20k/mo In Leads (Without Cold DMs)"*
+- 5–15 min. Models Ed's #2 ("This Brutal Strategy Will Dominate Your Niche On YouTube"). Single-mechanism teach — the lead-gen / content engine system.
+- Strong-adjective hook ("Brutal") + ICP inline ("Coaches") + curiosity-in-parens ("Without Cold DMs").
+
+**Slot 3 — Day 15 (2026-06-06) — Methodology long deep-dive (sales / clients pillar):**
+*"How To Close $5k+ Coaching Clients Without Sales Calls (Full Playbook)"*
+- 25–35 min. Models Ed's #3 ("How to start and launch a second channel (Deep dive)"). Single-mechanism deep-dive — the closing / DM-sales system.
+- "How To" methodology + ICP inline ("Coaching Clients") + format-in-parens ("Full Playbook").
+
+**Channel 1 collab — Day 18 (2026-06-09) — Bridge to Channel 2:**
+*"Copy This New AI System: $20k/mo To $100k/mo For Coaches"* (Ed Lawrence "Copy This New X" pattern, "Coaches" filter word)
+
+**Slot 4 — Day 22 (2026-06-13) — Personal case study (modeled EXACTLY on Ed's #4):**
+Ed's title: *"Exactly How I Made $5m/yr From YouTube (Nobody teaches this)"*
+Lauren's mirror: ***"Exactly How I Made $X+/yr From Coaching Businesses (Nobody Teaches This)"*** — `$X` pending Lauren's real annual revenue figure.
+- 10–15 min. Lauren's own operator story — building Scale Systems, scaling LinkedIn to 55k followers + $1M+ ARR clients. NOT a client case study.
+- Personal case study format + curiosity-in-parens "(Nobody Teaches This)" = exact Ed mirror. Best-performer in Ed's launch (4.7K views).
+
+**Marianne / Foundr / Tara client case studies → Slots 5-7+ (Days 29, 36, 43)** once Channel 2 has positioning + 3 weeks of algo data. Don't lead the channel with client storytelling.
 
 ### ICP language — locked (Lauren confirmed during session)
 - ✅ Use: **coaches, accelerator, program, online coaches, 6-figure coaches, 7-figure coaches**
@@ -246,41 +266,46 @@ https://scalesystems.io/aicontentsystem-page?utm_source=youtube&utm_medium=[chan
 | Param | Channel 1 (`@LaurenTickner`) | Channel 2 (Lauren Tickner Business) |
 |---|---|---|
 | `utm_medium` | `lauren-tickner` | `lauren-tickner-business` |
-| `utm_content` | per-video slug (e.g. `marketing-team-ai`) | per-video slug (e.g. `scale-coaches-deepdive`, `marianne-proof`, `foundr-dm-engine`) |
+| `utm_content` | per-video slug (e.g. `marketing-team-ai`) | per-video slug (e.g. `scale-coaches-umbrella`, `brutal-leads-system`, `close-without-calls`, `lauren-personal-story`) |
 | `utm_campaign` | publish date `YYYYMMDD` | publish date `YYYYMMDD` |
 
-**Locked launch trio + collab UTMs (Ed Lawrence sequence — v14):**
+**Locked launch UTMs (v15 — strict Ed Lawrence sequence):**
 
-- **Slot 1 / Methodology deep-dive (Day 1):** `?utm_source=youtube&utm_medium=lauren-tickner-business&utm_content=scale-coaches-deepdive&utm_campaign=20260523`
-- **Slot 2 / Marianne proof case (Day 8):** `?utm_source=youtube&utm_medium=lauren-tickner-business&utm_content=marianne-proof&utm_campaign=20260530`
-- **Slot 3 / Foundr proof case (Day 15):** `?utm_source=youtube&utm_medium=lauren-tickner-business&utm_content=foundr-dm-engine&utm_campaign=20260606`
+- **Slot 1 / Methodology umbrella (Day 1):** `?utm_source=youtube&utm_medium=lauren-tickner-business&utm_content=scale-coaches-umbrella&utm_campaign=20260523`
+- **Slot 2 / Tactical: leads (Day 8):** `?utm_source=youtube&utm_medium=lauren-tickner-business&utm_content=brutal-leads-system&utm_campaign=20260530`
+- **Slot 3 / Methodology deep-dive: sales (Day 15):** `?utm_source=youtube&utm_medium=lauren-tickner-business&utm_content=close-without-calls&utm_campaign=20260606`
 - **Channel 1 collab (Day 18):** `?utm_source=youtube&utm_medium=lauren-tickner&utm_content=copy-this-ai-system&utm_campaign=20260609`
+- **Slot 4 / Personal case study (Day 22):** `?utm_source=youtube&utm_medium=lauren-tickner-business&utm_content=lauren-personal-story&utm_campaign=20260613`
 
 (Adjust `utm_campaign` dates if launch shifts off 2026-05-23.)
 
 The tracking spreadsheet's "email signups attributed" column reads from the UTM bucket — channel and video are both visible per signup, so per-video revenue-per-view stays clean even when the same magnet powers both channels.
 
-### Channel 2 launch playbook (Ed Lawrence pattern — v14 corrected)
+### Channel 2 launch playbook (v15 — strict Ed Lawrence sequence)
 
-Sequential launch. Each video gets its own algo window — methodology Slot 1 establishes channel positioning before case studies arrive as proof.
+Sequential launch — 3 methodology videos + Channel 1 collab + 1 personal case study, mirroring Ed's actual first 4. Client case studies (Marianne, Foundr, Tara) move to Slots 5+.
 
-**Channel 2 / Slot 1 — Day 1 — Methodology deep-dive (POSITIONING ANCHOR)**
-- *"How I Scale Coaches From $20k/mo To $100k/mo With Claude"*
-- 30–45 min. Full methodology = **SCALE pillars** (Sales / Clients / Attention / Leads / Economics — Lauren's locked diagnostic). Marianne, Foundr, Tara each named once as proof; full case-study breakdowns withheld for Slots 2-3.
-- **Opt-in lead magnet:** AI Content System (`scalesystems.io/aicontentsystem-page`). The opt-in is the load-bearing move — Channel 2's small audience converts to email list from Day 1.
-- This video is pinned to Channel 2 home page once published. It answers "what is this channel about" for every cold viewer.
+**Channel 2 / Slot 1 — Day 1 (2026-05-23) — Methodology umbrella (POSITIONING ANCHOR)**
+- *"How To Scale A Coaching Business From $20k/mo To $100k/mo (NEW AI System)"*
+- 30–45 min. Full SCALE methodology overview. Marianne / Foundr / Tara named ONCE each as proof; full case-study breakdowns withheld for Slots 5+.
+- **Opt-in lead magnet:** AI Content System (`scalesystems.io/aicontentsystem-page`). Pinned to Channel 2 home page.
 
-**Channel 2 / Slot 2 — Day 8 — Marianne proof case**
-- *"How Marianne Went From $40k/Year To $40k/Week (Without Sales Calls)"*
-- 25–35 min. Full Marianne case-study breakdown. Frames her as the cleanest example of the SCALE system from Slot 1.
+**Channel 2 / Slot 2 — Day 8 (2026-05-30) — Tactical: leads/attention pillar**
+- *"The Brutal Strategy Coaches Use To Get $20k/mo In Leads (Without Cold DMs)"*
+- 5–15 min. Models Ed's #2. Single-mechanism teach on the lead-gen / content engine. Stop-cold-DMs pattern interrupt.
 
-**Channel 2 / Slot 3 — Day 15 — Foundr proof case**
-- *"How ONE Claude System Made Foundr $100k/mo"* (N3 formula).
-- 30–40 min single-mechanism deep-dive (the DM Sales Engine). Premium-tier proof anchoring the channel's $50k+ DFY backend.
+**Channel 2 / Slot 3 — Day 15 (2026-06-06) — Methodology long deep-dive: sales/clients pillar**
+- *"How To Close $5k+ Coaching Clients Without Sales Calls (Full Playbook)"*
+- 25–35 min. Models Ed's #3. Single-mechanism deep-dive on the closing / DM sales system.
 
-**Channel 1 collab — Day 18 — Bridge video (announcement)**
-- *"Copy This New AI System: $20k/mo To $100k/mo For Coaches"* — Ed Lawrence's *"Copy This New X"* pattern, "Coaches" = filter word.
-- 15–20 min long-form on the @LaurenTickner main channel. Teaches the methodology at HIGH LEVEL (broad-appeal). Foundr/Marianne named once each as proof. End: soft CTA: *"if you're a coach scaling past $20k/mo and want this at full operator depth, I went deeper on this on my second channel — link below."*
+**Channel 1 collab — Day 18 (2026-06-09) — Bridge video (announcement)**
+- *"Copy This New AI System: $20k/mo To $100k/mo For Coaches"* — Ed Lawrence's "Copy This New X" pattern, "Coaches" = filter word.
+- 15–20 min long-form on `@LaurenTickner`. Teaches methodology at HIGH level (broad-appeal). Foundr/Marianne named once each as proof. End: soft CTA pulling viewers to Channel 2.
+
+**Channel 2 / Slot 4 — Day 22 (2026-06-13) — Personal case study (modeled EXACTLY on Ed's #4)**
+- ***"Exactly How I Made $X+/yr From Coaching Businesses (Nobody Teaches This)"*** — `$X` pending Lauren's real annual revenue figure.
+- 10–15 min. Lauren's own operator story — Scale Systems origin, LinkedIn engine to 55k followers, $1M+ ARR clients. NOT a client case study.
+- Best-performer slot in Ed's launch (his #4 = 4.7K vs 1.6-2.8K for methodology slots). Personal story + curiosity-in-parens "(Nobody Teaches This)" = exact mirror.
 
 ### Anti-patterns locked (do NOT do)
 - ❌ Title the announcement video "I started a second channel" — title is content-led, collab is internal mechanism.
@@ -288,6 +313,8 @@ Sequential launch. Each video gets its own algo window — methodology Slot 1 es
 - ❌ Use lowercase on YouTube titles — Lauren's LinkedIn rule, not YouTube rule.
 - ❌ Use "course" / "digital product" / "info product" in ICP language — pulls Sara Finance hustle audience.
 - ❌ Lead Channel 2 with case study before methodology — viewer leaves with "Lauren replaced her team" instead of "Lauren has a system I want to buy."
+- ❌ **Lead Channel 2 launch with CLIENT case studies (Marianne, Foundr, Tara) in Slots 1-4.** Ed Lawrence's actual launch is 3 methodology + 1 PERSONAL case study, ZERO client case studies. Client storytelling early signals "marketing channel for an agency" → low-trust, low-CTR. Client case studies wait until Slots 5+. *Locked v15 2026-05-03 after Lauren caught violation in v14.*
+- ❌ ICP-in-parens at end of titles. Verified outlier pattern uses curiosity OR format indicators in parens ("NEW AI System," "Full Playbook," "Nobody Teaches This"), NOT pure ICP labels. Parens lift CTR 38% only when carrying curiosity/format.
 
 ### Tracking — locked
 - Manual Google Sheet, NOT RevTrack (Lauren confirmed).
@@ -297,13 +324,15 @@ Sequential launch. Each video gets its own algo window — methodology Slot 1 es
 ### No Shorts
 - Lauren confirmed during strategy session: no Shorts on either channel. Long-form only.
 
-### Launch timing — locked v14 (Ed Lawrence sequential pattern)
+### Launch timing — locked v15 (strict Ed Lawrence sequence)
 - **Launch day = 2026-05-23** (3 weeks from strategy lock)
-- **Day 1 (2026-05-23):** Channel 2 / Slot 1 — methodology deep-dive (`scale-coaches-deepdive`)
-- **Day 8 (2026-05-30):** Channel 2 / Slot 2 — Marianne proof case (`marianne-proof`)
-- **Day 15 (2026-06-06):** Channel 2 / Slot 3 — Foundr proof case (`foundr-dm-engine`)
+- **Day 1 (2026-05-23):** Channel 2 / Slot 1 — methodology umbrella (`scale-coaches-umbrella`)
+- **Day 8 (2026-05-30):** Channel 2 / Slot 2 — tactical: leads (`brutal-leads-system`)
+- **Day 15 (2026-06-06):** Channel 2 / Slot 3 — methodology deep-dive: sales (`close-without-calls`)
 - **Day 18 (2026-06-09):** Channel 1 collab — bridge video on `@LaurenTickner` (`copy-this-ai-system`)
-- Sequential schedule lets each video get its own algo window. Methodology Slot 1 establishes positioning; case studies follow as proof; Channel 1 collab on Day 18 drives qualified traffic to Channel 2 once it has 18 days of data.
-- 7-day evaluation gate after Day 1 (per board's earlier compromise — Iman wanted 1-video MVP, Hormozi wanted full 3-video commitment): if Slot 1 underperforms versus baseline, reassess before publishing Slot 2.
+- **Day 22 (2026-06-13):** Channel 2 / Slot 4 — personal case study (`lauren-personal-story`)
+- **Day 29+ (Slots 5-7):** client case studies — Marianne, Foundr, Tara — once channel has 4 videos + 4 weeks of algo data
+- Sequential schedule lets each video get its own algo window. Methodology slots 1-3 + Channel 1 collab establish positioning; personal case study Slot 4 lands the trust + warmth Ed's data shows is the highest-performing slot (4.7K vs 1.6-2.8K for methodology).
+- 7-day evaluation gate after Day 1 retained: if Slot 1 underperforms vs baseline, reassess before publishing Slot 2.
 
 When scripting for Lauren, the context prompt MUST specify which channel + which strategy at the top, and confirm the anchor tier ($20k or $100k) before drafting any title.
