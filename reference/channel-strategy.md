@@ -169,19 +169,31 @@ For Lauren Tickner specifically (locked 2026-05-02, deepened across the strategy
 
 **Anti-claim watch:** Lauren has 7-figure female case studies, NOT 8/9-figure female case studies. Foundr is 8-fig but male-founded. Don't conflate.
 
-### Locked launch trio titles (corrected with new positioning)
+### Binding framework — Ed Lawrence (LOCKED 2026-05-02 v14)
 
-**Slot 1 — Day 1 — Marianne flagship:**
-*"How A 26-Year-Old Mum Went From $40k/Year To $40k/Week (Without Sales Calls)"*
+The Channel 2 launch is modelled on **Ed Lawrence's dual-channel playbook**, not Tom Youngs' format. Tom Youngs is a verified outlier in Lauren's *lane* (case-study format) — not the binding framework. Ed Lawrence's pattern: **methodology deep-dive Slot 1 establishes channel positioning**, case studies follow as proof. Anti-pattern locked: "lead with case study before methodology" — viewer leaves with *"Lauren tells stories"* instead of *"Lauren has a system I want to buy."*
 
-**Slot 2 — Day 8 — Foundr case study:**
+The strategic-board-debate run on 2026-05-02 surfaced Lane A (case-study Slot 1, Tom Youngs pattern) but Lauren caught the framework violation — Tom Youngs ≠ Ed Lawrence. Reverting to Ed Lawrence's methodology-first sequence.
+
+### Locked launch trio titles (Ed Lawrence sequence — v14)
+
+**Slot 1 — Day 1 — Methodology deep-dive (channel positioning anchor):**
+*"How I Scale Coaches From $20k/mo To $100k/mo With Claude"*
+- 30–45 min. Full methodology (SCALE pillars: Sales / Clients / Attention / Leads / Economics). Case-study fragments WOVEN IN as proof — Marianne, Foundr, Tara named once each, full breakdowns withheld for Slots 2-3.
+- This video answers "what is this channel about" for every cold viewer. Pin to Channel 2 home page once published.
+- Damásio's positioning condition satisfied by methodology-first slot order.
+
+**Slot 2 — Day 8 — Marianne proof case:**
+*"How Marianne Went From $40k/Year To $40k/Week (Without Sales Calls)"*
+- Drops "26-Year-Old Mum" (board broadening decision — gender/age narrowing). Keeps Marianne by name (verified outlier pattern), dollar transformation (Schwartz desire hook), curiosity gap ("Without Sales Calls").
+- Frames Marianne as the cleanest example of the system Slot 1 introduced.
+
+**Slot 3 — Day 15 — Foundr proof case:**
 *"How ONE Claude System Made Foundr $100k/mo"*
-
-**Slot 3 — Day 15 — Methodology deep-dive:**
-*"How I Scale Coaches From $20k/mo To $100k/mo With Claude (Deep Dive)"*
+- The DM Sales Engine deep-dive — single-mechanism breakdown, premium-tier proof.
 
 **Channel 1 collab — Day 18:**
-*"Copy This New AI System: $20k/mo To $100k/mo For Coaches"* (56 chars, Ed Lawrence pattern, monthly framing)
+*"Copy This New AI System: $20k/mo To $100k/mo For Coaches"* (56 chars, Ed Lawrence "Copy This New X" pattern, monthly framing)
 
 ### ICP language — locked (Lauren confirmed during session)
 - ✅ Use: **coaches, accelerator, program, online coaches, 6-figure coaches, 7-figure coaches**
@@ -234,40 +246,41 @@ https://scalesystems.io/aicontentsystem-page?utm_source=youtube&utm_medium=[chan
 | Param | Channel 1 (`@LaurenTickner`) | Channel 2 (Lauren Tickner Business) |
 |---|---|---|
 | `utm_medium` | `lauren-tickner` | `lauren-tickner-business` |
-| `utm_content` | per-video slug (e.g. `marketing-team-ai`) | per-video slug (e.g. `marianne-flagship`, `foundr-dm-engine`, `scale-coaches-deepdive`) |
+| `utm_content` | per-video slug (e.g. `marketing-team-ai`) | per-video slug (e.g. `scale-coaches-deepdive`, `marianne-proof`, `foundr-dm-engine`) |
 | `utm_campaign` | publish date `YYYYMMDD` | publish date `YYYYMMDD` |
 
-**Locked launch trio + collab UTMs (use these verbatim in descriptions):**
+**Locked launch trio + collab UTMs (Ed Lawrence sequence — v14):**
 
-- **Slot 1 / Marianne flagship:** `?utm_source=youtube&utm_medium=lauren-tickner-business&utm_content=marianne-flagship&utm_campaign=20260523`
-- **Slot 2 / Foundr case study:** `?utm_source=youtube&utm_medium=lauren-tickner-business&utm_content=foundr-dm-engine&utm_campaign=20260530`
-- **Slot 3 / Methodology deep-dive:** `?utm_source=youtube&utm_medium=lauren-tickner-business&utm_content=scale-coaches-deepdive&utm_campaign=20260606`
-- **Channel 1 collab:** `?utm_source=youtube&utm_medium=lauren-tickner&utm_content=copy-this-ai-system&utm_campaign=20260609`
+- **Slot 1 / Methodology deep-dive (Day 1):** `?utm_source=youtube&utm_medium=lauren-tickner-business&utm_content=scale-coaches-deepdive&utm_campaign=20260523`
+- **Slot 2 / Marianne proof case (Day 8):** `?utm_source=youtube&utm_medium=lauren-tickner-business&utm_content=marianne-proof&utm_campaign=20260530`
+- **Slot 3 / Foundr proof case (Day 15):** `?utm_source=youtube&utm_medium=lauren-tickner-business&utm_content=foundr-dm-engine&utm_campaign=20260606`
+- **Channel 1 collab (Day 18):** `?utm_source=youtube&utm_medium=lauren-tickner&utm_content=copy-this-ai-system&utm_campaign=20260609`
 
 (Adjust `utm_campaign` dates if launch shifts off 2026-05-23.)
 
 The tracking spreadsheet's "email signups attributed" column reads from the UTM bucket — channel and video are both visible per signup, so per-video revenue-per-view stays clean even when the same magnet powers both channels.
 
-### Channel 2 launch playbook (Ed Lawrence pattern)
+### Channel 2 launch playbook (Ed Lawrence pattern — v14 corrected)
 
-Three videos at launch. Algo seeds with 3 days of data instead of 1. Per Ed.
+Sequential launch. Each video gets its own algo window — methodology Slot 1 establishes channel positioning before case studies arrive as proof.
 
-**Slot 1 — Channel 1 main video (collab to Channel 2)**
-- Topic-led title (NOT "I started a second channel"). Anti-pattern: announcement-as-topic videos.
-- Mirrors Ed's literal structure: *"Copy This New X, It's [verb] [identity-filter]"* — filter word does the audience-qualification work.
-- Ed's example: *"Copy This New YouTube Strategy, It's Blowing Up Businesses"* — "Businesses" is the filter.
-- Lauren's locked title: ***"Copy This New AI System, It's Blowing Up Online Coaches"*** — "Online Coaches" is the filter.
-- 15–20 min long-form. Teaches the methodology at HIGH LEVEL (broad-appeal). Foundr +$100k/mo named once as proof anchor. End of video: collab feature + soft CTA: *"if you're already past $100k/mo and want this installed at operator depth, I went deeper on this on my second channel."*
+**Channel 2 / Slot 1 — Day 1 — Methodology deep-dive (POSITIONING ANCHOR)**
+- *"How I Scale Coaches From $20k/mo To $100k/mo With Claude"*
+- 30–45 min. Full methodology = **SCALE pillars** (Sales / Clients / Attention / Leads / Economics — Lauren's locked diagnostic). Marianne, Foundr, Tara each named once as proof; full case-study breakdowns withheld for Slots 2-3.
+- **Opt-in lead magnet:** AI Content System (`scalesystems.io/aicontentsystem-page`). The opt-in is the load-bearing move — Channel 2's small audience converts to email list from Day 1.
+- This video is pinned to Channel 2 home page once published. It answers "what is this channel about" for every cold viewer.
 
-**Slot 2 — Channel 2 first video (deep-dive + opt-in)**
-- *"How I Build Marketing Operating Systems for $1M+ Coaches (Deep Dive)"*
-- 30–45 min. Full methodology (5-component system: Strategy / Voice / Production / Distribution / Optimisation). Case-study fragments WOVEN IN as proof; full breakdowns withheld.
-- **Opt-in lead magnet:** *"The AI Marketing Operating System Playbook"* (free PDF). Drives every viewer to email signup.
-- The opt-in is the load-bearing move — same as Ed's 90-day challenge gate. Channel 2's small audience converts to email list from Day 1.
+**Channel 2 / Slot 2 — Day 8 — Marianne proof case**
+- *"How Marianne Went From $40k/Year To $40k/Week (Without Sales Calls)"*
+- 25–35 min. Full Marianne case-study breakdown. Frames her as the cleanest example of the SCALE system from Slot 1.
 
-**Slot 3 — Channel 2 video #2 (first chapter / case study)**
-- *"How ONE Claude System Made Foundr $100k/mo"* (the marketing-team flagship — N3 formula).
-- 30–40 min single-mechanism deep-dive. The first chapter of the methodology Slot 2 introduced.
+**Channel 2 / Slot 3 — Day 15 — Foundr proof case**
+- *"How ONE Claude System Made Foundr $100k/mo"* (N3 formula).
+- 30–40 min single-mechanism deep-dive (the DM Sales Engine). Premium-tier proof anchoring the channel's $50k+ DFY backend.
+
+**Channel 1 collab — Day 18 — Bridge video (announcement)**
+- *"Copy This New AI System: $20k/mo To $100k/mo For Coaches"* — Ed Lawrence's *"Copy This New X"* pattern, "Coaches" = filter word.
+- 15–20 min long-form on the @LaurenTickner main channel. Teaches the methodology at HIGH LEVEL (broad-appeal). Foundr/Marianne named once each as proof. End: soft CTA: *"if you're a coach scaling past $20k/mo and want this at full operator depth, I went deeper on this on my second channel — link below."*
 
 ### Anti-patterns locked (do NOT do)
 - ❌ Title the announcement video "I started a second channel" — title is content-led, collab is internal mechanism.
@@ -284,11 +297,13 @@ Three videos at launch. Algo seeds with 3 days of data instead of 1. Per Ed.
 ### No Shorts
 - Lauren confirmed during strategy session: no Shorts on either channel. Long-form only.
 
-### Launch timing — locked 2026-05-02
-- **Launch day = approximately 2026-05-23** (3 weeks from strategy lock)
-- **Day 1:** ship all 3 Channel 2 videos at once (launch trio in single drop) on `Lauren Tickner Business`
-- **Day 2:** ship the Channel 1 collab announcement video on `@LaurenTickner` to push the right people (coaches with offers) to Channel 2
-- This sequence gives the algo 3 days of data on Channel 2 BEFORE the Channel 1 collab drives traffic — gives Channel 2 a clean baseline before mixing in cross-channel signal
-- Lauren's confirmed framing for Channel 1 collab: pull people who have coaching offers (not pure beginners)
+### Launch timing — locked v14 (Ed Lawrence sequential pattern)
+- **Launch day = 2026-05-23** (3 weeks from strategy lock)
+- **Day 1 (2026-05-23):** Channel 2 / Slot 1 — methodology deep-dive (`scale-coaches-deepdive`)
+- **Day 8 (2026-05-30):** Channel 2 / Slot 2 — Marianne proof case (`marianne-proof`)
+- **Day 15 (2026-06-06):** Channel 2 / Slot 3 — Foundr proof case (`foundr-dm-engine`)
+- **Day 18 (2026-06-09):** Channel 1 collab — bridge video on `@LaurenTickner` (`copy-this-ai-system`)
+- Sequential schedule lets each video get its own algo window. Methodology Slot 1 establishes positioning; case studies follow as proof; Channel 1 collab on Day 18 drives qualified traffic to Channel 2 once it has 18 days of data.
+- 7-day evaluation gate after Day 1 (per board's earlier compromise — Iman wanted 1-video MVP, Hormozi wanted full 3-video commitment): if Slot 1 underperforms versus baseline, reassess before publishing Slot 2.
 
 When scripting for Lauren, the context prompt MUST specify which channel + which strategy at the top, and confirm the anchor tier ($20k or $100k) before drafting any title.
