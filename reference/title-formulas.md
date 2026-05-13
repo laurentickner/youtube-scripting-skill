@@ -365,3 +365,73 @@ The bank stays current only if maintained. Lauren's research scans should re-run
 
 ### Lauren's saved fitness asset
 Lauren personally sold fitness programs + has a repeatable system she deploys for fitness coach clients (Ken / healthfitbro). **Save for Channel 1 Weeks 5-8 sprint** after launch trio ships. See `youtube-strategy/lauren-fitness-asset-notes.md` for queued title shapes. DO NOT activate before launch trio (channel-positioning whiplash risk).
+
+---
+
+## Lock UPDATE — 2026-05-13 (post-Anouar Rahmouni coach call, Iman team)
+
+**Source:** 35-min strategy call with Anouar Rahmouni (Iman Gadzhi's team — packaging/strategy lead) + Adrien (editor brief workflow) on 2026-05-13. Transcript at `~/Downloads/GMT20260511-140012_Recording.transcript.vtt`. Full strategy update logged in `youtube-strategy/04-strategy-synthesis-and-90day-plan.md` (⚠️ STRATEGY UPDATE — 2026-05-13 section). The Iman team built the `youtube-scripting` skill (via Kyle's Loom) — Anouar's feedback is direct one-on-one tuning of the same playbook.
+
+### Channel architecture — DUAL-CHANNEL DEFERRED
+- **Stay on `@LaurenTickner` only** for the next 2 months minimum.
+- Subscriber count is irrelevant in 2025/2026 — watch behavior matters. YouTube finds the right audience through performance, not channel age or sub count.
+- Post **5–10 more uploads** + 2 months minimum on the existing channel before considering Channel 2.
+- Only spin up Channel 2 IF: content has improved, packaging is nailed, AND performance still flatlines.
+- This OVERRIDES the prior dual-channel launch plan. Marketing-team video (was C2 Slot 1) + Channel 2 launch trio = PAUSED.
+
+### ICP narrowed — single-channel single-ICP
+- Channel 1 ICP locked: **people who sell coaching or advisory online.**
+- NOT e-commerce, NOT agencies (separate), NOT generic "online business."
+- Iman's exact feedback (referenced multiple times by Lauren): *"who is this channel for? is it for e-com? agencies? coaches?"* — Anouar confirmed: the more niche you go, the better views-wise.
+
+### Title voice — niche specificity wins
+- *"How to Get So Many High-Ticket Clients with AI it feels ILLEGAL"* — coach approved as "just about right" for this ICP.
+- Worth testing even more niche: *"How to Get So Many Coaching Clients with AI…"*
+- Use "high-ticket" or "coaching" framing in titles. Don't go generic ("customers" / "clients" without qualifier).
+
+### Body language rule — CRITICAL
+**Never call the viewer "coach" directly in body language.** Many clients run coaching offers but don't self-identify as coaches. This is the same pattern at Quantum Coaching according to Anouar's experience.
+
+- ✅ Titles CAN use "coaching" (third-person framing). *"How to scale a coaching business to $20k/m"* is fine.
+- ✅ Body third-person is fine. *"every coach has had the same week..."* — describing other people.
+- ❌ Body direct-address is banned. NEVER *"if you're a coach..."* / *"as a coach you should..."*
+- ✅ Use audience-neutral direct address: *"if you want X"* / *"your business"* / *"people scaling..."*
+- CTA also follows this rule: *"if your business is past $30k/m..."* NOT *"if you're a coach past $30k/m..."*
+
+### Intro authority hook — required
+Every intro needs an authority beat ("why should I listen to you on this") within the first 3 sentences. Don't bury it past the 8-second mark. Lauren's locked example: *"i generated 1,000+ high-ticket clients in my own business before ai existed"* — proof + Iman conditional setup in one line.
+
+### Retention curve discipline (post-publish — every video)
+- Study the curve after publishing.
+- **Peaks** = what worked. Apply more of that in next videos.
+- **Dips** = where viewers left. Cut or rework in next scripts.
+- This is how the channel learns over time, not just for one video.
+
+### AVD targets (per video length)
+- 10-min video: aim 3–4 min AVD (YouTube universal average).
+- DON'T artificially extend video length to inflate AVD. YouTube uses % viewed, not duration. Making a 90-min video to get 10 min AVD = worse retention %.
+
+### Packaging-change tracking discipline
+- Screenshot analytics BEFORE any title/thumbnail change.
+- Use thumbnailtest.com properly. If it has a tech glitch, revert manually.
+- Never change packaging mid-momentum without checking the retention/views chart first.
+- Lauren's recent video lost momentum because a change wasn't tracked — flagged by Anouar as a real loss.
+
+### Anti-patterns locked (2026-05-13 additions)
+- ❌ Direct-address viewer as "coach" in body
+- ❌ Launching Channel 2 before validating single-channel pivot (2 months minimum)
+- ❌ Packaging changes mid-momentum without analytics screenshot
+- ❌ Subtle thumbnail "variants" sold as "different concepts" (must be 3-5 completely distinct concepts)
+
+### Thumbnail brief discipline (per Anouar)
+- Push agency/designer for **3 to 5 completely DIFFERENT concepts**, not subtle variants of one composition.
+- *"I don't want concepts with just me on the side, and then two logos here, and one time there's fire, the second time there's a text. That's one concept, subtle changes."* (Anouar verbatim.)
+- Lauren provides 3 thumbnail references in the brief (what works as outlier for this channel).
+- Agency does their own research too — checks what's working on YouTube for this topic.
+- Final delivery = 3 distinct concepts minimum, up to 5 total (3 unique + 2 still-variants).
+- Adopt Iman's playlist-of-references method: maintain a shared playlist of approved thumbnail references for the channel.
+
+### Editor handoff discipline
+- Use Adrien's brief template (Iman team — sent via Slack).
+- Brief structure: footage / goal / title / references / vibe / mood / duration.
+- See `reference/post-production-and-editor-handoff.md` for full template + Anouar's editing direction.

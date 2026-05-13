@@ -336,3 +336,69 @@ Sequential launch — 3 methodology videos + Channel 1 collab + 1 personal case 
 - 7-day evaluation gate after Day 1 retained: if Slot 1 underperforms vs baseline, reassess before publishing Slot 2.
 
 When scripting for Lauren, the context prompt MUST specify which channel + which strategy at the top, and confirm the anchor tier ($20k or $100k) before drafting any title.
+
+---
+
+## ⚠️ LOCK UPDATE — 2026-05-13 (Anouar Rahmouni coach call, Iman team)
+
+**Source:** 35-min strategy call with Anouar Rahmouni (Iman team — packaging/strategy lead) + Adrien (editor brief). Transcript at `~/Downloads/GMT20260511-140012_Recording.transcript.vtt`. The Iman team built the `youtube-scripting` skill via Kyle's Loom — Anouar's call is direct one-on-one tuning of the same playbook. Trust both — they compound, not conflict.
+
+### Architecture override — DUAL-CHANNEL DEFERRED
+
+The v15 launch sequence above (Channel 2 launch on 2026-05-23, etc.) is **PAUSED** pending coach-validated single-channel performance.
+
+**Single-channel decision rule (per Anouar):**
+- Subscriber count is irrelevant in 2025/2026. Watch behaviour is what matters. YouTube finds the right audience by performance signal, not channel age or sub count.
+- Post **5–10 more uploads** on the existing channel before considering a new channel.
+- **2 months minimum** evaluation window.
+- Only spin up Channel 2 IF: content is improved, packaging is dialed in, AND performance still flatlines.
+
+**What this means for Lauren:**
+- Stay on `@LaurenTickner` for next 2 months
+- Sales-floor video repositioned from C2 Slot 4 → C1 next ship
+- Marketing-team flagship + Channel 2 launch trio = PAUSED
+- Re-evaluate in 2 months based on 5-10 uploads' performance
+
+### ICP — narrowed and locked
+
+Channel 1 ICP: **people who sell coaching or advisory online.** Not e-commerce, not agencies (separate ICPs), not generic "online business."
+
+Iman's verbatim feedback (referenced by Lauren on call): *"who is this channel for? is it for e-com? is it for agencies? is it for coaches?"* — Anouar confirmed: more niche = better views.
+
+### Body language rule — CRITICAL
+
+**Never call the viewer "coach" directly in body language.** Many clients run coaching offers but don't self-identify as "coaches" (same pattern Anouar observed at Quantum Coaching).
+
+| Where | Allowed | Banned |
+|---|---|---|
+| **Title** | ✅ "coaching business" / "coaching clients" (third-person) | — |
+| **Body — third person** | ✅ "every coach has had the same week..." | — |
+| **Body — direct address** | ✅ "if you want X" / "your business" / "people scaling..." | ❌ "if you're a coach..." |
+| **CTA** | ✅ "if your business is past $30k/m..." | ❌ "if you're a coach past $30k/m..." |
+
+### Title direction approved
+
+- *"How to Get So Many High-Ticket Clients with AI it feels ILLEGAL"* — coach approved as "just about right" for this ICP.
+- Test even more niche: *"How to Get So Many Coaching Clients with AI…"* — Anouar said "100% test that."
+
+### Intro authority hook — required
+
+Every intro needs an authority beat ("why should I listen to you on this") within the first 3 sentences. Don't bury it past the 8-second mark.
+
+### Channel 1 video pipeline (post-2026-05-13 single-channel pivot)
+
+Recommended 8-week sequence to hit Anouar's 5-10 uploads in 2 months guidance:
+
+| # | Video | Format | Formula |
+|---|---|---|---|
+| 1 | **Sales-floor** (repositioned from C2 Slot 4) | Teleprompter, 21 min | System reveal hybrid |
+| 2 | **B4 Iman conditional rebuild ($20k/m coaching business with Claude)** | Bullet-point conversational, 15-25 min | B4 |
+| 3 | **Defection narrative (ChatGPT → Claude)** | Conversational, 12-15 min | Martell pattern |
+| 4 | **Kellan F1 ($20k/m with one claude system, just copy me)** | Talking-head + screen-record, 18 min | B1 |
+| 5 | **B7 Martell reassurance (you're not behind: run your sales floor in 1 weekend)** | Conversational, 12-15 min | B7 |
+
+Mixed formats + formulas give the algo varied signal to find the right audience inside the narrow ICP.
+
+### Re-evaluation gate
+
+After 5-10 uploads + 2 months on single channel, re-run the channel-decision tree above. If performance picked up → stay single. If flatline persists despite dialed packaging → spin up Channel 2 with the paused launch trio.
