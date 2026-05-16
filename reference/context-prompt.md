@@ -18,7 +18,7 @@ Title: {{exact video title}}
 Channel: {{Main / Business / Extended}}
 Channel viewer profile: {{2-4 lines describing who watches this channel — e.g.:
 "Main Channel: broad appeal, mix of beginners and intermediates exploring online business; they want clarity, big-picture transformation, and they may not know our unique mechanism yet."
-"Business Channel: sophisticated audience, established operators / agency owners doing $100k+/mo, looking for high-leverage strategy."
+"Business Channel: sophisticated audience, established coaches / advisors / agency owners doing $100k+/mo, looking for high-leverage strategy."
 "Extended Channel: smart beginners; they've found us already, watched the main channel, understand the unique mechanism, want more nuanced step-by-step depth."}}
 
 Brief from {{name}}:
@@ -40,7 +40,7 @@ Narratives to subtly instil:
 
 - ATTENTION narrative: makes the viewer feel like they're discovering something hidden in plain sight that most people are walking past. Positions them as "early adopters who see what others don't" rather than "late to the party."
 
-- VALIDATION narrative: removes the risk of being wrong by showing credible, successful people are already doing this. Provides social proof that reduces decision anxiety. If respected people are doing it, pursuing this opportunity isn't foolish — it's what smart people do. Examples to weave in: {{specific named operators already doing it}}.
+- VALIDATION narrative: removes the risk of being wrong by showing credible, successful people are already doing this. Provides social proof that reduces decision anxiety. If respected people are doing it, pursuing this opportunity isn't foolish, it's what smart people do. Examples to weave in: {{specific named coaches / brands / experts already doing it}}.
 
 - DEMOCRATIZATION narrative: removes the capability barrier by showing you don't need years of expertise, special skills, or unique advantages. Transformation: from "this works for other people but not for me" → to "this is specifically designed to work for someone in my exact situation." Makes the opportunity feel accessible to THEM.
 

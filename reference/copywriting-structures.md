@@ -160,29 +160,71 @@ There must always be something unresolved in the viewer's mind. That's what driv
 
 ## BODY POINTS — the Value Loop
 
-Every body point follows the **Value Loop**: a three-step structure that suits how the brain processes information — surface facts first, then inference, then connection back to the big picture.
+**Every body point follows the Value Loop.** It is a three-part structure that matches how the brain takes in information: surface facts first, then how to use them, then connection back to the big picture. Source: Callaway "how to write killer scripts" — see `reference/source-transcript-callaway-killer-scripts.md`.
 
-| Step | What it does | What to write |
+### The three parts — run them in this order, every body point
+
+| Step | Say... | What to write |
 |---|---|---|
-| **1. Context** | Say what it is. | Define the concept. Explain it as simply as possible. Clear, concise, digestible. Surface-level facts first. |
-| **2. Application** | Say how to do it. | Use as many relevant examples as needed to articulate the point. Make it interesting and easy to digest so they can act on it themselves. Tactical. |
-| **3. Framing** | Say why this matters. | Show how this point fits into the overall puzzle of the full story. Help them zoom out and see why it's worth continuing to watch. Re-orient them in the big picture. |
+| **1. Context** | what it is | Define the concept. Explain it as simply as possible. Clear, concise, digestible. Surface-level facts first. |
+| **2. Application** | how to do it | Use as many relevant examples as needed to articulate the point. Interesting and easy to digest, so they can start taking action on their own. Tactical. |
+| **3. Framing** | why it matters | Show how this point fits into the overall puzzle of the full story. Re-orient them so when they zoom out, they see why it is worth continuing to watch the video. |
 
-### Why this works
+### 🛑 The #1 rule — ONE body point = ONE complete loop
 
-The brain processes information in zoom-out → zoom-in → zoom-out waves. Big picture, then tactics, then big picture again. Each Value Loop is one wave. Across the script, you build a sequence of waves that lock the viewer into the full story while still delivering tactical value they can extract and use.
+The most common Value Loop failure: taking a section that teaches **several distinct ideas** and writing it as one long run of Context + Application with a **single Framing bolted onto the end**. The middle becomes "teach, teach, teach" with no zoom-out — the exact "sounds like a rant" failure the Value Loop exists to prevent.
 
-This is also what stops a script from sounding like a rant. Without the Value Loop, body points become "do this, then this, then this" — informational but flat. With the Value Loop, every point is teaching + application + reorientation.
+**Each distinct teaching idea is its own body point, and gets its own COMPLETE loop — Context AND Application AND Framing.** A pillar or section that teaches 3 ideas is **3 body points = 3 Value Loops**, not one.
+
+### How to tell if you have one body point or several
+
+Count the distinct *claims* the section makes. If it says "here's idea A... and also idea B... and also idea C," that is 3 body points. Each needs its own Framing.
+
+A **connective sentence** ("but most people get the next part wrong") is NOT a Framing. A Framing answers *why this idea matters to the viewer's bigger goal* and re-orients them. A connective sentence just changes topic. Don't mistake one for the other.
+
+### Worked example — the failure, caught
+
+The B4 video's "Clients" pillar taught three distinct ideas: (1) WHO you serve, (2) WHAT they buy (the before/after, not the method), (3) ONE consistent package. First draft wrote all three as one section with a single Framing at the very end.
+
+| Idea | Context | Application | Framing |
+|---|---|---|---|
+| WHO you serve | ✅ | ✅ | ❌ flowed straight into idea 2, no zoom-out |
+| WHAT they buy | ✅ | ✅ examples | ⚠️ thin mini-close, no real zoom-out |
+| ONE package | ✅ | ✅ | ✅ strong — but it was carrying all three |
+
+Fix: treat it as 3 body points. Give ideas 1 and 2 their own one-to-two-line Framing — a genuine zoom-out tying the idea to the viewer's goal. Cost: ~20 seconds of runtime. Payoff: each idea re-hooks the viewer instead of stacking flat.
+
+### Re-hooking — the transition between body points
+
+Between the Framing of one body point and the Context of the next, set a **mini-hook**: one line that makes the viewer need the next point. Pattern: "that point matters, but on its own it is not enough — because of what happens next." Attention decays on a delay; without a re-hook the viewer drifts off between points even if they liked the last one.
+
+### Ordering body points — second-best first
+
+Where the content order is free (not a locked sequence like the SCALE pillars), lead with your **second-strongest** point and put the strongest **second**. Two strong points in a row, the second better than the first, builds a subconscious "the value keeps climbing" pattern so the viewer stays for the third. Open with your strongest and everything after feels like a downhill drift.
+
+### Why the Value Loop works
+
+The brain processes information in zoom-out → zoom-in → zoom-out waves. Big picture, then tactics, then big picture again. Each Value Loop is one wave. Across the script you build a sequence of waves that lock the viewer into the full story while still delivering tactical value they can extract and use. Without it, body points become "do this, then this, then this" — informational but flat.
+
+### Pre-delivery audit — run before sending ANY body section
+
+1. List every distinct idea the section teaches.
+2. For EACH idea: does it have Context AND Application AND Framing? Mark each ✅ / ❌.
+3. Any idea missing Framing → write a real zoom-out (why it matters to the viewer's goal), not a connective sentence.
+4. Is there a re-hook between each idea and the next?
+5. Show this audit table to the user before delivering. **No body section ships without it.**
 
 ### Prompt to give Claude when requesting each body point
 
-> *"Write Body Point [N]: [name of point]. Follow the Value Loop structure exactly: (1) Context — say what it is, explain it simply, surface-level facts first; (2) Application — say how to do it, use relevant examples to articulate the point, make it tactical enough they can act on it; (3) Framing — say why this matters, show how it fits into the overall puzzle, help them zoom out and see why it's worth continuing to watch.*
+> *"Write Body Point [N]: [name of point]. Follow the Value Loop exactly: (1) Context — say what it is, explain it simply, surface-level facts first; (2) Application — say how to do it, use relevant examples, make it tactical enough they can act on it; (3) Framing — say why this matters, show how it fits the overall puzzle, zoom them out so they see why to keep watching.*
 >
-> *Pick up flow naturally from the previously-approved sections (pasted above). Don't repeat anything already covered.*
+> *If this section teaches more than one distinct idea, treat each idea as its own body point with its own complete loop — do not stack teaching points under a single Framing.*
 >
-> *[If a narrative needs to be instilled in this section, name it here:] Subtly weave in the [validation / democratization / etc.] narrative through the examples used in the Application step.*
+> *Pick up flow naturally from the previously-approved sections (pasted above). Don't repeat anything already covered. End with a re-hook into the next point.*
 >
-> *Sound natural for a teleprompter. Each sentence must enable the next — peeling onion. No walls of text. No AI-jargon, no formulaic transitions, no 'Here's the thing' / 'Pay attention to this' / 'Here's why' colon-list openers."*
+> *[If a narrative needs instilling: weave the [validation / democratization / etc.] narrative through the Application examples.]*
+>
+> *Teleprompter-natural. Each sentence enables the next — peeling onion. No walls of text. No AI-jargon, no formulaic transitions, no 'Here's the thing' / 'Pay attention to this' / 'Here's why' colon-list openers."*
 
 ---
 

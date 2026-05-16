@@ -36,6 +36,7 @@ These are the real failures Claude has made on this skill. Pattern-match against
 | **Skipping file reads on follow-up sections** | Once Claude has drafted the intro, it gets momentum and stops re-reading reference files for packaging / body / outro. | Re-read the relevant reference file at the start of EACH section. No exceptions. |
 | **Ignoring "Lock for Lauren's setup" sections** | Claude drafted from formulas without checking whether the specific video already has a locked title / packaging / format pre-decided in the reference file. | Search reference files for any "Lock for [user]'s setup" sections. They override formula-bank picks. |
 | **Single hook delivery** | Claude delivered one hook sentence and forced iteration via pushback. Wastes cycles. | Always export 2 hook variants from different hook types. User picks. |
+| **Multi-idea section as one Value Loop** | A body section taught 3 distinct ideas (who you serve / what they buy / one package) written as one run of teaching with a single Framing bolted on the end. The middle was teach-teach-teach with no zoom-out. | ONE body point = ONE complete loop. A section teaching N distinct ideas = N body points = N Value Loops, each with its own Framing. Run the body-point pre-delivery audit in `copywriting-structures.md` → BODY POINTS before sending. |
 
 If you catch yourself doing any of these mid-draft → stop, re-read the file, restart that section. **Do not deliver the bad draft and rationalise.**
 
@@ -336,7 +337,7 @@ Now (and only now) decide if the script is too long. **Trim manually.** Remove s
 | R5 | Manually build the outline — never delegate sequencing to Claude. |
 | R6 | Section-by-section writing only — never request the full script in one go. |
 | R7 | Intro must meet expectations within the first lines AND exceed them. |
-| R8 | Body points use the Value Loop (Context → Application → Framing). |
+| R8 | Body points use the Value Loop (Context → Application → Framing). ONE body point = ONE complete loop. A section teaching N distinct ideas = N body points = N loops, each with its own Framing — never stack teaching points under a single Framing. Run the body-point pre-delivery audit before sending. |
 | R9 | Packaging section uses opening + closing loops continuously. |
 | R10 | Run the banned-language sweep before finalising. Every hit gets rewritten. |
 | R11 | Trim manually. Never ask Claude to shorten. |

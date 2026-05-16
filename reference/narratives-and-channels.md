@@ -12,7 +12,7 @@ Each channel has a different persona and tone. The channel choice changes outlin
 - **Format example for shorter videos (10–15 min):** Conversational, off-the-dome, often filmed in unconventional settings (e.g. Iman's car). Iman's preferred deliverable for these = **bullet points**, not a word-for-word teleprompter.
 
 ### Business Channel — sophisticated audience
-- **Viewer:** Established operators / agency owners / $100k+/mo founders. They want high-leverage strategy, not introductory content.
+- **Viewer:** Established coaches / advisors / agency owners / $100k+/mo founders. They want high-leverage strategy, not introductory content.
 - **Tone:** Restrained, peer-to-peer, technical.
 - **Narrative work:** Light. The viewer is past the initial belief-installation stage.
 - **Format:** Heavily visual — Canva slides, Miro boards as overlays. Speaks AND shows simultaneously so the viewer can follow both auditorily and visually.
@@ -37,7 +37,7 @@ These narratives apply *primarily to Main Channel content* — especially warm-u
 ### 2. Validation narrative
 - **Mechanism:** Show that credible, successful people are already doing this.
 - **Psychological effect:** Removes the risk of being wrong via social proof. Reduces decision anxiety. "If respected people are doing it, this isn't a foolish move — it's what smart people do."
-- **In script:** Name actual operators, brands, or proof-figures already on the path. Specific names beat vague "many entrepreneurs."
+- **In script:** Name actual coaches, brands, or proof-figures already on the path. Specific names beat vague "many entrepreneurs."
 
 ### 3. Democratization narrative
 - **Mechanism:** Remove the capability barrier. Show they don't need years of expertise, special skills, or unique advantages.
@@ -57,7 +57,7 @@ In the context prompt at Step 5, name each narrative AND its psychological purpo
 
 Example instruction in the prompt:
 
-> *"VALIDATION narrative: weave in 2–3 specific named operators already running this model. Don't list them — work them into specific examples or proof points within body points 2 and 3 so they read as natural illustrations, not name-drops."*
+> *"VALIDATION narrative: weave in 2–3 specific named coaches / brands / experts already running this model. Don't list them, work them into specific examples or proof points within body points 2 and 3 so they read as natural illustrations, not name-drops."*
 
 ---
 
