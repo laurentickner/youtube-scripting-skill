@@ -358,6 +358,7 @@ Now (and only now) decide if the script is too long. **Trim manually.** Remove s
 - [`reference/banned-ai-language.md`](reference/banned-ai-language.md) — the comprehensive banned-words list
 - [`reference/quality-checklist.md`](reference/quality-checklist.md) — final gate before finalising (incl. per-video tracking discipline)
 - [`reference/post-production-and-editor-handoff.md`](reference/post-production-and-editor-handoff.md) — editor brief template (Adrien/Iman team) + AI-on-screen style + thumbnail brief discipline + retention-curve post-publish loop + packaging-change tracking. Use for every video handoff to an editor.
+- [`reference/coaching-feedback.md`](reference/coaching-feedback.md) — **living log of feedback from Lauren's weekly Educate.io coaching calls. Most current source of truth — overrides older guidance on conflict.** Read before any intro/title/packaging work.
 
 ---
 
