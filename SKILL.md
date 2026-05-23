@@ -70,7 +70,7 @@ Every time you transition from one section (intro / packaging / body point / out
 
 The mapping:
 - **Title** → `reference/title-formulas.md` (formulas + Lock-for-user section)
-- **Intro** → `reference/copywriting-structures.md` (Boring Intro System + canonical pattern)
+- **Intro** → `reference/copywriting-structures.md` (Boring Intro System + canonical pattern). **For problem-aware ICPs also load** `reference/problem-mechanism-intro.md` — problem-mechanism scaffold + coined-name move, leads with the mechanism of the problem before the solution.
 - **Packaging** → `reference/copywriting-structures.md` (Packaging section + open/close loops)
 - **Body Points** → `reference/copywriting-structures.md` (Value Loop section)
 - **Outro** → `reference/copywriting-structures.md` (Outro section)
@@ -359,6 +359,7 @@ Now (and only now) decide if the script is too long. **Trim manually.** Remove s
 - [`reference/quality-checklist.md`](reference/quality-checklist.md) — final gate before finalising (incl. per-video tracking discipline)
 - [`reference/post-production-and-editor-handoff.md`](reference/post-production-and-editor-handoff.md) — editor brief template (Adrien/Iman team) + AI-on-screen style + thumbnail brief discipline + retention-curve post-publish loop + packaging-change tracking. Use for every video handoff to an editor.
 - [`reference/coaching-feedback.md`](reference/coaching-feedback.md) — **living log of feedback from Lauren's weekly Educate.io coaching calls. Most current source of truth — overrides older guidance on conflict.** Read before any intro/title/packaging work.
+- [`reference/problem-mechanism-intro.md`](reference/problem-mechanism-intro.md) — **how to open a video by leading with the mechanism of the PROBLEM before the solution.** Coined-name move + 5-part scaffold + audience-sophistication rule + worked example (Lauren's SCALE / "the Hidden Variable") + 3 ICP variations. Use whenever the video's ICP is **problem-aware**. Pattern from Luis (Educate.io), 2026-05-21.
 
 ---
 
