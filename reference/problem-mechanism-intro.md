@@ -66,20 +66,45 @@ Per Luis: explain the solution as the answer to the named problem.
 
 ---
 
-## 4. The coined-name move
+## 4. The Unique Mechanism of the Problem (UMP) — Educate.io doctrine
 
-The name has to be:
+The named-problem move is formally called the **Unique Mechanism of the Problem (UMP)** in Educate.io's framework. Source: Ghost Rider training module — *"Unique Mechanism of the Problem: find the real culprit of problems and sell more."*
 
-- **Short.** One phrase the viewer can remember after one watch.
-- **Diagnostic, not insulting.** Frame the trap as structural, not a personal flaw. *"The Hidden Variable"* good. *"The Lazy Coach Trap"* bad.
-- **Set up the solution.** The name should make your solution feel like the obvious next step. (Lauren's SCALE example: *the Hidden Variable* → so you need to see all 5 variables → SCALE.)
-- **New to them.** Don't reuse industry-standard labels (*imposter syndrome*, *shiny-object syndrome*). Coin something.
+### Why a UMP
 
-Luis mentioned Educate.io has a **Ghost Rider** agent that helps generate this name. If you don't have it, generate 3 candidates each pulling a different lever, then pick the one that pays off your packaging:
+It's where you place **all the blame** for the problem. The fewer belief points you have to install in someone, the higher the conversion. Ideally a single belief point: *if they believe in X, therefore Y, and that means buying my product — perfect.* It also makes content naturally lead to the sale: if the viewer believes they HAVE this problem, it becomes natural to want to SOLVE it with your solution.
+
+### Six techniques for impactful names
+
+1. **Surprising, out-of-the-ordinary facts**
+2. **Creative and simple descriptions**
+3. **Paradoxical questions that spark curiosity**
+4. **Challenges to existing beliefs**
+5. **Terms that sound more scientific than markety**
+6. **Words with assonance (similar sounds)**
+
+### The 4-part UMP structure — fill all four for every UMP
+
+For each UMP, define:
+
+1. **Technical definition (formal)** — the structurally precise version. Sounds scientific.
+2. **Simple definition (direct language)** — one sentence the viewer instantly gets.
+3. **Elevator pitch (short version)** — 2–3 sentences. The version you say on a podcast.
+4. **Similes and analogies** — 3–5 concrete comparisons (algebra, plumbing, cars, health, etc.) so the abstract mechanism lands in the body.
+
+### The neologism rule
+
+*"Neologising (creating new words) helps you stand out. But remember — besides a different name, you need substance behind it. It's the combination of both that makes the rocket launch."*
+
+So: a coined word (Audience Lag, Equation Blindness, Founder Tax) plus the full 4-part substance is the goal. A clever name alone won't convert. Substance alone won't be remembered. You need both.
+
+### Naming-lever shortlist
+
+When you don't have access to the Ghost Rider agent, generate 3 candidates each pulling a different lever, run each through the 6 naming techniques + the 4-part structure, then pick the one that pays off your packaging:
 
 - **Lever A** — name the *hidden cause* (e.g. "The Hidden Variable")
 - **Lever B** — name the *failure mode* (e.g. "Single-Lever Scaling")
-- **Lever C** — name the *broken state* (e.g. "The Broken Equation")
+- **Lever C** — name the *broken state* (e.g. "The Broken Equation" / "Equation Blindness")
 
 ---
 
@@ -87,10 +112,42 @@ Luis mentioned Educate.io has a **Ghost Rider** agent that helps generate this n
 
 **Video:** *the EXACT path to $20,000/m as an online coach (no ads, no funnels)*
 **ICP:** online coaches at $5-10k/month who've tried AI tools and still feel stuck. Problem-aware ✅.
-**Named problem:** **the Hidden Variable.**
+**Named problem (UMP):** **the Hidden Variable.**
 **Solution mechanism:** the SCALE Equation — Sales, Clients, Attention, Leads, Economics.
 
-Teleprompter script (lowercase delivery voice — drop straight into the script as Beat 3 + Beat 4):
+### Full 4-part UMP — the Hidden Variable
+
+**1. Technical definition (formal).**
+A coaching business is a five-variable revenue equation: Sales, Clients, Attention, Leads, Economics. The Hidden Variable is the term in that equation a founder is structurally blind to — they neither measure it, optimise it, nor recognise it as the source of their plateau. As effort scales on the four visible variables, the hidden one becomes the rate-limiting factor on revenue, so output is capped no matter how hard the founder works the others.
+
+**2. Simple definition (direct language).**
+The one part of your coaching business you can't see, that quietly drains the four parts you can.
+
+**3. Elevator pitch (2–3 sentences).**
+Most coaches are stuck at $10k a month for the same structural reason. They're pouring effort into the four parts of the business they can see, while a fifth part is silently leaking. They don't have an effort problem — they have a Hidden Variable.
+
+**4. Similes and analogies (use in the body for compounding aha).**
+- **Algebra.** You're trying to solve a five-variable equation while looking at four of the variables. No matter how perfectly you balance those four, the answer won't resolve until you can see the fifth.
+- **Plumbing.** It's a slow leak under the floorboards. You can replace every visible pipe in the house — water pressure still drops, because the real leak is the one you've never lifted the boards to look at.
+- **Driving.** You're flooring the accelerator while one tyre is silently flat. You're putting more energy in, the car is moving slower, the dashboard isn't telling you why.
+- **Health.** It's the deficiency a routine blood panel misses. You feel exhausted, you train harder, you eat cleaner — until the right test reveals the missing nutrient, nothing moves.
+- **Boats.** You can row twice as hard, but if there's a hole in the hull you don't know about, the boat still fills with water.
+
+### Naming check — the Hidden Variable against the 6 techniques
+
+| Technique | Pass? | Note |
+| --- | --- | --- |
+| Surprising / out-of-ordinary | ✅ | Coaches don't think of their business as having a "hidden" variable. |
+| Creative + simple description | ✅ | 2 words. Plain English. |
+| Paradoxical question / curiosity | ✅ | *"Which variable is hidden?"* opens the loop directly. |
+| Challenges existing beliefs | ✅ | Reframes "I'm not doing enough" as a perception problem, not an effort problem. |
+| Sounds scientific not markety | ✅ | Algebraic language (variable, equation). |
+| Assonance | ⚠ | Limited — *hidden / variable* don't sound alike. Acceptable trade for the curiosity loop the name opens. |
+| Neologism (bonus, per Educate.io tip) | ❌ | Both words pre-exist. Two stronger neologism alternatives if you want more "scientific coinage" feel: **Equation Blindness** (scientific + paradoxical) or **Pillar Drift** (compact + slightly neologistic). |
+
+The Hidden Variable wins on doing structural work for the script (it IS the open loop and Economics IS literally the hidden variable revealed in the retention beat). A neologism would be stronger on the "stand out" axis but weaker on structural payoff. Recommended ship: **the Hidden Variable** unless you want to test a neologism variant against it.
+
+### Teleprompter script (Beat 3 + Beat 4) — lowercase delivery voice
 
 > *so here's what doing that for years taught me.*
 >
