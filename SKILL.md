@@ -72,7 +72,7 @@ The mapping:
 - **Title** → `reference/title-formulas.md` (formulas + Lock-for-user section)
 - **Intro** → `reference/copywriting-structures.md` (Boring Intro System + canonical pattern). **For problem-aware ICPs also load** `reference/problem-mechanism-intro.md` — problem-mechanism scaffold + coined-name move, leads with the mechanism of the problem before the solution.
 - **Packaging** → `reference/copywriting-structures.md` (Packaging section + open/close loops)
-- **Body Points** → `reference/copywriting-structures.md` (Value Loop section)
+- **Body Points** → `reference/copywriting-structures.md` (Value Loop section). **For criteria-list body points (N things to check / N rules of X) load** `reference/state-cost-application-rule-framework.md` — STATE/COST/APPLICATION/RULE per criterion + universal two-kinds-of-X opener + analogy test. **For single-concept body points load** `reference/coaching-feedback.md` 2026-05-24 entry — Foundation/Theory/Example/Application.
 - **Outro** → `reference/copywriting-structures.md` (Outro section)
 - **Voice** → `reference/banned-ai-language.md` + user's voice rules
 - **Quality** → `reference/quality-checklist.md`
@@ -360,6 +360,7 @@ Now (and only now) decide if the script is too long. **Trim manually.** Remove s
 - [`reference/post-production-and-editor-handoff.md`](reference/post-production-and-editor-handoff.md) — editor brief template (Adrien/Iman team) + AI-on-screen style + thumbnail brief discipline + retention-curve post-publish loop + packaging-change tracking. Use for every video handoff to an editor.
 - [`reference/coaching-feedback.md`](reference/coaching-feedback.md) — **living log of feedback from Lauren's weekly Educate.io coaching calls. Most current source of truth — overrides older guidance on conflict.** Read before any intro/title/packaging work.
 - [`reference/problem-mechanism-intro.md`](reference/problem-mechanism-intro.md) — **how to open a video by leading with the mechanism of the PROBLEM before the solution.** Coined-name move + 5-part scaffold + audience-sophistication rule + worked example (Lauren's SCALE / "the Hidden Variable") + 3 ICP variations. Use whenever the video's ICP is **problem-aware**. Pattern from Luis (Educate.io), 2026-05-21.
+- [`reference/state-cost-application-rule-framework.md`](reference/state-cost-application-rule-framework.md) — **canonical 4-part structure for criteria-list body points (N things to check, N signs of X, N rules of Y).** STATE / COST / APPLICATION / RULE per criterion, with Setup-Framework Alignment rule + Analogy Test + Growth-Dynamics Logic + two-kinds-of-X universal opener + worked example (Lauren's 5-Star Client). Pattern from Kyle Denyssen (Educate.io), 2026-05-24.
 
 ---
 
