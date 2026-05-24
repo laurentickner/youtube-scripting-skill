@@ -132,6 +132,21 @@ The packaging is the memorable container the audience walks away with. Examples:
 
 This is where you name the framework and introduce its components — but don't explain them yet. That comes in body points.
 
+### 🔑 Acronym packaging rule (Kyle, 2026-05-24)
+
+**If your packaging is an acronym (SCALE, GROW, REACH, etc.) — do NOT spell out the letters in the intro/packaging beat.** Name the framework only. Each letter reveals at the moment its body beat lands.
+
+> *Kyle: "I wouldn't reveal each element. Not revealing each element we create a curiosity gap / open loop which helps retention."*
+
+❌ *"…I call it SCALE. Sales. Clients. Attention. Leads. Economics."* (closes 5 loops at once)
+✅ *"…I call it the SCALE Equation. Over the rest of this video we'll unpack every one of the five elements in detail."* (5 loops still open)
+
+**If your teaching order does NOT match the acronym's left-to-right order (e.g. SCALE but you start with C), call out the swap explicitly at the top of the first body beat.** Don't make the viewer figure out the reordering — name it.
+
+> *Kyle: "The acronym is SCALE, so the viewer expects you to start with S (Sales). But you start with C (Clients). Worth calling out the reverse order explicitly before you dive in."*
+
+Full source: `reference/coaching-feedback.md` 2026-05-24.
+
 ### Driving retention through opening + closing loops
 
 The packaging section is where loop-driven retention engineering lives.
