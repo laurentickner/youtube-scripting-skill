@@ -357,15 +357,115 @@ Before sending the package to the editor:
 - [ ] Every beat has a B-roll cue
 - [ ] Cut list in the Editor Brief is exhaustive
 - [ ] All 3 QA agents have run; MUST-FIXes addressed; DECIDEs called by operator
+- [ ] **Echo audit run** (§10) — framework name, element count, action verbs, outcome promises all under budget
+- [ ] **Splice-opportunity audit run** (§11) — every new VO beat scanned for matching phrases in original footage; splice opportunities noted in the editor brief
+- [ ] **Salvage audit run** — CUT-but-still-good footage (e.g., the carve-out) considered for face-time re-insertion
 - [ ] Banned-word sweep on every new VO line (per `reference/banned-ai-language.md`)
 - [ ] No markdown syntax in the script that will appear as literal characters in Google Docs
 - [ ] Recording checklist at the bottom of the script
+- [ ] "X minutes" placeholders in X2X / time-anchor beats filled in with the actual final runtime
 - [ ] Cover note ready as a Slack/email paste
 - [ ] Voice-continuity check planned (record a sample, A/B against original)
 
 ---
 
-## 10. Source + exemplars
+## 10. Echo Audit Before Recording
+
+When you assemble beats from multiple sources (original face takes + new VO + substance-match reuses), the transitions between beats were never planned together. Repetition accrues silently. The viewer hears the same phrase twice in 30 seconds and the script feels amateur, even though each individual beat reads well in isolation.
+
+Run an echo audit on the assembled script BEFORE you record the new VO. Two minutes of counting saves a re-record.
+
+### How to run it
+
+For each of the following high-frequency phrase families, count occurrences across the intro + body 1 SETUP (the densest part of any script):
+
+- **Framework name** (e.g., "SCALE", "SCALE Equation") — should appear at most 3 times in the intro
+- **Element count** (e.g., "five elements", "all five", "the five") — should appear at most 4 times in the intro
+- **Action verbs you reach for as defaults** (e.g., "walk you through", "unpack", "show you") — should appear at most 1-2 times in the intro
+- **Outcome promises** (e.g., "scale past that same number consistently", "$20k a month") — should appear at most 2 times in the intro
+
+If a phrase exceeds the budget, identify which beat OWNS the meaning and CUT the restatements from the other beats. The first instance carries; subsequent instances erode.
+
+### Common echo traps to look for
+
+- **PREVIEW names the acronym → body 1 opener re-names it.** Fix: the body opener doesn't need to re-introduce the framework that was just named. Open the body with the angle, not the name.
+- **X2X says "walk you through" → PREVIEW says "unpack every single one".** Same verb-class twice. Fix: pick the stronger one, drop the other.
+- **BREAK BELIEF teases "five elements" → X2X restates "every one of those five elements" → PREVIEW restates "five elements".** Fix: BREAK BELIEF earns the number reveal; X2X can refer to "every one of them" (pronoun); PREVIEW can reference "the five" without re-saying "elements."
+- **BREAK BELIEF close promises "scale past that number" → X2X echoes "scaling past that same number consistently".** Fix: X2X is a time-budget bridge. Drop the outcome restatement; the BREAK BELIEF close already landed it.
+
+### The mental heuristic
+
+> Each key concept gets named ONCE per ~60 seconds of intro. Pronouns and demonstratives ("them", "those five", "it", "this") replace re-naming.
+
+If you find yourself writing "the SCALE Equation" three sentences in a row, you've lost confidence in your own framework. Cut.
+
+### Real example (caught 2026-05-24 during the Kyle revision)
+
+Across the assembled intro + B-1 opener, the term "five elements / five / all five" appeared 7 times and "SCALE / SCALE Equation" appeared 4 times in 90 seconds. Cuts that fixed it:
+- I-2 BREAK BELIEF tightened close (dropped "and when those five elements are done right, they let you…" — replaced with "Done right, those five let you…")
+- I-3 X2X dropped "so that just by following them, you can start scaling past that same number consistently"
+- I-5 PREVIEW dropped "Each letter of the word SCALE stands for one of those five elements" (implicit) + dropped "Get all five working together, and the whole thing finally clicks into place" expansion
+- B-1 dropped opening "It's called the SCALE Equation for a reason" (SCALE just named in I-5)
+
+Net: ~40 fewer words across the intro. Same substance. Audibly more confident.
+
+---
+
+## 11. Splice-Opportunity Audit (face-time from existing footage)
+
+In VO-Only Retrofit Mode (§3), new beats default to B-roll throughout — the editor can't cut to face during a VO beat because the new audio is from a different location. This is fine but leaves the cut visually heavy on B-roll.
+
+The fix: scan the original filmed footage for phrases that ALSO appear in the new VO content. The editor can then splice short face-fragments from the original audio under the new VO B-roll, creating brief face-time moments inside otherwise VO-only beats. The operator's job is to FIND the matches and hand them to the editor.
+
+### When to run it
+
+After the Path B retrofit is mapped (existing vs new) and the new VO scripts are drafted. BEFORE finalising the editor brief.
+
+### How to run it
+
+For each new VO beat:
+
+1. Pull up the new VO line(s).
+2. Search the original filmed script (or transcript) for any phrase ≥3 words that appears in BOTH.
+3. Match logic — accept:
+   - Verbatim matches
+   - Near-verbatim (1-2 word swaps, e.g., "you/I", "the/a")
+   - Subject/tense swaps if the editor can crop tight on the matching fragment
+4. Note in the editor brief as a SPLICE OPPORTUNITY under each beat: which fragment, from where in the original, what visual moment it could cover.
+
+### Quality limits to spell out for the editor
+
+- **At most 1-2 face-splice moments per VO beat.** More than that and the alternation feels frantic.
+- **Tight cuts.** Splice on phrase boundaries, not mid-word. Audio joins should be invisible.
+- **Audio continuity risk.** Original takes and new VO are from different sessions. Even after EQ-matching, subtle differences exist. Excessive splicing exposes the mismatch.
+- **Lip-sync risk.** If the existing footage's lip movement doesn't match the new VO words exactly, the editor must cut to face AT the matching word and AWAY before the divergence. Tight-cut on the boundaries.
+
+### Splice opportunities are OPTIONAL flexibility, not required
+
+Default rule for the editor: use new VO + B-roll as the canonical treatment for every new beat. Splice in face fragments only where they add variety to a particularly long VO beat or where the matching phrase is unusually strong.
+
+### Real example (mapped 2026-05-24 during the Kyle revision)
+
+For Lauren's "$20k/m as an Online Coach" revision, the audit found these high-value splices for the editor:
+
+| New VO beat | Matching fragment from original | Face-splice opportunity |
+|---|---|---|
+| I-5 PREVIEW: *"Get all five working together, and the whole thing finally clicks into place."* | Original PACKAGING: *"…how to **get all five working together**, in the right order…"* | Editor can cut to face on "get all five working together" mid-beat. |
+| I-5 PREVIEW: *"…working way more hours for way less money."* | Original stakes line: *"…leave you **working way more hours for way less money**…"* | Editor cuts to face on the matching fragment — gives the stakes moment a face beat. |
+| C1-3 APPLICATION: *"Even if the only person I solved it for was myself."* | Original C1 RULE: *"Even if **the only person you ever solved it for was yourself**."* | Editor cuts to face on the near-verbatim fragment (slight you/I subject swap, edit on the matching phrase). |
+| C2-2 APPLICATION: *"Did they **reply to your messages** within a reasonable time?"* | Original C2-1: *"Watch whether they **reply to your messages**."* | Brief face moment on "reply to your messages". |
+
+Without these splice maps, the editor defaults to B-roll across the entire I-5 PREVIEW and APPLICATION beats. With them, the cut alternates more naturally between face and B-roll, even in VO-only mode.
+
+### Special case: salvaging cut content for face-time
+
+Sometimes the substance-match audit and the Path B trims leave you with **cut-but-still-good** footage from the original. Examples from the Kyle revision: the carve-out *"I will not be teaching you how to coach. That is your zone of genius…"* was fully cut in Path B but is a high-quality face take that doesn't conflict with anything in the new structure.
+
+If face-time is short, audit your CUT list for content that could be re-inserted as bonus face moments (not as required content). The carve-out can re-enter between I-4 CREDIBILITY and I-5 PREVIEW, for example, giving the viewer ~15 extra seconds of face after the credibility lands.
+
+---
+
+## 12. Source + exemplars
 
 - 2026-05-24 Kyle Denyssen revision of the "$20k/m as an Online Coach" script. Logged in `coaching-feedback.md` 2026-05-24.
 - Exemplar files (Path B implementation, in the project folder, not the skill):
