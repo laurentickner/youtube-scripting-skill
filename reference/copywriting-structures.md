@@ -25,6 +25,36 @@ Used effectively in: *Copy & Paste THIS Strategy To Make Your First $1,000 Onlin
 
 > *"Write the introduction following the One-Sentence Persuasion structure: Encourage their dreams → Justify their failures → Allay their fears → Confirm their suspicions. The intro must (1) meet the expectation set by the title within the first lines and (2) exceed it by promising more than the title offered. Sound natural for a teleprompter — no walls of text, line by line. No AI-jargon, no formulaic transitions, no 'Here's the thing' or colon-list openers."*
 
+### Structure 1B — Short Form (high-production reach) — NEW from Kyle 2026-06-01
+
+For high-production sit-down videos chasing reach (top of funnel, broad audience): **drop Break Belief entirely** and move Preview up.
+
+**Beat order:** Hook → Preview → X2X → Credibility.
+
+**Length target:** ~15–20 seconds total.
+
+| Beat | What it does |
+|---|---|
+| **Hook** | Short. Hard hitting. Title-mirror in line 1. Industry stat / fact / interesting number ideal. |
+| **Preview** | "And the way I'm going to do that is by [mechanism]." This IS the Preview beat — names what the video walks through. Don't skip the "and the way I'm going to do that is by" phrasing. |
+| **X2X** | Name the destination state explicitly — "this is going to get you from where you are to [end state]." Sell what they want even if the video teaches what they need. |
+| **Credibility** | One number / one named result. Not a CV recital. |
+
+**When to use Short Form vs Long Form (Structure 1, below):**
+
+- **Short Form:** sit-down high production, video chasing reach, top-of-funnel, sophisticated audience that already accepts the underlying belief — go straight to the mechanism.
+- **Long Form (Structure 1):** off-the-cuff / car format / low production, video for existing audience, narrative installation, belief-breaking needed before mechanism lands.
+
+**Logic (Kyle, verbatim):** *"We want to meet those expectations quickly. And we're going for reach. By giving the preview, we're meeting those expectations, and have the chance to exceed them when we give the preview."*
+
+**Worked template for "trending title" videos:**
+
+> *"In today's video, I'm going to show you exactly [title promise]. And the way I'm going to do that is by [mechanism, with a specific number]. This is going to get you from [where you are now] to [destination state]. [One-line credibility]. Let's get into it."*
+
+**Prompt to give Claude when requesting this intro:**
+
+> *"Write the introduction following Short Form structure (Hook → Preview → X2X → Credibility). Drop Break Belief. Open with a hard-hitting line that mirrors the title and ideally includes an industry stat / fact / number. Sentence 2 = preview using the format 'And the way I'm going to do that is by [mechanism].' Sentence 3 = X2X destination ('from where you are to [end state]'). Sentence 4 = one specific credibility number, not a CV. Total target ~15-20 seconds. Teleprompter-natural, no AI-jargon, do NOT name any branded system or framework the script hasn't yet explained (per Kyle's cognitive load rule — `reference/coaching-feedback.md` 2026-06-01 entry)."*
+
 ### Structure 2 — Hook → Break Belief → X-to-X → Credibility
 
 Four-beat sequence:

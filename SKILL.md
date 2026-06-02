@@ -253,6 +253,8 @@ Banned in intros: listing things the viewer might have tried; origin story befor
 
 Full mechanics → `reference/copywriting-structures.md`.
 
+**Before drafting any intro, also open `reference/intro-style-bank.md`** — a bank of 7 verified intros (Dan Martell + Ed Lawrence) tagged with pattern shape (Compressed Structure 1 / Paradigm-Shift Hook / Reframe + Delayed-Credibility / Question + Data Flex / Hyperbole + Immediate Dive / Structure 1 + Extended Analogy). Pick the matching pattern, read the exemplar, draft to match its beat sequence in Lauren's voice.
+
 Three non-negotiables for every intro, regardless of structure:
 
 1. **Meet expectations fast** — Boring Intro Rule 2.
@@ -346,6 +348,7 @@ Now (and only now) decide if the script is too long. **Trim manually.** Remove s
 
 ## Reference files
 
+- [`reference/intro-style-bank.md`](reference/intro-style-bank.md) — **bank of 7 verified intros** (Dan Martell + Ed Lawrence, full transcripts) tagged with pattern shape + beat maps + when-to-use notes. Read before drafting any intro.
 - [`reference/context-prompt.md`](reference/context-prompt.md) — the exact opening prompt template
 - [`reference/channel-strategy.md`](reference/channel-strategy.md) — single / dual / multi-channel framework (Ed Lawrence + Iman). Decision tree before scripting.
 - [`reference/packaging-workflow.md`](reference/packaging-workflow.md) — Target → Pain → Title → Thumbnail order. **Required STEP before drafting any title.** Includes Mr Beast principle + 1-in-10 outlier rule + redirect-at-end rule.
