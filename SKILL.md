@@ -1,11 +1,11 @@
 ---
 name: youtube-scripting
-description: End-to-end YouTube script writing using the Iman Gadzhi / Educate.io Claude scripting process documented by Kyle. Use whenever the user asks to write a YouTube script, draft a video script, write an intro/hook/packaging/body points/outro for a video, plan a YouTube content sprint, or produce a teleprompter-ready script. Triggers on phrases like "write a YouTube script", "draft a video script for [title]", "script this video", "warm-up video script", "intro for my YouTube video", "write the body points", "scripting for YouTube", "Iman scripting process", "Educate scripting", "value loop body point", "one-sentence persuasion intro", or any request to take a video title + brief and produce a full YouTube script. Walks the operator through brief intake → campaign objective + narratives → outline → context-prompt → reference loading → section-by-section writing → quality gate, all in a single Claude chat. Encodes the banned-AI-language list, both proven intro structures, the Value Loop body framework, opening/closing loops for packaging, the meet-and-exceed-expectations rule for intros, and Kyle's exact correction word-tracks for fixing punchy AI output.
+description: End-to-end YouTube script writing using the Iman Gadzhi / Educate.io Claude scripting process documented by Kyle, with Lauren Tickner's live Benji scripting refinements layered on top. Use whenever the user asks to write a YouTube script, draft a video script, write an intro/hook/packaging/body points/outro for a video, plan a YouTube content sprint, or produce a teleprompter-ready script. Triggers on phrases like "write a YouTube script", "draft a video script for [title]", "script this video", "warm-up video script", "intro for my YouTube video", "write the body points", "scripting for YouTube", "Iman scripting process", "Educate scripting", "value loop body point", "one-sentence persuasion intro", or any request to take a video title + brief and produce a full YouTube script. Walks the operator through brief intake → campaign objective + narratives → human-owned Lego outline → context-prompt → reference loading → competitor research bible → section-by-section writing → quality gate. Encodes the banned-AI-language list, both proven intro structures, the Value Loop body framework, What/Why/How planning diagnostics, Point Zero context, opening/closing loops for packaging, the meet-and-exceed-expectations rule for intros, and Kyle's exact correction word-tracks for fixing punchy AI output.
 ---
 
 # YouTube Scripting (Iman / Educate.io process)
 
-This is the exact Claude scripting process the Educate.io product team uses for Iman Gadzhi's three YouTube channels. Follow it end-to-end, in order. Don't skip phases.
+This is the exact Claude scripting process the Educate.io product team uses for Iman Gadzhi's three YouTube channels, with Lauren Tickner's later live scripting refinements from Benji layered on top where they add detail. Follow it end-to-end, in order. Don't skip phases.
 
 The whole job runs in **one continuous Claude chat**. Never start a new chat partway through — context and learning compound across the conversation.
 
@@ -36,356 +36,410 @@ These are the real failures Claude has made on this skill. Pattern-match against
 | **Skipping file reads on follow-up sections** | Once Claude has drafted the intro, it gets momentum and stops re-reading reference files for packaging / body / outro. | Re-read the relevant reference file at the start of EACH section. No exceptions. |
 | **Ignoring "Lock for Lauren's setup" sections** | Claude drafted from formulas without checking whether the specific video already has a locked title / packaging / format pre-decided in the reference file. | Search reference files for any "Lock for [user]'s setup" sections. They override formula-bank picks. |
 | **Single hook delivery** | Claude delivered one hook sentence and forced iteration via pushback. Wastes cycles. | Always export 2 hook variants from different hook types. User picks. |
-| **Multi-idea section as one Value Loop** | A body section taught 3 distinct ideas (who you serve / what they buy / one package) written as one run of teaching with a single Framing bolted on the end. The middle was teach-teach-teach with no zoom-out. | ONE body point = ONE complete loop. A section teaching N distinct ideas = N body points = N Value Loops, each with its own Framing. Run the body-point pre-delivery audit in `copywriting-structures.md` → BODY POINTS before sending. |
+| **Multi-idea section as one Value Loop** | A body section taught 3 distinct ideas written as one run of teaching with a single Framing bolted on the end. | ONE body point = ONE complete loop. A section teaching N distinct ideas = N body points = N Value Loops. |
+| **AI inventing chapter architecture** | AI decided the core sequence before the expert had chosen the main ideas. | Human expert chooses the core Whats first. AI researches and expands inside that architecture. |
+| **Explaining while brainstorming** | The outline became bloated before all candidate ideas were visible. | Collect the Lego pieces first, then reorder, then expand. |
+| **Forced transitions** | Two points needed a paragraph of connective tissue to seem related. | Reorder or cut. Good connections usually need one meaningful sentence. |
+| **Competitor imitation** | A successful competitor video was treated as a template to recreate. | Use competitor content as a belief map and research source, then add expert agreement, disagreement, nuance, proof, and lived experience. |
 
 If you catch yourself doing any of these mid-draft → stop, re-read the file, restart that section. **Do not deliver the bad draft and rationalise.**
 
 ---
 
-## ⚠️ THREE LOAD-BEARING RULES (read before every section)
-
-Failing these is the #1 cause of skill failure. They override your instinct to look reasonable.
+## ⚠️ LOAD-BEARING RULES
 
 ### R-A — Self-audit before delivery
-Before delivering ANY section to the user, restate the rules that apply to that section, audit your draft against each one, and report compliance in a table. **No section ships without the audit shown.** If you skip the audit, you will hand-wave a rule violation and the user will catch it before you do.
-
-**Mandatory audit-table format:**
-
-```
-| Rule (cite source file + line/section) | Draft check | Pass/Fail |
-|---|---|---|
-| [exact rule text from the reference file] | [how the draft satisfies / violates] | ✅ / ❌ |
-```
-
-If any row is ❌, **rewrite before delivering.** Don't deliver with caveats.
+Before delivering ANY section to the user, restate the rules that apply to that section, audit your draft against each one, and report compliance in a table. **No section ships without the audit shown.**
 
 ### R-B — Default to compliance, not exception
-If a rule is borderline (e.g. "intro is 9s but rule says 8s"), **rewrite to comply**. Do NOT rationalise an exception with "the audience is patient" / "this is operator-tier" / "borderline is fine." Every exception you talk yourself into is a rule failure.
+If a rule is borderline, rewrite to comply. Do not rationalise an exception.
 
 ### R-C — When two rules collide, find the compression that honours both
-The most common collision: Structure 2 (Hook → Break Belief → X-to-X → Credibility, 4 beats) vs Boring Intro System (3 sentences total). The wrong move is to give each beat a paragraph and break the 3-sentence rule. The right move is to compress 4 beats into 3 sentences (the Lyme canonical pattern in `reference/copywriting-structures.md`). When in doubt: stricter rule wins.
+Use the stricter rule, compress rather than stacking structures.
 
 ### R-D — Read the reference file at the start of every section transition
-Every time you transition from one section (intro / packaging / body point / outro) to the next, your first action is to **open the relevant reference file with the Read tool** and quote the rules that apply. Not "recall from earlier." Read the file. Even if you read it 5 minutes ago.
-
 The mapping:
-- **Title** → `reference/title-formulas.md` (formulas + Lock-for-user section)
-- **Intro** → `reference/copywriting-structures.md` (Boring Intro System + canonical pattern). **For problem-aware ICPs also load** `reference/problem-mechanism-intro.md` — problem-mechanism scaffold + coined-name move, leads with the mechanism of the problem before the solution.
-- **Packaging** → `reference/copywriting-structures.md` (Packaging section + open/close loops)
-- **Body Points** → `reference/copywriting-structures.md` (Value Loop section). **For criteria-list body points (N things to check / N rules of X) load** `reference/state-cost-application-rule-framework.md` — STATE/COST/APPLICATION/RULE per criterion + universal two-kinds-of-X opener + analogy test. **For single-concept body points load** `reference/coaching-feedback.md` 2026-05-24 entry — Foundation/Theory/Example/Application.
-- **Outro** → `reference/copywriting-structures.md` (Outro section)
+- **Title** → `reference/title-formulas.md`
+- **Intro** → `reference/copywriting-structures.md`, and for problem-aware ICPs `reference/problem-mechanism-intro.md`
+- **Packaging** → `reference/copywriting-structures.md`
+- **Body Points** → `reference/copywriting-structures.md`, plus `reference/state-cost-application-rule-framework.md` for criteria bodies, `reference/coaching-feedback.md` for single concepts
+- **Outline planning, sequencing, competitor research, case studies, depth control** → `reference/benji-live-scripting-2026-08-28.md`
+- **Outro** → `reference/copywriting-structures.md`
 - **Voice** → `reference/banned-ai-language.md` + user's voice rules
 - **Quality** → `reference/quality-checklist.md`
 
+### R-E — Expert owns architecture, AI owns heavy research inside it
+AI may suggest candidate supporting material, examples, evidence, objections, and subpoints. AI must not lock the main chapter sequence before the creator has chosen the core Whats.
+
+### R-F — Lego before prose
+Collect core pieces first. Reorder them until the sequence flows. Only then expand with Why, How, examples, proof, and transitions.
+
+### R-G — Point Zero when the viewer needs a new frame
+If the viewer will misinterpret the tactics without a worldview reset, limiting-belief break, or objective choice, add Point Zero before Point One. Do not force Point Zero into every video.
+
 ---
 
-## STEP 0 — Preflight (do this BEFORE writing anything)
+## STEP 0 — Preflight
 
 Before any script work, confirm with the user:
 
 1. **Title** — exact video title.
-2. **Channel architecture** — single, dual, or multi-channel? If dual, is this video for **Channel 1 (broad/growth)** or **Channel 2 (narrow/buyer-intent)**? See `reference/channel-strategy.md` for the dual-channel decision tree (Ed Lawrence framework + eligibility check).
-3. **Channel persona** — Main / Business / Extended (or this user's equivalent). See `reference/narratives-and-channels.md`.
-4. **If Channel 2:** which Channel 2 strategy? Strategy 1 (Beginner→Advanced / Iman) · Strategy 2 (Fan content / Saraev) · Strategy 3 (News+Commentary / Patel+Siu) · Strategy 4 (Clipping+Q&A / Hormozi). Most operators ship 1+2.
-5. **ICP qualifier** — for buyer-intent content, the title MUST contain or strongly imply a specific ICP (e.g. "for coaches doing $100k+/mo"). Lock the qualifier before drafting the title.
-6. **Packaging workflow — Target → Pain → Title → Thumbnail (in that order).** See `reference/packaging-workflow.md`. **Required STEP before any title work.** Cannot pick a title until target viewer + pain/promise are locked. Cannot pick a thumbnail concept until title is locked. The order is non-negotiable. Skipping any step = packaging fails downstream.
-
-7. **Title — pick from the verified formula bank.** See `reference/title-formulas.md`. Channel 1 → B1-B10. Channel 2 → N1-N6. **Do NOT invent titles.** Pick a formula, fill placeholders with the user's actual data (real numbers, named clients, named tool), check against char cap (<70) + anti-formula list. Always cite which formula + which exemplar outlier proves it. If no formula fits, tell the user — don't guess.
-
-8. **Thumbnail concept — pick from the verified concept catalog.** See `reference/thumbnail-design.md`. Show tangible proof (chart / dashboard / screenshot). Max 3 elements. Face + emotion match. <1 second mobile-readable. Do NOT use AI-generated thumbnails or logo stacks.
-
-9. **A/B test plan.** See `reference/ab-testing-protocol.md`. New uploads = hourly testing via thumbnailtest.com (4-5 variations + original). Track CTR × AVD, not just CTR.
-7. **Brief format** — just a title? title + bullets? title + meeting transcript? Get the brief.
-8. **Campaign context** — is this a warm-up video, a lead-capture-period video, an evergreen, an event nurture? What's the campaign objective? What action should the viewer take by the end?
-8. **Narratives** — which of attention / validation / democratization / timing need to be subtly instilled? Channel 1 leans attention + democratization; Channel 2 leans validation heavily.
-9. **Unique mechanism + contributor** — the core mechanism + the enabler that makes it accessible.
-
-If any of this is missing → ask before continuing. Don't invent a campaign objective.
+2. **Channel architecture** — single, dual, or multi-channel?
+3. **Channel persona** — Main / Business / Extended or equivalent.
+4. **If Channel 2:** which strategy?
+5. **ICP qualifier** — for buyer-intent content, the title must contain or strongly imply the ICP.
+6. **Packaging workflow — Target → Pain → Title → Thumbnail.**
+7. **Title formula** — pick from `reference/title-formulas.md`, do not invent without saying no formula fits.
+8. **Thumbnail concept** — use `reference/thumbnail-design.md`.
+9. **A/B test plan** — use `reference/ab-testing-protocol.md`.
+10. **Brief format** — title only, title + bullets, title + meeting transcript, etc.
+11. **Campaign context** — objective, offer context, desired action.
+12. **Narratives** — attention, validation, democratization, timing where relevant.
+13. **Unique mechanism + contributor**.
+14. **Video type** — tutorial/masterclass, case study/authority, commentary/response, or other.
+15. **Primary business outcome** — where relevant, decide whether the video is optimising for revenue/client acquisition, fame/brand, reach, or another goal. Do not let vanity metrics silently dictate the script.
 
 **Hard rules locked at preflight:**
 
 - **NEVER tell Claude the script length.** Length constraints destroy output quality. Trim manually after the script is written.
 - **One script = one chat.** Same chat for all sections, all feedback, all revisions.
-- **Default model: Claude Sonnet 4.6 Extended Thinking** (the team's tested baseline). Opus only if strategy is unusually high-stakes.
+- **Default model: Claude Sonnet 4.6 Extended Thinking** unless the user explicitly chooses another setup.
 
 ---
 
 ## STEP 1 — Receive the brief
 
-The brief comes in one of three forms:
-
-1. **Title only** — common. You'll need to interview the user for direction.
-2. **Title + rough breakdown** — bullet points or Whispr-Flow'd ideas in the content calendar.
-3. **Title + meeting transcript** — best case. Paste the transcript into the eventual context prompt verbatim.
-
-Capture the brief verbatim. Don't rephrase it yet.
+Capture the brief verbatim. Do not rephrase it yet.
 
 ---
 
 ## STEP 2 — Confirm campaign objective + narratives
 
-Every campaign has:
-
-- **An objective** — what you want the viewer to do/believe by the end.
-- **A narrative** — the story across every touchpoint that moves them from where they are to ready-to-buy.
-
-For **warm-up campaigns and any video sequence leading into a VSL/event/offer**, instil the four narratives subtly:
-
-| Narrative | Psychological effect |
-|---|---|
-| **Attention** | "I'm an early adopter discovering what others walk past" |
-| **Validation** | "Credible successful people are already doing this — it's not a foolish move" |
-| **Democratization** | "This is designed for someone in *my* situation, not just theoretically possible" |
-| **Timing** | "Genuine market/tech shift, not artificial scarcity — the window is now" |
-
-These are NEVER stated explicitly. They are woven through arguments, examples, and proof.
-
-**Channel modifier:**
-- **Main** → full narrative framework, transformation-focused.
-- **Extended** → goodwill + nurturing, but still subtly reinforce unique-mechanism narratives so positioning stays consistent.
-- **Business** → sophisticated audience, restrained narrative work.
-
-Full breakdown → `reference/narratives-and-channels.md`.
+Every campaign has an objective and a narrative. For warm-up campaigns and video sequences leading into a VSL/event/offer, weave attention, validation, democratization, and timing where relevant. Never state those labels to the viewer.
 
 ---
 
-## STEP 3 — Pick video length & depth (DO NOT tell Claude)
+## STEP 3 — Pick video depth privately, do not prompt runtime into Claude
 
-This decision shapes the outline, not the prompt to Claude.
+Decide whether this is:
 
-- **10–15 min** → high-level, broad appeal, minimal technical depth, Iman's preferred format = **bullet points** (not word-for-word teleprompter). Recorded conversational (e.g. car format).
-- **30–40 min technical deep-dive** → mechanism breakdown, specific numbers, examples, "why" behind recommendations. Word-for-word teleprompter + accompanying visual asset (Canva, Miro overlay, foam board).
+- **Tutorial/masterclass** — more explanatory, more examples, more breakdown of mechanisms and substeps.
+- **Case study/authority** — tighter, more like a mini VSL, diagnosis → mistakes → commercial consequences → solution → transformation → systemisation.
 
-You decide format and outline depth based on this. Claude is told the brief and structure — never a length target.
+Runtime can inform the operator's own scope decisions, but it should not be given to Claude as a length target.
 
 ---
 
-## STEP 4 — Build the outline manually
+## STEP 4 — Build the outline manually, LEGO FIRST
 
-Manual step. Don't delegate this to Claude.
+This is a human step. Do not delegate final sequencing to AI.
 
-Use this exact structure, in this order:
+### 4a. Brain-dump core Lego pieces
 
-1. **Introduction**
-2. **Present Packaging** (the framework / system / criteria you're teaching, named in a memorable container — "5 Rungs on a Value Ladder", "The Lazy Model Criteria", "8 Stages of Toxic Culture", etc.)
-3. **Main Content / Body Points** (in chronological order, every specific point you want covered)
-4. **Outro** (+ CTA if applicable)
+Before explaining anything, list the candidate chapter-level ideas in short form. Usually 4–6 core Whats is enough for a focused video, but the number follows the idea, not a quota.
 
-Under each section heading, brain-dump bullet points covering every specific point you want addressed — **in the exact order you want Claude to write them**. AI gets sequencing wrong if left to its own judgement.
+**Do not explain while brainstorming.** Capture the pieces first.
 
-**Operator pro-tip:** Use Wispr Flow (or any voice-to-text) to talk through bullets instead of typing. Faster, more natural, more detail. Tidy the structure after.
+### 4b. Add Point Zero if needed
 
-The outline is what gets pasted into the context prompt at Step 5.
+Ask, what must the viewer understand before Point One so they interpret the rest correctly?
+
+Point Zero can be:
+- a worldview or business-objective choice
+- a limiting-belief break
+- a "who this is for / not for" filter
+- a framework for seeing the problem differently
+
+If no such context is needed, skip it.
+
+### 4c. Reorder until the sequence connects naturally
+
+Treat the Whats like Lego blocks. Move them around until each point creates the need for the next.
+
+**Connection test:** if two points require a long forced transition, the order is probably wrong, or one point should be cut. Strong transitions usually carry one real relationship in one sentence.
+
+### 4d. Expand each What with What / Why / How diagnostics
+
+Use What, Why, How as a planning lens:
+
+- **What** — the actual chapter-level idea
+- **Why** — why it matters, why it is true, what belief or cost makes it important
+- **How** — how it works, what the sequence is, what it looks like, what the viewer does next
+
+Do not force equal depth. A big Why can use a story or longer explanation. A mini Why may be one sentence.
+
+A strong Why is not automatically a new chapter.
+
+A How may contain smaller Whats or substeps. Those can be numbered 4.1, 4.2, 4.3 without giving every substep a full recursive chapter.
+
+### 4e. Separate context from Why by position
+
+If explanatory material comes **before** the What, it is usually context/setup. If it comes **after** the What and explains importance, it is usually the Why.
+
+### 4f. Build targeting into the examples and phrasing
+
+Do not assume targeting requires a new framework. Often the same mechanism can serve a broad or niche audience through different pains, gains, examples, proof, and phrases.
+
+For content ideation, mine real client language, for example a pain/gain list taken from calls, messages, objections, and desired outcomes.
 
 ---
 
 ## STEP 5 — Open a new Claude chat & give the context prompt
 
-Open a fresh Claude chat (Sonnet 4.6 Extended). Paste the full context prompt — see `reference/context-prompt.md` for the exact template.
+Use `reference/context-prompt.md`. Include the creator-owned Lego outline, not an AI-invented chapter list.
 
-The context prompt has 3 blocks:
-
-1. **Video details** — title, channel + ICP description, brief from the user (paste verbatim).
-2. **Campaign context** — campaign objective, narratives to instil with psychological purpose, unique mechanism + contributor.
-3. **Script structure & outline** — packaging, full outline with bullet points per section.
-
-End the context prompt with this exact instruction (do not paraphrase):
-
-> *"Analyse everything I've given you in-depth. Think two, three layers deeper about what I'm actually trying to achieve with this script, not just a surface-level understanding of the content. Once you've finished your analysis, wait for further instruction before continuing."*
-
-This single instruction dramatically increases output quality. Claude defaults to mindless logical execution; this forces critical thinking.
-
-Wait for Claude's analysis. Read it. If it's missed something material, correct it before moving on. **Do not start scripting yet.**
+End with the established "analyse two, three layers deeper, then wait" instruction.
 
 ---
 
-## STEP 6 — Load reference material (still no scripting)
+## STEP 6 — Load reference material and build the research bible
 
-Before requesting a single line of script, give Claude reference material:
+Before requesting polished prose, load reference material.
 
-### 6a. High-performing scripts on the same topic
-Search YouTube for the title (or close variants). Find 2–3 videos on the same topic with strong performance. Download the transcripts. Paste them into the chat with this framing:
+### 6a. Competitor transcripts
 
-> *"This is a transcript of a high-performing video on the same topic. It got [X] views / [X] engagement. Analyse why you think this performed well. I do NOT want you to copy any content from this — use it only as an example of the format, depth, tone, and structural cues I'm aiming for."*
+Use 2–3 strong competitor transcripts on the same problem, but change the job you give AI.
 
-Examples teach format + tone + structure simultaneously, which instructions can't.
+Do **not** ask it to write the final script from those transcripts.
 
-### 6b. The creator's natural speaking style
-Find transcripts where the on-camera person is speaking off-the-dome (not reading a script). Podcast interviews and unscripted Looms work great. Paste them with:
+Ask it to extract a research bible containing:
+- competitor Whats
+- competitor Whys
+- competitor Hows
+- examples and proof
+- claims and assumptions
+- recurring advice
+- objections they answer
+- advice or beliefs the creator agrees with
+- advice or beliefs the creator disputes
 
-> *"This is a transcript of [name] speaking naturally, not from a script. Analyse their vocabulary, word choices, sentence construction, cadence, and how they explain concepts. The script you write must match this voice."*
+Then the expert chooses what survives inside the already chosen architecture.
 
-### 6c. (Optional) Research mode
-Use Claude's research / web-search tooling to pull current stats, examples, proof points, and credible sources on the topic. More ammunition for the script.
+Competitor content is raw material and a belief map, never something to copy.
+
+### 6b. Creator's natural speaking style
+
+Load unscripted transcripts and analyse vocabulary, sentence construction, cadence, analogies, and explanation style.
+
+Preserve distinctive language when the intended viewer understands it. Simplify confusing technical wording, not personality.
+
+### 6c. Research mode
+
+Pull current stats, examples, proof, and credible sources as supporting ammunition.
+
+### 6d. Do not cram all research into one video
+
+Save strong unused supporting ideas for future videos. Research volume does not justify script bloat.
 
 ---
 
 ## STEP 7 — Write the script SECTION BY SECTION
 
-**Never ask for the whole script in one go.** Output quality collapses. Write in this exact sequence:
+Never ask for the whole script in one go.
 
+Sequence:
 1. Introduction
 2. Present Packaging
 3. Body Point 1
 4. Body Point 2
 5. Body Point 3
-6. … (continue per outline)
-7. Outro (+ CTA if applicable)
+6. Continue per outline
+7. Outro
 
-**For every new section after the first, paste the previously approved sections back into the chat** so Claude sees what's already covered. Without this, Claude repeats concepts, breaks flow, or treats the section as a standalone instead of a continuation.
+For every new section after the first, paste previously approved sections back into the chat.
 
-### 7a. Writing the Introduction
+### 7a. Introduction
 
-The intro is the most important part. First 30 seconds = stays vs clicks away.
+Use the existing intro rules in `reference/copywriting-structures.md` and `reference/coaching-feedback.md`.
 
-Pick ONE of two structures, based on which fits the video:
+Skip generic introductions. Get into the content quickly.
 
-- **One-Sentence Persuasion** (Encourage dreams · Justify failures · Allay fears · Confirm suspicions)
-- **Hook → Break Belief → X-to-X → Credibility**
+Do not introduce technical language, framework names, or abstractions that the viewer has not yet been given enough context to understand.
 
-Then apply the **Boring Intro System** as constraints on top:
+### 7b. Present Packaging
 
-1. **Length cap: 3 short lines / 8 seconds max.** Viewers leave at 8s. AI is shrinking that to 5s.
-2. **Mirror the title in line 1.** The intro is part of the thumbnail+title — explicitly reference what the viewer clicked on so they confirm they're in the right video.
-3. **Spike curiosity HIGHER than the title did**, using one of: **cognitive-dissonance hook** (list known solutions, deny them, tease the real one) · **question hook** (ask what they've already wondered) · **fact hook** (surprising stat).
+Name the framework/system when it helps retention and clarity. Do not name every supporting observation as a framework. Packaging should organise the viewer's mental model, not turn the video into jargon.
 
-Banned in intros: listing things the viewer might have tried; origin story before the hook; generic "in this video I'll teach you…" openers.
+### 7c. Body points
 
-Full mechanics → `reference/copywriting-structures.md`.
+Use the locked body framework for that video, while using What/Why/How as an architecture diagnostic.
 
-**Before drafting any intro, also open `reference/intro-style-bank.md`** — a bank of 7 verified intros (Dan Martell + Ed Lawrence) tagged with pattern shape (Compressed Structure 1 / Paradigm-Shift Hook / Reframe + Delayed-Credibility / Question + Data Flex / Hyperbole + Immediate Dive / Structure 1 + Extended Analogy). Pick the matching pattern, read the exemplar, draft to match its beat sequence in Lauren's voice.
+For existing Kyle-style videos, the **Value Loop remains Context → Application → Framing**.
 
-Three non-negotiables for every intro, regardless of structure:
+For Benji-style tutorial planning, use What → Why → How internally to make sure no chapter is missing the reason or mechanism.
 
-1. **Meet expectations fast** — Boring Intro Rule 2.
-2. **Exceed expectations** — Boring Intro Rule 3.
-3. **3 lines / 8 seconds** — Boring Intro Rule 1.
+Do not mechanically rewrite every Value Loop into What/Why/How prose. These frameworks serve different layers.
 
-### 7b. Writing the Present Packaging section
+### 7d. Connections
 
-Name the framework/system/criteria in a memorable container and introduce it.
+Transitions must portray a real relationship.
 
-**Drive retention through opening + closing loops.**
-- Open a loop (promise something you'll explain later — "the third one is the one that changes everything").
-- When you close it, immediately open another.
-- Keep something always-unresolved so they keep watching.
+A good transition closes the previous mental task and opens the next one. If you need several lines of generic glue, revisit the order.
 
-### 7c. Writing each Body Point — the Value Loop
+### 7e. Use examples deeply
 
-Every body point follows the **Value Loop**: Context → Application → Framing.
+One strong example can be better than five thin points. A substantial example may run for several minutes if it keeps revealing useful information and driving the thought process.
 
-| Step | What it does |
-|---|---|
-| **Context** | Say what it is. Explain it as simply as possible. Clear, concise, digestible. |
-| **Application** | Say *how to do it*. Use as many relevant examples as needed. Tactical enough they can act on it. |
-| **Framing** | Say *why this matters*. Show how it fits the overall puzzle. Help them zoom out and see why it's worth continuing to watch. |
+Use "lay it up, then dunk": create the question, gap, contradiction, or setup first, then resolve it with the story, example, or explanation.
 
-This zoom-out → zoom-in → zoom-out wave matches how the brain processes information — surface facts first, then inference, then connection back to the big picture.
+Do not automatically shorten a long analogy that is doing real cognitive work.
 
-Full mechanics + examples → `reference/copywriting-structures.md`.
+### 7f. Protect proprietary implementation without becoming vague
 
-### 7d. Writing the Outro
+When full implementation would expose too much paid IP:
 
-Recap the transformation. Reassert the unique mechanism. Add CTA only if the campaign calls for it (warm-up video → soft CTA or none; lead-capture-period video → explicit CTA to event/VSL/opt-in).
+1. Teach the principle.
+2. Explain why it works.
+3. Show a specific case, output, before/after, or transformation.
+4. Describe what the process looks like at a high level, a "bigger What".
+5. Keep the detailed implementation for the product or a later video.
+
+The viewer must still receive a belief shift, diagnostic, decision rule, concrete example, or usable next action.
+
+### 7g. Case study / authority mode
+
+Prioritise business outcomes over vanity metrics when the commercial result is the real authority proof.
+
+Case study flow:
+1. Before state, audience/revenue/business situation
+2. What they were doing wrong, with actual examples
+3. Why those mistakes mattered commercially
+4. Exact operational consequences, money wasted, sales team time wasted, leads lost, team member quitting, conversion friction, etc.
+5. The solution / new frame
+6. What changed
+7. Result / transformation
+8. How it became systemised or repeatable
+
+Avoid vague emotional filler such as "she felt frustrated" when a specific consequence can be shown.
+
+A case study can use a "bigger What" to explain the funnel or process without teaching every implementation detail.
+
+### 7h. Commentary / response mode
+
+Competitor advice can be used to identify beliefs already top of mind. The value comes from the expert response:
+- what is right
+- what is wrong
+- what is incomplete
+- what context is missing
+- what the creator has seen in practice
+
+Do not present copied competitor ideas as original expertise. The originality must come from the creator's judgement, nuance, evidence, and experience.
+
+### 7i. Outro
+
+Recap the transformation. Reassert the mechanism. Use a chain CTA to the next video when the next video genuinely continues the How.
 
 ---
 
-## STEP 8 — The review loop
+## STEP 8 — Review loop
 
-After every section Claude writes:
-
+After every section:
 1. Read it.
-2. If good → say "approve, continue with [next section]" and paste prior approved sections.
-3. If something's off → use one of the **word-tracks** in `reference/word-tracks.md` to correct.
-
-The most common corrections are for AI punchiness, formulaic transitions, and AI-jargon. The peeling-onion word-track and the "stop using AI jargon, structures, phrases, formulaic copywriting structures and clichés" word-track are the workhorses.
-
-By body point 3+, Claude has compounded enough learning that later sections need much less editing. **This is why one-chat-only matters.**
+2. Approve or correct.
+3. Use `reference/word-tracks.md` where needed.
+4. If a change alters architecture, go back to the Lego outline. Do not bolt new sections onto a broken sequence.
 
 ---
 
 ## STEP 9 — Quality control gate
 
-Before finalising, run the script through the 7-question checklist in `reference/quality-checklist.md`:
+Run the existing quality checklist, banned-language sweep, plus this outline/body audit:
 
-1. Does this script create an irreversible identity transformation?
-2. Would someone reading this teleprompter sound natural?
-3. Does each sentence enable the next one (peeling onion)?
-4. Are we building knowledge chronologically, not jumping around?
-5. Have we removed all AI gimmick phrases and copywriting clichés?
-6. Is the transformation journey specific to THIS audience, not generic?
-7. Does the withheld information create leverage without feeling manipulative?
+| Check | Pass condition |
+|---|---|
+| Human architecture | The creator chose the core Whats, AI did not invent the final chapter list |
+| Lego pass | Core pieces were collected before being expanded |
+| Point Zero | Added only if the viewer needs a frame or belief reset first |
+| Sequence | Each point naturally creates the need for the next |
+| Connection quality | Transitions portray a real relationship, not filler |
+| Why discipline | Strong Whys remain nested unless they truly deserve a separate chapter |
+| Depth discipline | Mini Whats and bigger Whats explain systems without needless recursion |
+| Competitor use | Competitors supplied research and beliefs, not copied content |
+| Expert authorship | Contrarian/corrective points reflect creator judgement, nuance, proof, or lived experience |
+| Example depth | At least one example is concrete enough to carry the abstraction |
+| IP balance | Real value without unnecessary proprietary implementation disclosure |
+| Targeting | Phrasing, examples, and proof make the intended viewer recognise themselves |
+| Natural voice | Clear without flattening the creator's distinctive speech |
+| Case study specificity | Commercial outcome and operational before-state beat vanity metrics and generic emotion |
 
-**Then run the banned-language sweep** → `reference/banned-ai-language.md`. Grep / scan for every banned word and phrase. Rewrite any hit.
-
-If the script can't pass the gate, it's not done.
+Any fail means revise before finalising.
 
 ---
 
 ## STEP 10 — Trim length manually
 
-Now (and only now) decide if the script is too long. **Trim manually.** Remove sections that don't earn their place. Do NOT ask Claude to "shorten it" — Claude can't discern what's valuable to the viewer and will cut the wrong things.
+Trim manually after the full script is structurally sound. Do not ask Claude to "shorten it" indiscriminately.
+
+Cut:
+- weak Lego blocks
+- duplicated Why sections
+- forced transitions
+- examples that do not add new understanding
+- tactical branches better saved for future videos
 
 ---
 
-## Non-negotiable rules (locked)
+## Non-negotiable rules
 
 | # | Rule |
 |---|---|
 | R1 | Never tell Claude the script length. |
-| R2 | One script = one chat. Never start a new chat partway through. |
+| R2 | One script = one chat. |
 | R3 | Always paste prior approved sections before requesting the next. |
-| R4 | Always end the initial context prompt with the "two-three layers deeper / wait for further instruction" line. |
-| R5 | Manually build the outline — never delegate sequencing to Claude. |
-| R6 | Section-by-section writing only — never request the full script in one go. |
-| R7 | Intro must meet expectations within the first lines AND exceed them. |
-| R8 | Body points use the Value Loop (Context → Application → Framing). ONE body point = ONE complete loop. A section teaching N distinct ideas = N body points = N loops, each with its own Framing — never stack teaching points under a single Framing. Run the body-point pre-delivery audit before sending. |
-| R9 | Packaging section uses opening + closing loops continuously. |
-| R10 | Run the banned-language sweep before finalising. Every hit gets rewritten. |
-| R11 | Trim manually. Never ask Claude to shorten. |
+| R4 | Always end the initial context prompt with the "two-three layers deeper / wait" instruction. |
+| R5 | Human expert owns the core chapter architecture. |
+| R6 | Lego first, prose second. |
+| R7 | Section-by-section writing only. |
+| R8 | Intro must meet expectations quickly and exceed them. |
+| R9 | Use Point Zero when the viewer needs a new frame before tactics. |
+| R10 | Use What/Why/How as a planning diagnostic, not a rigid replacement for existing body frameworks. |
+| R11 | A powerful Why is not automatically a new chapter. |
+| R12 | Good transitions carry meaning and are usually one sentence. |
+| R13 | Competitor transcripts are research material and belief maps, never copy sources. |
+| R14 | Preserve authentic voice while removing cognitive load. |
+| R15 | Case studies prioritise commercial outcomes and specific operational consequences. |
+| R16 | Protect proprietary implementation with principles, examples, visible outputs, and bigger Whats, not empty vagueness. |
+| R17 | Save strong unused research for future videos. |
+| R18 | Run the banned-language sweep and full quality gate before finalising. |
+| R19 | Trim manually. |
 
 ---
 
 ## Reference files
 
-- [`reference/intro-style-bank.md`](reference/intro-style-bank.md) — **bank of 7 verified intros** (Dan Martell + Ed Lawrence, full transcripts) tagged with pattern shape + beat maps + when-to-use notes. Read before drafting any intro.
-- [`reference/context-prompt.md`](reference/context-prompt.md) — the exact opening prompt template
-- [`reference/channel-strategy.md`](reference/channel-strategy.md) — single / dual / multi-channel framework (Ed Lawrence + Iman). Decision tree before scripting.
-- [`reference/packaging-workflow.md`](reference/packaging-workflow.md) — Target → Pain → Title → Thumbnail order. **Required STEP before drafting any title.** Includes Mr Beast principle + 1-in-10 outlier rule + redirect-at-end rule.
-- [`reference/title-formulas.md`](reference/title-formulas.md) — verified outlier title formula bank. **Pick from here. Don't invent.** B1-B10 (broad/Channel 1) + N1-N6 (narrow/Channel 2) + parenthetical qualifiers + anti-formulas.
-- [`reference/thumbnail-design.md`](reference/thumbnail-design.md) — thumbnail principles + concepts catalog + 13 design principles + Iman A/B test breakdowns + per-channel style locks.
-- [`reference/ab-testing-protocol.md`](reference/ab-testing-protocol.md) — thumbnailtest.com (NOT TubeBuddy) + CTR×AVD metric + first-24h diagnostic + iteration cadence.
-- [`reference/narratives-and-channels.md`](reference/narratives-and-channels.md) — 3 channels + 4 narratives explained
-- [`reference/copywriting-structures.md`](reference/copywriting-structures.md) — intro structures (incl. Boring Intro System), packaging loops, Value Loop
-- [`reference/word-tracks.md`](reference/word-tracks.md) — Kyle's exact correction prompts (peeling onion, anti-AI-jargon, etc.)
-- [`reference/banned-ai-language.md`](reference/banned-ai-language.md) — the comprehensive banned-words list
-- [`reference/quality-checklist.md`](reference/quality-checklist.md) — final gate before finalising (incl. per-video tracking discipline)
-- [`reference/post-production-and-editor-handoff.md`](reference/post-production-and-editor-handoff.md) — editor brief template (Adrien/Iman team) + AI-on-screen style + thumbnail brief discipline + retention-curve post-publish loop + packaging-change tracking. Use for every video handoff to an editor.
-- [`reference/coaching-feedback.md`](reference/coaching-feedback.md) — **living log of feedback from Lauren's weekly Educate.io coaching calls. Most current source of truth — overrides older guidance on conflict.** Read before any intro/title/packaging work.
-- [`reference/problem-mechanism-intro.md`](reference/problem-mechanism-intro.md) — **how to open a video by leading with the mechanism of the PROBLEM before the solution.** Coined-name move + 5-part scaffold + audience-sophistication rule + worked example (Lauren's SCALE / "the Hidden Variable") + 3 ICP variations. Use whenever the video's ICP is **problem-aware**. Pattern from Luis (Educate.io), 2026-05-21.
-- [`reference/state-cost-application-rule-framework.md`](reference/state-cost-application-rule-framework.md) — **canonical 4-part structure for criteria-list body points (N things to check, N signs of X, N rules of Y).** STATE / COST / APPLICATION / RULE per criterion, with Setup-Framework Alignment rule + Analogy Test + Growth-Dynamics Logic + two-kinds-of-X universal opener + worked example (Lauren's 5-Star Client). Pattern from Kyle Denyssen (Educate.io), 2026-05-24.
-- [`reference/post-coaching-revision-workflow.md`](reference/post-coaching-revision-workflow.md) — **how to incorporate coaching feedback into a script that's already been filmed** without binning all the footage and refilming from scratch. Covers Path A/B/C decision, the Substance-Match Rule, VO-Only Retrofit Mode (when face-to-camera can't be matched), multi-agent QA pattern (2 coach-fidelity + 1 editor-usability), B-roll quality bar, **Echo Audit** (catching repetition between assembled beats), **Splice-Opportunity Audit** (face-time-from-existing-footage technique for VO-only mode), and skeleton templates for the Final Edit Script + Editor Brief + Cover Note + Recording Checklist. Use whenever a coach reviews a filmed script and recommends structural changes. Built from the 2026-05-24 Kyle revision.
+- `reference/intro-style-bank.md`
+- `reference/context-prompt.md`
+- `reference/channel-strategy.md`
+- `reference/packaging-workflow.md`
+- `reference/title-formulas.md`
+- `reference/thumbnail-design.md`
+- `reference/ab-testing-protocol.md`
+- `reference/narratives-and-channels.md`
+- `reference/copywriting-structures.md`
+- `reference/word-tracks.md`
+- `reference/banned-ai-language.md`
+- `reference/quality-checklist.md`
+- `reference/post-production-and-editor-handoff.md`
+- `reference/coaching-feedback.md`
+- `reference/problem-mechanism-intro.md`
+- `reference/state-cost-application-rule-framework.md`
+- `reference/post-coaching-revision-workflow.md`
+- `reference/benji-live-scripting-2026-08-28.md` — live 28 Aug refinements covering Lego-first outlining, Point Zero, What/Why/How diagnostics, meaningful transitions, AI competitor research bible, example depth, proprietary-IP depth control, targeting through phrasing/examples, authentic voice, self-selection matrices, and authority case study mode.
 
 ---
 
-## End-to-end runbook (compressed)
+## End-to-end runbook
 
-```
-0. Preflight: title, channel, brief format, campaign context, narratives, mechanism+contributor confirmed.
+```text
+0. Preflight, title, target, channel, video type, business outcome, campaign context.
 1. Capture brief verbatim.
-2. Lock campaign objective + which narratives to instil.
-3. Decide length/depth (do NOT tell Claude).
-4. Manually build outline: intro / packaging / body points (chronological) / outro.
-5. Open Claude Sonnet 4.6 Extended → paste context prompt (3 blocks + "2-3 layers deeper" closer).
-6. Load reference: high-performing transcripts (2-3) + creator natural-speech transcript + optional research.
-7. Section by section:
-   a. Intro (One-Sentence Persuasion OR Hook→Break Belief→X-to-X→Credibility; meet + exceed)
-   b. Packaging (open/close loops)
-   c. Each body point via Value Loop (Context → Application → Framing)
-   d. Outro (+ CTA if campaign requires)
-   → after each section, paste all approved prior sections before requesting the next
-   → use word-tracks to correct AI punchiness as it appears
-8. Review loop: approve / rewrite section by section.
-9. Quality control gate (7 questions + banned-language sweep).
-10. Manual length trim. Done.
+2. Lock objective + narratives.
+3. Decide tutorial vs case study depth privately, never prompt runtime.
+4. LEGO FIRST, creator chooses core Whats, add Point Zero if needed, reorder until transitions are natural, expand with Why/How.
+5. Open one Claude chat, paste context prompt + creator-owned outline.
+6. Load competitor transcripts + natural voice + research, build a research bible, not a copied script.
+7. Write section by section, intro, packaging, each body point, outro.
+8. Review each section, return to architecture if flow breaks.
+9. Run Kyle quality gate + Benji outline/body audit + banned-language sweep.
+10. Trim manually, save unused strong ideas for future videos.
 ```
