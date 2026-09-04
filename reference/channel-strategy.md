@@ -146,8 +146,45 @@ Use a simple Google Sheet or Notion table — one row per video, columns for the
 
 For Lauren Tickner specifically (locked 2026-05-02, deepened across the strategy session):
 
+### 🛑🛑 STRATEGY SUPERSEDED 2026-06 — READ FIRST (full doc: `Desktop/youtube-strategy/STRATEGY-2026-06-new-channel.md`)
+
+The whole channel strategy pivoted. **Everything below about "$20k/mo coaches," the "scale 6-fig coaches to 7" positioning, and the @LaurenTickner channel is SUPERSEDED.** The current strategy:
+
+- **NEW channel** (not @LaurenTickner — that's left as the failing legacy channel). Audit the old channel + migrate any on-ICP videos to seed the new one.
+- **ICP: established online experts/creators ~$1M+/yr** who already have an audience + offer. NOT beginners, NOT "$20k/mo coaches." They already post/run ads/close leads; they want to sell MORE from the goldmine they're sitting on.
+- **ICP LANGUAGE LOCK — never "coach."** This audience does NOT self-identify as coaches. They are **experts / strategists / business owners / entrepreneurs / creators / founders.** Never address the viewer as "coach" in titles, hooks, or body. "Coaching" only appears as a product *category* being critiqued (e.g. "coaching programs"), never the viewer's identity. (This supersedes the older "✅ Use: coaches" ICP-language note further down — that was for the old @LaurenTickner beginner channel.)
+- **Positioning:** "the sales & marketing operator established creators come to, to sell more from their existing audience + offer." Lead with expertise. Keep the numbers (£100k/mo organic, Foundr +$100k/mo), drop the "personal-brand-founder-who-scaled-coaches" story.
+- **Comparable / format models — Natasha Willis** (DM funnels, ~20k subs): the niche is wide open, almost no women in it. **Model her sophisticated content only** — two positive models: (1) *"$725K in 90 Days"* (`tJ5D_ozmIoQ`) = **specific-mechanism content** — a hard result tied to ONE named mechanism (Lauren-flagged as a cool concept to run; title pattern "[$ result] In [timeframe] With [one mechanism]"); (2) *"How I Made My Clients $76M With DM Funnels (COPY THIS)"* (`f_HlHlpm38g`, 51 min, client-proof-driven) = case-study FORMAT to model. Keep the channel ruthlessly niche (don't drift top-of-funnel like her channel did) — niche-ness is the exclusivity thesis.
+- **Tactical model bank — the depth bar (locked).** Match the tactical density of the only creators Lauren actually watches and rates: **Jeremy Haynes** (rarity/exclusivity data callouts + deep paid/sales tactics), **Cole Gordon** (content-first + operator-grade sales depth), **Eddie Maalouf** (aggressive, concrete paid/creative tactics), **Natasha Willis** (sophisticated content only). Every script must clear this bar: dense, concrete, operator-grade — a $1M+ viewer can act on it. Surface "tips" = wrong channel.
+- **Content-first, not outlier-first.** Audience → problem → genuine expertise, NOT someone else's viral video. But packaging STAYS important (Lauren parts ways with Cole here) — a strong title + thumbnail still decides the click; it just speaks to high-calibre $1M+ experts/founders, not broad views. Title-before-or-after-filming is case by case, not a fixed rule.
+- **Low views are a FEATURE** — engineer exclusivity (Haynes-style rarity data callouts, not copied). $1M+ viewer thinks "finally, my level"; beginner feels it's above them.
+- **Primary CTA: book a call about Scale Systems scaling their offers** (DFY/advisory — converts here because $1M+ viewers can afford it). **Secondary (soft) CTA: "message me [word] for [content upgrade]"** — a free content upgrade that VARIES per video. The woven soft step (Cole) that catches the not-yet-ready viewer and feeds the DM-sales process. Every script needs BOTH.
+- **Format + cadence: 2 videos/week (1 podcast + 1 dense solo), posted every TUESDAY + THURSDAY, mega consistent.** Launch Tues 7 July 2026 with 2 ready + 2 in the pipeline (always keep 2 queued so cadence never breaks). IG/FB are DOWN (banned) — repurpose to LinkedIn (55k, also the seeding engine) + X + YouTube only.
+- **Process: monthly ideation, approved 3 days before live.** Toros + Lauren run a MONTHLY planning session locking the next month's videos + publish dates + film-by/edit-by deadlines; every video + title + thumbnail approved ≥3 days before going live. No same-week scramble.
+- **Client work still works** — never let low views read as "her methods don't work." Lead with named receipts.
+
+STILL VALID below: Kyle's per-script structural rules, the DM-sales lane, the title formula bank (re-point at the new ICP), long-form-first / no-Shorts. STALE below: the $20k/m anchor, the Ed Lawrence dual-channel launch trio, the "coach scaling journey" framing, the methodology-deep-dive launch sequence.
+
+### ⚡ CONTENT LANE RE-ANCHOR — LOCKED 2026-06 (data-driven, supersedes "broad AI" framing)
+
+**Channel 1's lane is SALES: DM sales, closing without sales calls, booking sales calls, turning attention into high-ticket clients.** NOT AI-tool tutorials.
+
+**The data that forced this (channel scrape + LinkedIn cross-reference 2026-06):**
+- Channel median = 588 views, trending DOWN. Newest upload (the $20k SCALE methodology video) = 64 views.
+- Every one of Lauren's better-performing videos is sales / client-getting / no-sales-calls:
+  - "Watch This If You're New To Online Coaching" — 13,494 (all-time hit)
+  - "How I Book 10+ Sales Calls Daily For $0" — 2,033
+  - "How to Sell High Ticket Without Sales Calls" — 1,660
+  - "Content Repurposing for 100+ Coaching Leads" — 1,417
+- Underperformers cluster in the AI-TOOL-TUTORIAL lane: "Create Coaching Presentations With Claude" (497), dense methodology like the $20k SCALE video (64).
+- **LinkedIn cross-reference:** Lauren's two biggest LinkedIn wins are BOTH DM-sales posts. The "$100,000 with 0 sales calls / DM Sales Process" post hit 316 reactions + 72 comments. DM sales is her best-performing theme on BOTH platforms.
+
+**Rule:** Channel 1 content leads with the SALES outcome (book calls / close in DMs / no sales calls / high-ticket clients). AI is the *mechanism inside* a sales video, never the *topic*. Park standalone Claude/Gemini tool-tutorials — they pull the wrong crowd and compete in a saturated lane.
+
+**Proven title phrase (validated on her own channel + LinkedIn):** *"Without Sales Calls"* / *"With 0 Sales Calls"*. Use it.
+
 ### Architecture
-- **Channel 1:** `@LaurenTickner` (existing, 40k subs). Broad AI / online-business content. Views-optimised. **DO NOT relaunch the handle** — dormant subs are an algo head-start asset (Priestley playbook).
+- **Channel 1:** `@LaurenTickner` (existing, 40k subs). **Lane = sales / DM sales / booking calls (re-anchored 2026-06, see above).** Views-optimised. **DO NOT relaunch the handle** — dormant subs are an algo head-start asset (Priestley playbook).
 - **Channel 2:** **Lauren Tickner Business** (new). Strategy 1 + 2. Operator content for online coaches scaling past $100k/m. Buyer-intent CTAs.
 
 ### Brand positioning — LOCKED 2026-05-02 (corrected from v11)

@@ -16,6 +16,7 @@ The default intro structure remains **Structure 1** (Hook → Break Belief → X
 4. **Question hook + data flex + multi-tease PREVIEW** — Ed Lawrence #2. Yes/no question → dramatic "I have the data" affirmation → multi-promise preview → credibility delayed via tool/method reveal.
 5. **Hyperbole hook + hype + immediate dive** — Ed Lawrence #3. Listicle format. Loose structure. Hook is paradigm-shift + creator's own awe. No explicit credibility beat. Tool 1 starts inside the second minute.
 6. **Structure 1 + extended teaching analogy** — Ed Lawrence #4. Full Structure 1, then an extended ANALOGY (the bar / two drinkers / whiskey) teaches the underlying tension before the system reveal. Pushes intro to ~2-3 min vs standard <60s — works when the analogy IS the belief-shift.
+7. **"Don't Give It Away" — withhold-the-mechanism hook** — Benji A/B teardown. The hook states the contrarian problem and withholds the answer; a good line that *is* the mechanism loses the viewer. The teaching contrast, not a single intro. Use as the rubric for every hook line.
 
 ---
 
@@ -193,6 +194,42 @@ All right, so step one of this system works like this. If I want to make sales, 
 4. It separates "this works for everyone" thinkers from "I'd rather get sales" thinkers — selecting for the right viewer for the rest of the video
 
 **When to use:** When the body's core thesis depends on the viewer holding a specific mental model (e.g. two-types-of-viewers / two-types-of-buyers). Don't try to argue them into the model — drop them in via story.
+
+---
+
+## Exemplar 8 — Benji teardown · "Don't Give It Away" (withhold-the-mechanism hook)
+
+**Pattern:** A/B critique. This is a *rubric*, not an intro to copy. Benji (Lauren's YouTube coach) compared two hooks for a LinkedIn-algorithm video and explained why one holds the viewer and one loses them. Full source: `reference/source-transcript-benji-hooks.md`.
+
+**Option A — holds the viewer (withholds the mechanism):**
+
+```
+Beating the new LinkedIn algorithm has nothing to do with posting more.
+I've grown to more than 55,000 followers on LinkedIn in under two years without spending a dime on ads,
+and I've helped hundreds of seven, eight and nine figure businesses generate tons of organic leads using the same method — by the end of the video you'll understand.
+```
+
+**Option B — loses the viewer (gives the mechanism away):**
+
+```
+Beating the LinkedIn algorithm is about understanding that every post you publish teaches the platform who to show you to.
+```
+
+**Beat map (Option A):**
+- HOOK — contrarian problem, mechanism withheld ("has nothing to do with posting more" — but never says what it IS about)
+- AUTHORITY — one concrete result cluster ("55K in under two years, no ads" + "hundreds of 7–9 figure businesses")
+- OPEN-LOOP PROMISE — "by the end of the video you'll understand" (explicitly defers the payoff to the body)
+
+**Why A wins / B loses:**
+- B's line is *true and sharp*, but it IS the mechanism. The loop closes inside the hook — the viewer thinks "oh, I get it" and leaves.
+- A keeps two engagement levers alive past the hook: **authority** (earns belief) and **open curiosity** (the answer is still owed).
+- B also fails on **trust**: a bare mechanism claim from a creator the viewer doesn't know yet is easy to dismiss ("I don't know you, I could trust it or not"). A proves authority *before* any reveal, so the mechanism lands on earned trust in the body.
+
+**Riders:**
+- If you must name the mechanism, hide it behind an **unexplained named container** — a new tool / method / branded name. Novelty drives curiosity; name it, don't explain it.
+- The **X-to-X** line names the *destination* ("from where you are to [end state]"), never the *method*. A fact hook or a too-helpful X-to-X is the most common way the mechanism leaks into the intro.
+
+**How to use:** run every hook draft through the A/B test — does the hook line *explain what it's actually about*? If yes, it's a B. Rewrite it to name the problem/contrarian claim and defer the mechanism to the body.
 
 ---
 

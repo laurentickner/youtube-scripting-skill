@@ -130,11 +130,29 @@ Confirming "yes, you're in the right video" only stops the viewer leaving. To ma
 
 Pick whichever hook type fits the video's content. The hook follows the title-mirror line and precedes the X-to-X / credibility lines.
 
+**Rule 4 — Don't give the mechanism away in the hook ("Don't Give It Away", Benji 2026-08-23).**
+
+The hook opens the loop; the **body** pays it off. The hook line itself must state the *problem* or a *contrarian claim* and **withhold the answer/mechanism**. The moment the hook explains *what it's actually about*, the curiosity gap closes — the viewer thinks "oh, I get it" and leaves.
+
+| | Hook line | Why |
+|---|---|---|
+| ✅ Keeps them watching | *"Beating the new LinkedIn algorithm has nothing to do with posting more."* | Names the contrarian problem, withholds what it IS about. Loop stays open. |
+| ❌ Gives it away | *"Beating the LinkedIn algorithm is about understanding that every post you publish teaches the platform who to show you to."* | A true, sharp line — but it IS the mechanism. Loop closes in the hook. |
+
+Three riders:
+
+1. **If you must reference the mechanism, hide it behind an *unexplained named container*** — a new tool / method / branded name ("a new method," "the [Name] system"). Novelty drives curiosity; name it, don't explain it. (Same logic as the acronym-packaging rule — don't reveal what's inside the container in the beat that introduces it.)
+2. **Two levers hold the viewer right after the hook: authority + open curiosity.** The authority beat ("I've helped hundreds of 7–9 figure businesses…") earns the right to be believed when the mechanism finally lands in the body.
+3. **Giving the mechanism away early also fails on trust.** A bare mechanism claim from someone the viewer doesn't know yet is easy to dismiss — "I don't know you, I could trust it or not." Withhold the mechanism, prove authority first, and the reveal lands on earned trust instead of a cold claim.
+
+> ⚠️ **Watch the fact hook and the X-to-X line especially.** A "fact hook" or a too-helpful X-to-X promise is the most common way the mechanism leaks into the intro. The X-to-X names the *destination* ("from where you are to [end state]"), never the *method* that gets them there. Full source: `reference/source-transcript-benji-hooks.md`.
+
 **Common intro mistakes the boring-intro system fixes:**
 
 - **Listing things the viewer might have tried** ("if you've tried X, Y, Z, A, B, C…"). After 1-2 items the viewer feels frustrated — they didn't click for a list of their failures. Cut these.
 - **Origin story before the hook.** "I spent 7 years doing X" type intros bury the hook past the 8-second window. Save the origin for credibility (Structure 2's beat 4) AFTER the hook lands.
 - **Generic openers** ("In this video, I'm going to teach you…") that don't mirror the title or spike curiosity. The viewer is one tap away from leaving.
+- **Giving the mechanism away in the hook** (Rule 4). If the hook line explains *what it's actually about*, the loop closes and they leave. Withhold the answer; the body pays it off.
 
 **Prompt to give Claude when applying the Boring Intro System on top of Structure 1 or 2:**
 

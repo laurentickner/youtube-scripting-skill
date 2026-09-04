@@ -4,6 +4,163 @@ Living log of feedback from Lauren's recurring weekly YouTube coaching calls wit
 
 ---
 
+## 2026-06-XX (b) — follow-up review calls (coach: Kyle Denyssen) — DM-sales scripts review
+
+Kyle reviewing Lauren's revised DM-sales scripts. New refinements on top of the earlier entries:
+
+### Don't announce the next sub-point — dangle the carrot
+When a body point has N sub-points, preface that there ARE N (open the loop), but do NOT name sub-point 2 while teaching sub-point 1. Naming what's coming kills retention. Teach point 1 fully, handle the "duh" objection ("and you're probably thinking, well, duh — but let me explain"), THEN reveal point 2. *"Dangle the carrot in front of their face."*
+
+### Open the framework loop early, THEN explain definitions
+If you must explain definitions/context before the framework the viewer came for, open the loop first: *"before I get into the [N-step process], you first need to understand [X]. Hold on with me, then we'll get to all the juicy stuff."* Sophisticated audiences especially want the tangible framework teased up front. Don't bury the framework behind unannounced definitions.
+
+### Tie the body opening back to the title/intro
+Open the body by referencing the outcome promised in the title/intro ("so you know exactly how to [title outcome]"), not a cold start into content.
+
+### Gold-vein topic — milk it (Luis's term)
+Once you find a topic that performs (across any platform), keep making content on it. For Lauren, DM sales / booking calls / closing in DMs is the gold vein — it works on every platform, so double down. *"As soon as you find a gold vein topic, literally milk it."*
+
+### Iman's packaging-theft process (how the team finds video ideas)
+Iman finds channels with the same demographic/audience, finds their 1M+ view videos, and steals the PACKAGING (title) — proven packaging. Then watches those videos, copies the STRUCTURE, and writes his own copy. *"Copy what's proven to work."* Use this to ideate when struggling with views: find videos already doing well from similar-niche creators, copy the structure, make it your own. (Note: structure/packaging modelling — original copy, not verbatim.)
+
+### Reuse a viral LinkedIn hook as the YouTube hook
+If a LinkedIn post went viral on a topic, reuse its exact hook as the video's hook. Lauren's "I've closed deals as big as $100k with zero sales calls" LinkedIn hook → use verbatim as the video hook, then build credibility from there. Stronger + already-validated.
+
+### Reduce-cognitive-load = the whole game (re-confirmed)
+Across both review calls, the single recurring fix was: preface + package clearly + hold their hand, rather than dumping. *"The thing that solves cognitive load is prefacing and the way you package it and hold the hand through it. Rather than just dumping."* Scripts are "very valuable, explained well — it's just getting the structure right."
+
+### Kyle's tools (re-confirmed): Notion for scripting, Natural Reader (TTS) for reviewing scripts faster.
+
+*Source: two follow-up Kyle review calls (DM-sales scripts), transcripts in Lauren's 2026-06 session.*
+
+---
+
+## 2026-06-XX — live call (coach: Kyle Denyssen, with Antonio Amaral) — $5k coaching video review
+
+**Reviewed:** Lauren's draft of *"How to charge $5,000+ for coaching clients without a big audience"* — intro options + first body point ("they're selling what they do" / positioning).
+**Transcript:** `/Users/laurentickner/Desktop/youtube-strategy/kyle-call-2026-06-XX-5k-coaching-feedback.md`
+
+### Universal rule: cognitive load = prefacing failure
+
+Kyle verbatim: *"The thing that solves cognitive load is prefacing and the way you package it and hold the hand through it. Rather than just dumping."*
+
+This is the single most important script principle in the whole skill. If a section feels muddy, the fix is almost always **preface earlier and harder** — not cut content.
+
+### Body-point structure (clarified)
+
+- **The OVERARCHING body point uses ONE framework** — pick Value Loop (Callaway) OR Foundation/Theory/Example/Practice (Luis/Brazilian-paid-event-creator). Different body points can use different frameworks.
+- **SUB-points inside a body point must follow a CONSISTENT mini-framework.** If body point A has 3 sub-points, all 3 follow the same shape (e.g. state-the-point / mini-example / mini-action-item).
+- **You CAN mix frameworks across body points** — what matters is that each individual body point + its sub-points are internally consistent.
+
+### Prefacing sub-points (the #1 cognitive-load fix)
+
+When a body point contains multiple sub-points, you MUST preface them before walking through. Pattern:
+
+> *"There are [N] things missing in her positioning. They are [A], [B], [C]. Let's go through each."*
+
+Then walk through them, in that order. **Never blabber through sub-points without prefacing.** Without the preface, the viewer is trying to figure out structure mid-explanation, which is the cognitive-load failure.
+
+Lauren's $5k script failure: in the positioning body point she jumped from price → testimonials → referrals without stating "positioning has three sub-things." Kyle's fix: name positioning, state the 3 sub-things upfront, then walk through.
+
+### State the PRINCIPLE first, not the surface habit
+
+Lauren's mistake: *"Let's start with the one anyone charging under $5,000 is doing wrong. They're selling what they do."*
+
+Kyle's correction: name the principle directly. The principle is **POSITIONING**. Then explain what positioning means using the surface habit ("describing what you do at surface level") as the illustration.
+
+Pattern:
+> *"Let's start with the first thing anyone charging under $5,000 is doing wrong. It comes down to one thing: positioning. Whenever you describe what you do, you describe yourself at surface level. Let me explain..."*
+
+The principle is the headline. The surface-habit description is the explanation.
+
+### Drop redundant analogies when an example does the same work
+
+Lauren had a flat-screen TV analogy AND the Meena Samara example, both illustrating the same point (commoditisation → price compression). Kyle: cut the TV analogy, go straight to Meena. Two illustrations of the same point doubles cognitive load and weakens both.
+
+**Rule:** if your example does the teaching, drop the analogy. If your analogy is doing the teaching and the example is just proof, keep the analogy and use the example as proof.
+
+### Body-point ordering — Callaway rule
+
+Kyle learnt this from Callaway. **NEVER put your most valuable body point first.**
+
+- **Body point 1 = SECOND most valuable** — sets a baseline of "this is good."
+- **Body point 2 = MOST valuable** — creates "this is even BETTER, keep watching" pattern.
+- **Body points 3-N** = structure as you please.
+
+Logic: viewers see point 1 (good), then point 2 (even better), then assume the pattern continues, so they stay. If you front-load the best point, everything after feels like a letdown.
+
+Application to current scripts: re-audit body order. Move the most valuable point to SLOT 2, not SLOT 1.
+
+### "Cool-name the framework" — naming convention
+
+Kyle: don't say "four things." Say *"four cardinal rules."* Give the framework a memorable name.
+
+Other examples Kyle/team use: "Value Ladder," "Lazy Model Criteria," "8 Stages of Toxic Culture." The cool name becomes the memorable container the viewer walks away with.
+
+For Lauren's $5k script: "Four Cardinal Rules" — locked.
+
+### When a body point is too dense
+
+Lauren's 4th body point on the $5k script = 9-step sales process. Too dense for the whole video.
+
+Three solutions Kyle / Antonio offered:
+1. **Condense to phases.** 9 steps → 4 phases (qualifying / nurturing / selling / onboarding).
+2. **Make it its own video.** CTA at the end: *"This is a high-level overview. If you want the full breakdown, I made a whole video on it — link below."*
+3. **Both** — condense to phases in this video + lead magnet / CTA to standalone video.
+
+Iman pattern Kyle referenced: *"I only have you for so long, and your attention spans are only so short, so this is a high-level overview. If you really want to know in depth, [lead magnet / next video]."*
+
+### Open loop in intro for the MOST valuable body point
+
+When body point N is the most valuable AND most dense, open a loop in the intro to prime focus:
+
+> *"The fourth one is the most valuable and the one I spent the most time on. Make sure you set aside time to actually listen when we get there, because it's going to make the biggest impact."*
+
+This is "anti-distraction priming" — call them out on their tendency to half-watch, force them to mentally commit to focusing when the key beat lands. Also accommodates viewers who skip ahead — they arrive in focus mode.
+
+### Step-by-step body points DON'T need unified mini-framework
+
+A genuinely step-by-step body point (e.g. 9-step sales process) doesn't need each step to follow the same mini-framework. The sequence IS the structure.
+
+What it DOES need: clear visuals on screen for each step. Editor's job. Don't try to over-package what's naturally sequential.
+
+### Soft CTAs — content angle worth teaching
+
+Antonio's add (which Lauren confirmed): teach WHY soft CTAs have lower sales resistance. Viewers know hard CTAs = ManyChat + setter follow-up = sales process. Soft CTAs feel like helpful resource-sharing.
+
+Pattern Lauren can use: *"The reason this works is hard CTAs are pattern-matched to sales pipelines now. Soft CTAs aren't. They land as 'this person is being helpful' not 'this person is selling.'"*
+
+### Process recap (Kyle's verbatim workflow)
+
+1. Receive brief — title alone, or title + write-up, or title + meeting transcript.
+2. Brain dump.
+3. Build the OVERALL packaging (the framework name + structure for the whole video).
+4. Build the PER-POINT packaging (the framework for each body point).
+5. Write body points (in order, applying value-loop or foundation/theory/example/practice).
+6. **Write the INTRO LAST.** Always.
+7. The intro always has: Hook + Credibility + Present Packaging (= Preview, same thing).
+
+### Terminology lock
+
+**Preview = Present Packaging.** Same beat. Kyle uses both terms interchangeably. The skill should treat them as one beat.
+
+### Intros are always the weakest beat
+
+Kyle's verbatim: *"introductions are going to need work, but I think they always need work."* Intros are NEVER nailed first-pass. Plan for 2-3 iterations.
+
+### Tools Kyle uses
+
+- **Notion** for scripting (prefers over Google Docs, "easier to segment thoughts")
+- **Natural Reader** (text-to-speech) for reviewing scripts faster
+
+### Cadence note
+
+Kyle going to Iceland for ~2 weeks. Lauren ships next script after he's back. No review calls during his trip.
+
+*Source: Live Zoom call ~2026-06-XX (date TBD), full transcript saved at `/Users/laurentickner/Desktop/youtube-strategy/kyle-call-2026-06-XX-5k-coaching-feedback.md`.*
+
+---
+
 ## 2026-06-01 — live call (coach: Kyle Denyssen, with Antonio Amaral on attendance)
 
 **Reviewed:** Two scripts — the $20k/m SCALE coaching video (Kyle's prior comments already applied, judged "in a much better position than it was when you first gave it to me") + the AI sales video draft *"How to Get So Many High-Ticket Clients with AI it feels ILLEGAL"*. Most actionable feedback was on the AI sales video intro and on cognitive load.

@@ -16,7 +16,7 @@ Formulas without verified exemplars are NOT in this file. If you find yourself w
 | **One promise per title** | Don't stack two outcomes. Pick the strongest. |
 | **Named tool > generic "AI"** | "Claude" / "ChatGPT" / "n8n" / "Cowork" beats "AI." Tools have search waves. |
 | **Specific number > round number** | "$36,438" beats "$36k". Odd specificity = credibility. |
-| **Brand voice respected** | Lauren's voice = all lowercase, brand names cased (Claude, Foundr, ChatGPT). "ONE" caps for emphasis is allowed. |
+| **Brand voice respected** | **YouTube titles = Title Case** (her actual channel uses it; locked correction — lowercase is her LinkedIn-body rule, NOT her YouTube rule). ALL CAPS for emphasis words ("ONE", "NEW") allowed. Brand names cased (Claude, Foundr, ChatGPT). Do NOT lowercase YouTube titles. |
 | **No emojis in title** | Thumbnail does the visual work. |
 
 If a draft title fails any of these, rewrite before checking the formula bank.

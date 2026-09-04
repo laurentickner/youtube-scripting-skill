@@ -33,6 +33,19 @@ Before any section is drafted:
 
 ---
 
+## Pre-flight: HOOK check — "Don't Give It Away" (Benji 2026-08-23)
+
+The hook line is the single highest-leverage line in the script. Run every hook variant through the A/B test before the intro is treated as done:
+
+- [ ] Does the hook line **explain what the video is actually about** (name the mechanism/answer)? If **yes → it's a losing hook (a "B"). Rewrite.** The hook states the *problem* or a *contrarian claim* and withholds the answer — the body pays it off.
+- [ ] Is there an **authority beat** right after the hook (one concrete result cluster), and does the hook defer the payoff ("by the end you'll understand")? Authority + open curiosity are the two levers holding the viewer past the hook.
+- [ ] If the mechanism is named at all, is it hidden behind an **unexplained named container** (new tool / method / branded name), not explained?
+- [ ] Does the **X-to-X** line name only the *destination*, never the *method*? (Fact hooks and too-helpful X-to-X lines are how the mechanism leaks in.)
+
+Full rule + worked A/B example: `reference/copywriting-structures.md` (Rule 4) and `reference/intro-style-bank.md` (Exemplar 8).
+
+---
+
 ## The 7 questions
 
 ### 1. Does this script create an irreversible identity transformation?
