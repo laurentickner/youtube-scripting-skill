@@ -84,20 +84,18 @@ If the viewer will misinterpret the tactics without a worldview reset, limiting-
 Before any script work, confirm with the user:
 
 1. **Title** — exact video title.
-2. **Channel architecture** — single, dual, or multi-channel?
-3. **Channel persona** — Main / Business / Extended or equivalent.
-4. **If Channel 2:** which strategy?
-5. **ICP qualifier** — for buyer-intent content, the title must contain or strongly imply the ICP.
-6. **Packaging workflow — Target → Pain → Title → Thumbnail.**
-7. **Title formula** — pick from `reference/title-formulas.md`, do not invent without saying no formula fits.
-8. **Thumbnail concept** — use `reference/thumbnail-design.md`.
-9. **A/B test plan** — use `reference/ab-testing-protocol.md`.
-10. **Brief format** — title only, title + bullets, title + meeting transcript, etc.
-11. **Campaign context** — objective, offer context, desired action.
-12. **Narratives** — attention, validation, democratization, timing where relevant.
-13. **Unique mechanism + contributor**.
-14. **Video type** — tutorial/masterclass, case study/authority, commentary/response, or other.
-15. **Primary business outcome** — where relevant, decide whether the video is optimising for revenue/client acquisition, fame/brand, reach, or another goal. Do not let vanity metrics silently dictate the script.
+2. **Channel persona** — Main / Business / Extended or equivalent.
+3. **ICP qualifier** — for buyer-intent content, the title must contain or strongly imply the ICP.
+4. **Packaging workflow — Target → Pain → Title → Thumbnail.**
+5. **Title formula** — pick from `reference/title-formulas.md`, do not invent without saying no formula fits.
+6. **Thumbnail concept** — use `reference/thumbnail-design.md`.
+7. **A/B test plan** — use `reference/ab-testing-protocol.md`.
+8. **Brief format** — title only, title + bullets, title + meeting transcript, etc.
+9. **Campaign context** — objective, offer context, desired action.
+10. **Narratives** — attention, validation, democratization, timing where relevant.
+11. **Unique mechanism + contributor**.
+12. **Video type** — tutorial/masterclass, case study/authority, commentary/response, or other.
+13. **Primary business outcome** — where relevant, decide whether the video is optimising for revenue/client acquisition, fame/brand, reach, or another goal. Do not let vanity metrics silently dictate the script.
 
 **Hard rules locked at preflight:**
 
@@ -409,7 +407,6 @@ Cut:
 
 - `reference/intro-style-bank.md`
 - `reference/context-prompt.md`
-- `reference/channel-strategy.md`
 - `reference/packaging-workflow.md`
 - `reference/title-formulas.md`
 - `reference/thumbnail-design.md`
